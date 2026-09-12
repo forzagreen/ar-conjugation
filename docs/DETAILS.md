@@ -1,4 +1,4 @@
-# ar-verbs — technical details
+# ar-conjugation — technical details
 
 ## Files
 

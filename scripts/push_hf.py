@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """Mirror data/ and the dataset card to Hugging Face.
 
-    HF_TOKEN=hf_... uv run --with huggingface_hub scripts/push_hf.py [--repo forzagreen/ar-verbs]
+    HF_TOKEN=hf_... uv run --with huggingface_hub scripts/push_hf.py [--repo forzagreen/ar-conjugation]
 
 GitHub is canonical; this copies data/jsonl, data/csv, data/json and README.md
 into the dataset repo, creating it (public) if it does not exist. Run after
@@ -17,7 +17,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
-    ap.add_argument("--repo", default="forzagreen/ar-verbs")
+    ap.add_argument("--repo", default="forzagreen/ar-conjugation")
     ap.add_argument("--message", default="Update dataset")
     args = ap.parse_args()
     token = os.environ.get("HF_TOKEN")

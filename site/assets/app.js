@@ -1,4 +1,4 @@
-// ar-verbs browsing page: loads data/json/verbs.json and errata.json, lets the
+// ar-conjugation browsing page: loads data/json/verbs.json and errata.json, lets the
 // reader search and filter the 462 paradigms, and shows one as the book prints it.
 (function () {
   "use strict";
@@ -155,9 +155,9 @@
     var cur = document.documentElement.dataset.theme || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
     var next = set || (cur === "dark" ? "light" : "dark");
     document.documentElement.dataset.theme = next;
-    try { localStorage.setItem("ar-verbs-theme", next); } catch (e) { /* ignore */ }
+    try { localStorage.setItem("ar-conjugation-theme", next); } catch (e) { /* ignore */ }
   }
-  try { var saved = localStorage.getItem("ar-verbs-theme"); if (saved) theme(saved); else if (matchMedia("(prefers-color-scheme: dark)").matches) theme("dark"); } catch (e) { /* ignore */ }
+  try { var saved = localStorage.getItem("ar-conjugation-theme"); if (saved) theme(saved); else if (matchMedia("(prefers-color-scheme: dark)").matches) theme("dark"); } catch (e) { /* ignore */ }
   $("#theme").addEventListener("click", function () { theme(); });
 
   chips($("#forms"), FORMS.map(function (f) { return [f, f]; }), "form");

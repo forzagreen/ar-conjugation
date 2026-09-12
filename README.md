@@ -1,7 +1,7 @@
 ---
 language:
 - ar
-pretty_name: Arabic verb conjugation tables (ar-verbs)
+pretty_name: Arabic verb conjugation tables (ar-conjugation)
 tags:
 - arabic
 - morphology
@@ -17,7 +17,7 @@ configs:
   data_files: csv/conjugations.csv
 ---
 
-# ar-verbs — Arabic verb conjugation tables
+# ar-conjugation — Arabic verb conjugation tables
 
 <div dir="rtl">
 
@@ -27,7 +27,7 @@ configs:
 
 A reference dataset of **462 fully conjugated Arabic verb paradigms** — **15,549 inflected forms** — transcribed from the standard reference on the subject, أنطوان الدحداح, *معجم تصريف الأفعال العربية* (Antoine El-Dahdah, *A Dictionary of Arabic Verb Conjugation*, Librairie du Liban, 6th ed. 2007), and verified cell by cell. Every form was checked against an independent conjugation engine ([`Module:ar-verb`](https://ar.wiktionary.org/wiki/وحدة:ar-verb) on Arabic Wiktionary); the two agree on all 15,549 cells, and the handful of misprints found in the book along the way are documented in `data/json/errata.json`.
 
-🔗 **Browse it:** <https://forzagreen.github.io/ar-verbs> · **Hugging Face:** <https://huggingface.co/datasets/forzagreen/ar-verbs>
+🔗 **Browse it:** <https://forzagreen.github.io/ar-conjugation> · **Hugging Face:** <https://huggingface.co/datasets/forzagreen/ar-conjugation>
 
 ## What is in it
 
@@ -54,8 +54,8 @@ Each form is fully vocalised (every short vowel, shadda and sukun), stored in Un
 
 ```python
 from datasets import load_dataset
-verbs = load_dataset("forzagreen/ar-verbs")            # 462 paradigms
-cells = load_dataset("forzagreen/ar-verbs", "cells")   # 15,559 rows (one per form, variants included)
+verbs = load_dataset("forzagreen/ar-conjugation")            # 462 paradigms
+cells = load_dataset("forzagreen/ar-conjugation", "cells")   # 15,559 rows (one per form, variants included)
 ```
 
 ## Record shape
@@ -108,9 +108,9 @@ The transcription, verification and the engine it was verified against live in [
 
 ```bibtex
 @misc{arverbs2026,
-  title  = {ar-verbs: Arabic verb conjugation tables},
+  title  = {ar-conjugation: Arabic verb conjugation tables},
   author = {Tellat, Wael},
   year   = {2026},
-  url    = {https://github.com/forzagreen/ar-verbs}
+  url    = {https://github.com/forzagreen/ar-conjugation}
 }
 ```
