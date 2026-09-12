@@ -24,8 +24,8 @@ FORMS = {"I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X", "XI", "XII
 ARABIC = re.compile(r"^[ء-يً-ْٰٱ]+$")
 BAD = re.compile("[​-‏‪-‮⁦-⁩ـ]")
 
-EXPECTED_PARADIGMS = 462
-EXPECTED_CELLS = 15549
+EXPECTED_PARADIGMS = 495
+EXPECTED_CELLS = 16593
 
 fails = []
 

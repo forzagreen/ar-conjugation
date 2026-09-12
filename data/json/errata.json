@@ -84,6 +84,41 @@
    "column": "imp",
    "person": "2ms",
    "reason": "blank on the page (ink measured)"
+  },
+  {
+   "id": "467_121",
+   "lemma": "أَنَّ",
+   "column": "past",
+   "person": "1p",
+   "reason": "compositor slip: أَنَّنا, where the book's other final-nūn geminates print ظَنَنَّا / رَنَنَّا / جَنَّنَّا"
+  },
+  {
+   "id": "474_156",
+   "lemma": "شاءَ",
+   "column": "ind",
+   "person": "2d",
+   "reason": "the page prints the medial hamza uncontracted (تَشاءانِ) where the book's two other pages of the class print تَداآنِ / تَهاآنِ"
+  },
+  {
+   "id": "474_156",
+   "lemma": "شاءَ",
+   "column": "ind",
+   "person": "3fd",
+   "reason": "the page prints the medial hamza uncontracted (تَشاءانِ) where the book's two other pages of the class print تَداآنِ / تَهاآنِ"
+  },
+  {
+   "id": "474_156",
+   "lemma": "شاءَ",
+   "column": "ind",
+   "person": "3md",
+   "reason": "the page prints the medial hamza uncontracted (يَشاءانِ) where the book's two other pages of the class print يَداآنِ / يَهاآنِ"
+  },
+  {
+   "id": "478_217",
+   "lemma": "شاءَى",
+   "column": "ind",
+   "person": "3fp",
+   "reason": "compositor slip: the page sets the 2fs form تُشائينَ in this cell"
   }
  ],
  "corrected_misprints": [

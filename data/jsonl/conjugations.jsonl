@@ -15557,3 +15557,1049 @@
 {"id":"462_165","lemma":"يَبِسَ","root":"يبس","wazn":"فعِل يفعِل","form":"I","tense":"imperative","voice":"active","person":"2mp","variant":1,"text":"اِيْبِسُوا"}
 {"id":"462_165","lemma":"يَبِسَ","root":"يبس","wazn":"فعِل يفعِل","form":"I","tense":"imperative","voice":"active","person":"2fs","variant":1,"text":"اِيْبِسِي"}
 {"id":"462_165","lemma":"يَبِسَ","root":"يبس","wazn":"فعِل يفعِل","form":"I","tense":"imperative","voice":"active","person":"2fp","variant":1,"text":"اِيْبِسْنَ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"active","person":"3ms","variant":1,"text":"وَضَعَ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"active","person":"3md","variant":1,"text":"وَضَعا"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"active","person":"3mp","variant":1,"text":"وَضَعوا"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"active","person":"3fs","variant":1,"text":"وَضَعَتْ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"active","person":"3fd","variant":1,"text":"وَضَعَتا"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"active","person":"3fp","variant":1,"text":"وَضَعْنَ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"active","person":"2ms","variant":1,"text":"وَضَعْتَ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"active","person":"2d","variant":1,"text":"وَضَعْتُما"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"active","person":"2mp","variant":1,"text":"وَضَعْتُمْ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"active","person":"2fs","variant":1,"text":"وَضَعْتِ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"active","person":"2fp","variant":1,"text":"وَضَعْتُنَّ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"active","person":"1s","variant":1,"text":"وَضَعْتُ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"active","person":"1p","variant":1,"text":"وَضَعْنا"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"passive","person":"3ms","variant":1,"text":"وُضِعَ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"passive","person":"3md","variant":1,"text":"وُضِعا"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"passive","person":"3mp","variant":1,"text":"وُضِعوا"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"passive","person":"3fs","variant":1,"text":"وُضِعَتْ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"passive","person":"3fd","variant":1,"text":"وُضِعَتا"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"passive","person":"3fp","variant":1,"text":"وُضِعْنَ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"passive","person":"2ms","variant":1,"text":"وُضِعْتَ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"passive","person":"2d","variant":1,"text":"وُضِعْتُما"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"passive","person":"2mp","variant":1,"text":"وُضِعْتُمْ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"passive","person":"2fs","variant":1,"text":"وُضِعْتِ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"passive","person":"2fp","variant":1,"text":"وُضِعْتُنَّ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"passive","person":"1s","variant":1,"text":"وُضِعْتُ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"passive","person":"1p","variant":1,"text":"وُضِعْنا"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"active","person":"3ms","variant":1,"text":"يَضَعُ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"active","person":"3md","variant":1,"text":"يَضَعانِ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"active","person":"3mp","variant":1,"text":"يَضَعونَ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"active","person":"3fs","variant":1,"text":"تَضَعُ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"active","person":"3fd","variant":1,"text":"تَضَعانِ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"active","person":"3fp","variant":1,"text":"يَضَعْنَ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"active","person":"2ms","variant":1,"text":"تَضَعُ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"active","person":"2d","variant":1,"text":"تَضَعانِ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"active","person":"2mp","variant":1,"text":"تَضَعونَ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"active","person":"2fs","variant":1,"text":"تَضَعينَ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"active","person":"2fp","variant":1,"text":"تَضَعْنَ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"active","person":"1s","variant":1,"text":"أَضَعُ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"active","person":"1p","variant":1,"text":"نَضَعُ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"passive","person":"3ms","variant":1,"text":"يُوْضَعُ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"passive","person":"3md","variant":1,"text":"يُوْضَعانِ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"passive","person":"3mp","variant":1,"text":"يُوْضَعونَ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"passive","person":"3fs","variant":1,"text":"تُوْضَعُ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"passive","person":"3fd","variant":1,"text":"تُوْضَعانِ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"passive","person":"3fp","variant":1,"text":"يُوْضَعْنَ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"passive","person":"2ms","variant":1,"text":"تُوْضَعُ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"passive","person":"2d","variant":1,"text":"تُوْضَعانِ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"passive","person":"2mp","variant":1,"text":"تُوْضَعونَ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"passive","person":"2fs","variant":1,"text":"تُوْضَعينَ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"passive","person":"2fp","variant":1,"text":"تُوْضَعْنَ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"passive","person":"1s","variant":1,"text":"أُوْضَعُ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"passive","person":"1p","variant":1,"text":"نُوْضَعُ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"imperative","voice":"active","person":"2ms","variant":1,"text":"ضَعْ"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"imperative","voice":"active","person":"2d","variant":1,"text":"ضَعا"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"imperative","voice":"active","person":"2mp","variant":1,"text":"ضَعوا"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"imperative","voice":"active","person":"2fs","variant":1,"text":"ضَعي"}
+{"id":"463_135","lemma":"وَضَعَ","root":"وضع","wazn":"فعَل يفعَل","form":"I","tense":"imperative","voice":"active","person":"2fp","variant":1,"text":"ضَعْنَ"}
+{"id":"464_121","lemma":"صَحَّ","root":"صحح","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"3ms","variant":1,"text":"صَحَّ"}
+{"id":"464_121","lemma":"صَحَّ","root":"صحح","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"3md","variant":1,"text":"صَحَّا"}
+{"id":"464_121","lemma":"صَحَّ","root":"صحح","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"3mp","variant":1,"text":"صَحُّوا"}
+{"id":"464_121","lemma":"صَحَّ","root":"صحح","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"3fs","variant":1,"text":"صَحَّتْ"}
+{"id":"464_121","lemma":"صَحَّ","root":"صحح","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"3fd","variant":1,"text":"صَحَّتا"}
+{"id":"464_121","lemma":"صَحَّ","root":"صحح","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"3fp","variant":1,"text":"صَحَحْنَ"}
+{"id":"464_121","lemma":"صَحَّ","root":"صحح","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"2ms","variant":1,"text":"صَحَحْتَ"}
+{"id":"464_121","lemma":"صَحَّ","root":"صحح","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"2d","variant":1,"text":"صَحَحْتُما"}
+{"id":"464_121","lemma":"صَحَّ","root":"صحح","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"2mp","variant":1,"text":"صَحَحْتُمْ"}
+{"id":"464_121","lemma":"صَحَّ","root":"صحح","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"2fs","variant":1,"text":"صَحَحْتِ"}
+{"id":"464_121","lemma":"صَحَّ","root":"صحح","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"2fp","variant":1,"text":"صَحَحْتُنَّ"}
+{"id":"464_121","lemma":"صَحَّ","root":"صحح","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"1s","variant":1,"text":"صَحَحْتُ"}
+{"id":"464_121","lemma":"صَحَّ","root":"صحح","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"1p","variant":1,"text":"صَحَحْنا"}
+{"id":"464_121","lemma":"صَحَّ","root":"صحح","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"3ms","variant":1,"text":"يَصِحُّ"}
+{"id":"464_121","lemma":"صَحَّ","root":"صحح","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"3md","variant":1,"text":"يَصِحَّانِ"}
+{"id":"464_121","lemma":"صَحَّ","root":"صحح","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"3mp","variant":1,"text":"يَصِحُّونَ"}
+{"id":"464_121","lemma":"صَحَّ","root":"صحح","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"3fs","variant":1,"text":"تَصِحُّ"}
+{"id":"464_121","lemma":"صَحَّ","root":"صحح","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"3fd","variant":1,"text":"تَصِحَّانِ"}
+{"id":"464_121","lemma":"صَحَّ","root":"صحح","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"3fp","variant":1,"text":"يَصْحِحْنَ"}
+{"id":"464_121","lemma":"صَحَّ","root":"صحح","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"2ms","variant":1,"text":"تَصِحُّ"}
+{"id":"464_121","lemma":"صَحَّ","root":"صحح","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"2d","variant":1,"text":"تَصِحَّانِ"}
+{"id":"464_121","lemma":"صَحَّ","root":"صحح","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"2mp","variant":1,"text":"تَصِحُّونَ"}
+{"id":"464_121","lemma":"صَحَّ","root":"صحح","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"2fs","variant":1,"text":"تَصِحّينَ"}
+{"id":"464_121","lemma":"صَحَّ","root":"صحح","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"2fp","variant":1,"text":"تَصْحِحْنَ"}
+{"id":"464_121","lemma":"صَحَّ","root":"صحح","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"1s","variant":1,"text":"أَصِحُّ"}
+{"id":"464_121","lemma":"صَحَّ","root":"صحح","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"1p","variant":1,"text":"نَصِحُّ"}
+{"id":"464_121","lemma":"صَحَّ","root":"صحح","wazn":"فعَل يفعِل","form":"I","tense":"imperative","voice":"active","person":"2ms","variant":1,"text":"صِحَّ"}
+{"id":"464_121","lemma":"صَحَّ","root":"صحح","wazn":"فعَل يفعِل","form":"I","tense":"imperative","voice":"active","person":"2d","variant":1,"text":"صِحَّا"}
+{"id":"464_121","lemma":"صَحَّ","root":"صحح","wazn":"فعَل يفعِل","form":"I","tense":"imperative","voice":"active","person":"2mp","variant":1,"text":"صِحُّوا"}
+{"id":"464_121","lemma":"صَحَّ","root":"صحح","wazn":"فعَل يفعِل","form":"I","tense":"imperative","voice":"active","person":"2fs","variant":1,"text":"صِحِّي"}
+{"id":"464_121","lemma":"صَحَّ","root":"صحح","wazn":"فعَل يفعِل","form":"I","tense":"imperative","voice":"active","person":"2fp","variant":1,"text":"اِصْحِحْنَ"}
+{"id":"465_121","lemma":"تَمَّ","root":"تمم","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"3ms","variant":1,"text":"تَمَّ"}
+{"id":"465_121","lemma":"تَمَّ","root":"تمم","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"3md","variant":1,"text":"تَمَّا"}
+{"id":"465_121","lemma":"تَمَّ","root":"تمم","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"3mp","variant":1,"text":"تَمُّوا"}
+{"id":"465_121","lemma":"تَمَّ","root":"تمم","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"3fs","variant":1,"text":"تَمَّتْ"}
+{"id":"465_121","lemma":"تَمَّ","root":"تمم","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"3fd","variant":1,"text":"تَمَّتا"}
+{"id":"465_121","lemma":"تَمَّ","root":"تمم","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"3fp","variant":1,"text":"تَمَمْنَ"}
+{"id":"465_121","lemma":"تَمَّ","root":"تمم","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"2ms","variant":1,"text":"تَمَمْتَ"}
+{"id":"465_121","lemma":"تَمَّ","root":"تمم","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"2d","variant":1,"text":"تَمَمْتُما"}
+{"id":"465_121","lemma":"تَمَّ","root":"تمم","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"2mp","variant":1,"text":"تَمَمْتُمْ"}
+{"id":"465_121","lemma":"تَمَّ","root":"تمم","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"2fs","variant":1,"text":"تَمَمْتِ"}
+{"id":"465_121","lemma":"تَمَّ","root":"تمم","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"2fp","variant":1,"text":"تَمَمْتُنَّ"}
+{"id":"465_121","lemma":"تَمَّ","root":"تمم","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"1s","variant":1,"text":"تَمَمْتُ"}
+{"id":"465_121","lemma":"تَمَّ","root":"تمم","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"1p","variant":1,"text":"تَمَمْنا"}
+{"id":"465_121","lemma":"تَمَّ","root":"تمم","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"3ms","variant":1,"text":"يَتِمُّ"}
+{"id":"465_121","lemma":"تَمَّ","root":"تمم","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"3md","variant":1,"text":"يَتِمَّانِ"}
+{"id":"465_121","lemma":"تَمَّ","root":"تمم","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"3mp","variant":1,"text":"يَتِمُّونَ"}
+{"id":"465_121","lemma":"تَمَّ","root":"تمم","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"3fs","variant":1,"text":"تَتِمُّ"}
+{"id":"465_121","lemma":"تَمَّ","root":"تمم","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"3fd","variant":1,"text":"تَتِمَّانِ"}
+{"id":"465_121","lemma":"تَمَّ","root":"تمم","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"3fp","variant":1,"text":"يَتْمِمْنَ"}
+{"id":"465_121","lemma":"تَمَّ","root":"تمم","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"2ms","variant":1,"text":"تَتِمُّ"}
+{"id":"465_121","lemma":"تَمَّ","root":"تمم","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"2d","variant":1,"text":"تَتِمَّانِ"}
+{"id":"465_121","lemma":"تَمَّ","root":"تمم","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"2mp","variant":1,"text":"تَتِمُّونَ"}
+{"id":"465_121","lemma":"تَمَّ","root":"تمم","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"2fs","variant":1,"text":"تَتِمِّينَ"}
+{"id":"465_121","lemma":"تَمَّ","root":"تمم","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"2fp","variant":1,"text":"تَتْمِمْنَ"}
+{"id":"465_121","lemma":"تَمَّ","root":"تمم","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"1s","variant":1,"text":"أَتِمُّ"}
+{"id":"465_121","lemma":"تَمَّ","root":"تمم","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"1p","variant":1,"text":"نَتِمُّ"}
+{"id":"465_121","lemma":"تَمَّ","root":"تمم","wazn":"فعَل يفعِل","form":"I","tense":"imperative","voice":"active","person":"2ms","variant":1,"text":"تِمَّ"}
+{"id":"465_121","lemma":"تَمَّ","root":"تمم","wazn":"فعَل يفعِل","form":"I","tense":"imperative","voice":"active","person":"2d","variant":1,"text":"تِمَّا"}
+{"id":"465_121","lemma":"تَمَّ","root":"تمم","wazn":"فعَل يفعِل","form":"I","tense":"imperative","voice":"active","person":"2mp","variant":1,"text":"تِمُّوا"}
+{"id":"465_121","lemma":"تَمَّ","root":"تمم","wazn":"فعَل يفعِل","form":"I","tense":"imperative","voice":"active","person":"2fs","variant":1,"text":"تِمّي"}
+{"id":"465_121","lemma":"تَمَّ","root":"تمم","wazn":"فعَل يفعِل","form":"I","tense":"imperative","voice":"active","person":"2fp","variant":1,"text":"اِتْمِمْنَ"}
+{"id":"466_121","lemma":"أَثَّ","root":"أثث","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"3ms","variant":1,"text":"أَثَّ"}
+{"id":"466_121","lemma":"أَثَّ","root":"أثث","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"3md","variant":1,"text":"أَثَّا"}
+{"id":"466_121","lemma":"أَثَّ","root":"أثث","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"3mp","variant":1,"text":"أَثُّوا"}
+{"id":"466_121","lemma":"أَثَّ","root":"أثث","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"3fs","variant":1,"text":"أَثَّتْ"}
+{"id":"466_121","lemma":"أَثَّ","root":"أثث","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"3fd","variant":1,"text":"أَثَّتا"}
+{"id":"466_121","lemma":"أَثَّ","root":"أثث","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"3fp","variant":1,"text":"أَثَثْنَ"}
+{"id":"466_121","lemma":"أَثَّ","root":"أثث","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"2ms","variant":1,"text":"أَثَثْتَ"}
+{"id":"466_121","lemma":"أَثَّ","root":"أثث","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"2d","variant":1,"text":"أَثَثْتُما"}
+{"id":"466_121","lemma":"أَثَّ","root":"أثث","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"2mp","variant":1,"text":"أَثَثْتُمْ"}
+{"id":"466_121","lemma":"أَثَّ","root":"أثث","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"2fs","variant":1,"text":"أَثَثْتِ"}
+{"id":"466_121","lemma":"أَثَّ","root":"أثث","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"2fp","variant":1,"text":"أَثَثْتُنَّ"}
+{"id":"466_121","lemma":"أَثَّ","root":"أثث","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"1s","variant":1,"text":"أَثَثْتُ"}
+{"id":"466_121","lemma":"أَثَّ","root":"أثث","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"1p","variant":1,"text":"أَثَثْنا"}
+{"id":"466_121","lemma":"أَثَّ","root":"أثث","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"3ms","variant":1,"text":"يَئِثُّ"}
+{"id":"466_121","lemma":"أَثَّ","root":"أثث","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"3md","variant":1,"text":"يَئِثَّانِ"}
+{"id":"466_121","lemma":"أَثَّ","root":"أثث","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"3mp","variant":1,"text":"يَئِثّونَ"}
+{"id":"466_121","lemma":"أَثَّ","root":"أثث","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"3fs","variant":1,"text":"تَئِثُّ"}
+{"id":"466_121","lemma":"أَثَّ","root":"أثث","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"3fd","variant":1,"text":"تَئِثَّانِ"}
+{"id":"466_121","lemma":"أَثَّ","root":"أثث","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"3fp","variant":1,"text":"يَأْثِثْنَ"}
+{"id":"466_121","lemma":"أَثَّ","root":"أثث","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"2ms","variant":1,"text":"تَئِثُّ"}
+{"id":"466_121","lemma":"أَثَّ","root":"أثث","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"2d","variant":1,"text":"تَئِثَّانِ"}
+{"id":"466_121","lemma":"أَثَّ","root":"أثث","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"2mp","variant":1,"text":"تَئِثّونَ"}
+{"id":"466_121","lemma":"أَثَّ","root":"أثث","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"2fs","variant":1,"text":"تَئِثِّينَ"}
+{"id":"466_121","lemma":"أَثَّ","root":"أثث","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"2fp","variant":1,"text":"تَأْثِثْنَ"}
+{"id":"466_121","lemma":"أَثَّ","root":"أثث","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"1s","variant":1,"text":"أَئِثُّ"}
+{"id":"466_121","lemma":"أَثَّ","root":"أثث","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"1p","variant":1,"text":"نَئِثُّ"}
+{"id":"466_121","lemma":"أَثَّ","root":"أثث","wazn":"فعَل يفعِل","form":"I","tense":"imperative","voice":"active","person":"2ms","variant":1,"text":"إِثَّ"}
+{"id":"466_121","lemma":"أَثَّ","root":"أثث","wazn":"فعَل يفعِل","form":"I","tense":"imperative","voice":"active","person":"2d","variant":1,"text":"إِثَّا"}
+{"id":"466_121","lemma":"أَثَّ","root":"أثث","wazn":"فعَل يفعِل","form":"I","tense":"imperative","voice":"active","person":"2mp","variant":1,"text":"إِثُّوا"}
+{"id":"466_121","lemma":"أَثَّ","root":"أثث","wazn":"فعَل يفعِل","form":"I","tense":"imperative","voice":"active","person":"2fs","variant":1,"text":"إِثِّي"}
+{"id":"466_121","lemma":"أَثَّ","root":"أثث","wazn":"فعَل يفعِل","form":"I","tense":"imperative","voice":"active","person":"2fp","variant":1,"text":"اِئْثِثْنَ"}
+{"id":"467_121","lemma":"أَنَّ","root":"أنن","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"3ms","variant":1,"text":"أَنَّ"}
+{"id":"467_121","lemma":"أَنَّ","root":"أنن","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"3md","variant":1,"text":"أَنَّا"}
+{"id":"467_121","lemma":"أَنَّ","root":"أنن","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"3mp","variant":1,"text":"أَنُّوا"}
+{"id":"467_121","lemma":"أَنَّ","root":"أنن","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"3fs","variant":1,"text":"أَنَّتْ"}
+{"id":"467_121","lemma":"أَنَّ","root":"أنن","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"3fd","variant":1,"text":"أَنَّتا"}
+{"id":"467_121","lemma":"أَنَّ","root":"أنن","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"3fp","variant":1,"text":"أَنَنَّ"}
+{"id":"467_121","lemma":"أَنَّ","root":"أنن","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"2ms","variant":1,"text":"أَنَنْتَ"}
+{"id":"467_121","lemma":"أَنَّ","root":"أنن","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"2d","variant":1,"text":"أَنَنْتُما"}
+{"id":"467_121","lemma":"أَنَّ","root":"أنن","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"2mp","variant":1,"text":"أَنَنْتُمْ"}
+{"id":"467_121","lemma":"أَنَّ","root":"أنن","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"2fs","variant":1,"text":"أَنَنْتِ"}
+{"id":"467_121","lemma":"أَنَّ","root":"أنن","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"2fp","variant":1,"text":"أَنَنْتُنَّ"}
+{"id":"467_121","lemma":"أَنَّ","root":"أنن","wazn":"فعَل يفعِل","form":"I","tense":"past","voice":"active","person":"1s","variant":1,"text":"أَنَنْتُ"}
+{"id":"467_121","lemma":"أَنَّ","root":"أنن","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"3ms","variant":1,"text":"يَئِنُّ"}
+{"id":"467_121","lemma":"أَنَّ","root":"أنن","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"3md","variant":1,"text":"يَئِنَّانِ"}
+{"id":"467_121","lemma":"أَنَّ","root":"أنن","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"3mp","variant":1,"text":"يَئِنّونَ"}
+{"id":"467_121","lemma":"أَنَّ","root":"أنن","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"3fs","variant":1,"text":"تَئِنُّ"}
+{"id":"467_121","lemma":"أَنَّ","root":"أنن","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"3fd","variant":1,"text":"تَئِنَّانِ"}
+{"id":"467_121","lemma":"أَنَّ","root":"أنن","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"3fp","variant":1,"text":"يَأْنِنَّ"}
+{"id":"467_121","lemma":"أَنَّ","root":"أنن","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"2ms","variant":1,"text":"تَئِنُّ"}
+{"id":"467_121","lemma":"أَنَّ","root":"أنن","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"2d","variant":1,"text":"تَئِنَّانِ"}
+{"id":"467_121","lemma":"أَنَّ","root":"أنن","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"2mp","variant":1,"text":"تَئِنّونَ"}
+{"id":"467_121","lemma":"أَنَّ","root":"أنن","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"2fs","variant":1,"text":"تَئِنِّينَ"}
+{"id":"467_121","lemma":"أَنَّ","root":"أنن","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"2fp","variant":1,"text":"تَأْنِنَّ"}
+{"id":"467_121","lemma":"أَنَّ","root":"أنن","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"1s","variant":1,"text":"أَئِنُّ"}
+{"id":"467_121","lemma":"أَنَّ","root":"أنن","wazn":"فعَل يفعِل","form":"I","tense":"indicative","voice":"active","person":"1p","variant":1,"text":"نَئِنُّ"}
+{"id":"467_121","lemma":"أَنَّ","root":"أنن","wazn":"فعَل يفعِل","form":"I","tense":"imperative","voice":"active","person":"2ms","variant":1,"text":"إِنَّ"}
+{"id":"467_121","lemma":"أَنَّ","root":"أنن","wazn":"فعَل يفعِل","form":"I","tense":"imperative","voice":"active","person":"2d","variant":1,"text":"إِنَّا"}
+{"id":"467_121","lemma":"أَنَّ","root":"أنن","wazn":"فعَل يفعِل","form":"I","tense":"imperative","voice":"active","person":"2mp","variant":1,"text":"إِنُّوا"}
+{"id":"467_121","lemma":"أَنَّ","root":"أنن","wazn":"فعَل يفعِل","form":"I","tense":"imperative","voice":"active","person":"2fs","variant":1,"text":"إِنِّي"}
+{"id":"467_121","lemma":"أَنَّ","root":"أنن","wazn":"فعَل يفعِل","form":"I","tense":"imperative","voice":"active","person":"2fp","variant":1,"text":"اِئْنِنَّ"}
+{"id":"468_134","lemma":"مَلَأَ","root":"ملأ","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"active","person":"3ms","variant":1,"text":"مَلَأَ"}
+{"id":"468_134","lemma":"مَلَأَ","root":"ملأ","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"active","person":"3md","variant":1,"text":"مَلَآ"}
+{"id":"468_134","lemma":"مَلَأَ","root":"ملأ","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"active","person":"3mp","variant":1,"text":"مَلَؤُوا"}
+{"id":"468_134","lemma":"مَلَأَ","root":"ملأ","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"active","person":"3fs","variant":1,"text":"مَلَأَتْ"}
+{"id":"468_134","lemma":"مَلَأَ","root":"ملأ","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"active","person":"3fd","variant":1,"text":"مَلَأَتا"}
+{"id":"468_134","lemma":"مَلَأَ","root":"ملأ","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"active","person":"3fp","variant":1,"text":"مَلَأْنَ"}
+{"id":"468_134","lemma":"مَلَأَ","root":"ملأ","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"active","person":"2ms","variant":1,"text":"مَلَأْتَ"}
+{"id":"468_134","lemma":"مَلَأَ","root":"ملأ","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"active","person":"2d","variant":1,"text":"مَلَأْتُما"}
+{"id":"468_134","lemma":"مَلَأَ","root":"ملأ","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"active","person":"2mp","variant":1,"text":"مَلَأْتُمْ"}
+{"id":"468_134","lemma":"مَلَأَ","root":"ملأ","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"active","person":"2fs","variant":1,"text":"مَلَأْتِ"}
+{"id":"468_134","lemma":"مَلَأَ","root":"ملأ","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"active","person":"2fp","variant":1,"text":"مَلَأْتُنَّ"}
+{"id":"468_134","lemma":"مَلَأَ","root":"ملأ","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"active","person":"1s","variant":1,"text":"مَلَأْتُ"}
+{"id":"468_134","lemma":"مَلَأَ","root":"ملأ","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"active","person":"1p","variant":1,"text":"مَلَأْنا"}
+{"id":"468_134","lemma":"مَلَأَ","root":"ملأ","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"active","person":"3ms","variant":1,"text":"يَمْلَأُ"}
+{"id":"468_134","lemma":"مَلَأَ","root":"ملأ","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"active","person":"3md","variant":1,"text":"يَمْلَآنِ"}
+{"id":"468_134","lemma":"مَلَأَ","root":"ملأ","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"active","person":"3mp","variant":1,"text":"يَمْلَؤُونَ"}
+{"id":"468_134","lemma":"مَلَأَ","root":"ملأ","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"active","person":"3fs","variant":1,"text":"تَمْلَأُ"}
+{"id":"468_134","lemma":"مَلَأَ","root":"ملأ","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"active","person":"3fd","variant":1,"text":"تَمْلَآنِ"}
+{"id":"468_134","lemma":"مَلَأَ","root":"ملأ","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"active","person":"3fp","variant":1,"text":"يَمْلَأْنَ"}
+{"id":"468_134","lemma":"مَلَأَ","root":"ملأ","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"active","person":"2ms","variant":1,"text":"تَمْلَأُ"}
+{"id":"468_134","lemma":"مَلَأَ","root":"ملأ","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"active","person":"2d","variant":1,"text":"تَمْلَآنِ"}
+{"id":"468_134","lemma":"مَلَأَ","root":"ملأ","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"active","person":"2mp","variant":1,"text":"تَمْلَؤُونَ"}
+{"id":"468_134","lemma":"مَلَأَ","root":"ملأ","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"active","person":"2fs","variant":1,"text":"تَمْلَئِينَ"}
+{"id":"468_134","lemma":"مَلَأَ","root":"ملأ","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"active","person":"2fp","variant":1,"text":"تَمْلَأْنَ"}
+{"id":"468_134","lemma":"مَلَأَ","root":"ملأ","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"active","person":"1s","variant":1,"text":"أَمْلَأُ"}
+{"id":"468_134","lemma":"مَلَأَ","root":"ملأ","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"active","person":"1p","variant":1,"text":"نَمْلَأُ"}
+{"id":"468_134","lemma":"مَلَأَ","root":"ملأ","wazn":"فعَل يفعَل","form":"I","tense":"imperative","voice":"active","person":"2ms","variant":1,"text":"اِمْلَأْ"}
+{"id":"468_134","lemma":"مَلَأَ","root":"ملأ","wazn":"فعَل يفعَل","form":"I","tense":"imperative","voice":"active","person":"2d","variant":1,"text":"اِمْلَآ"}
+{"id":"468_134","lemma":"مَلَأَ","root":"ملأ","wazn":"فعَل يفعَل","form":"I","tense":"imperative","voice":"active","person":"2mp","variant":1,"text":"اِمْلَؤُوا"}
+{"id":"468_134","lemma":"مَلَأَ","root":"ملأ","wazn":"فعَل يفعَل","form":"I","tense":"imperative","voice":"active","person":"2fs","variant":1,"text":"اِمْلَئي"}
+{"id":"468_134","lemma":"مَلَأَ","root":"ملأ","wazn":"فعَل يفعَل","form":"I","tense":"imperative","voice":"active","person":"2fp","variant":1,"text":"اِمْلَأْنَ"}
+{"id":"469_134","lemma":"هَزَأَ","root":"هزأ","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"active","person":"3ms","variant":1,"text":"هَزَأَ"}
+{"id":"469_134","lemma":"هَزَأَ","root":"هزأ","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"active","person":"3md","variant":1,"text":"هَزَآ"}
+{"id":"469_134","lemma":"هَزَأَ","root":"هزأ","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"active","person":"3mp","variant":1,"text":"هَزَؤُوا"}
+{"id":"469_134","lemma":"هَزَأَ","root":"هزأ","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"active","person":"3fs","variant":1,"text":"هَزَأَتْ"}
+{"id":"469_134","lemma":"هَزَأَ","root":"هزأ","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"active","person":"3fd","variant":1,"text":"هَزَأَتا"}
+{"id":"469_134","lemma":"هَزَأَ","root":"هزأ","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"active","person":"3fp","variant":1,"text":"هَزَأْنَ"}
+{"id":"469_134","lemma":"هَزَأَ","root":"هزأ","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"active","person":"2ms","variant":1,"text":"هَزَأْتَ"}
+{"id":"469_134","lemma":"هَزَأَ","root":"هزأ","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"active","person":"2d","variant":1,"text":"هَزَأْتُما"}
+{"id":"469_134","lemma":"هَزَأَ","root":"هزأ","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"active","person":"2mp","variant":1,"text":"هَزَأْتُمْ"}
+{"id":"469_134","lemma":"هَزَأَ","root":"هزأ","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"active","person":"2fs","variant":1,"text":"هَزَأْتِ"}
+{"id":"469_134","lemma":"هَزَأَ","root":"هزأ","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"active","person":"2fp","variant":1,"text":"هَزَأْتُنَّ"}
+{"id":"469_134","lemma":"هَزَأَ","root":"هزأ","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"active","person":"1s","variant":1,"text":"هَزَأْتُ"}
+{"id":"469_134","lemma":"هَزَأَ","root":"هزأ","wazn":"فعَل يفعَل","form":"I","tense":"past","voice":"active","person":"1p","variant":1,"text":"هَزَأْنا"}
+{"id":"469_134","lemma":"هَزَأَ","root":"هزأ","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"active","person":"3ms","variant":1,"text":"يَهْزَأُ"}
+{"id":"469_134","lemma":"هَزَأَ","root":"هزأ","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"active","person":"3md","variant":1,"text":"يَهْزَآنِ"}
+{"id":"469_134","lemma":"هَزَأَ","root":"هزأ","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"active","person":"3mp","variant":1,"text":"يَهْزَؤُونَ"}
+{"id":"469_134","lemma":"هَزَأَ","root":"هزأ","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"active","person":"3fs","variant":1,"text":"تَهْزَأُ"}
+{"id":"469_134","lemma":"هَزَأَ","root":"هزأ","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"active","person":"3fd","variant":1,"text":"تَهْزَآنِ"}
+{"id":"469_134","lemma":"هَزَأَ","root":"هزأ","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"active","person":"3fp","variant":1,"text":"يَهْزَأْنَ"}
+{"id":"469_134","lemma":"هَزَأَ","root":"هزأ","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"active","person":"2ms","variant":1,"text":"تَهْزَأُ"}
+{"id":"469_134","lemma":"هَزَأَ","root":"هزأ","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"active","person":"2d","variant":1,"text":"تَهْزَآنِ"}
+{"id":"469_134","lemma":"هَزَأَ","root":"هزأ","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"active","person":"2mp","variant":1,"text":"تَهْزَؤُونَ"}
+{"id":"469_134","lemma":"هَزَأَ","root":"هزأ","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"active","person":"2fs","variant":1,"text":"تَهْزَئِينَ"}
+{"id":"469_134","lemma":"هَزَأَ","root":"هزأ","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"active","person":"2fp","variant":1,"text":"تَهْزَأْنَ"}
+{"id":"469_134","lemma":"هَزَأَ","root":"هزأ","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"active","person":"1s","variant":1,"text":"أَهْزَأُ"}
+{"id":"469_134","lemma":"هَزَأَ","root":"هزأ","wazn":"فعَل يفعَل","form":"I","tense":"indicative","voice":"active","person":"1p","variant":1,"text":"نَهْزَأُ"}
+{"id":"469_134","lemma":"هَزَأَ","root":"هزأ","wazn":"فعَل يفعَل","form":"I","tense":"imperative","voice":"active","person":"2ms","variant":1,"text":"اِهْزَأْ"}
+{"id":"469_134","lemma":"هَزَأَ","root":"هزأ","wazn":"فعَل يفعَل","form":"I","tense":"imperative","voice":"active","person":"2d","variant":1,"text":"اِهْزَآ"}
+{"id":"469_134","lemma":"هَزَأَ","root":"هزأ","wazn":"فعَل يفعَل","form":"I","tense":"imperative","voice":"active","person":"2mp","variant":1,"text":"اِهْزَؤُوا"}
+{"id":"469_134","lemma":"هَزَأَ","root":"هزأ","wazn":"فعَل يفعَل","form":"I","tense":"imperative","voice":"active","person":"2fs","variant":1,"text":"اِهْزَئِي"}
+{"id":"469_134","lemma":"هَزَأَ","root":"هزأ","wazn":"فعَل يفعَل","form":"I","tense":"imperative","voice":"active","person":"2fp","variant":1,"text":"اِهْزَأْنَ"}
+{"id":"470_141","lemma":"شَرَّ","root":"شرر","wazn":"فعَل يفعُل","form":"I","tense":"past","voice":"active","person":"3ms","variant":1,"text":"شَرَّ"}
+{"id":"470_141","lemma":"شَرَّ","root":"شرر","wazn":"فعَل يفعُل","form":"I","tense":"past","voice":"active","person":"3md","variant":1,"text":"شَرَّا"}
+{"id":"470_141","lemma":"شَرَّ","root":"شرر","wazn":"فعَل يفعُل","form":"I","tense":"past","voice":"active","person":"3mp","variant":1,"text":"شَرُّوا"}
+{"id":"470_141","lemma":"شَرَّ","root":"شرر","wazn":"فعَل يفعُل","form":"I","tense":"past","voice":"active","person":"3fs","variant":1,"text":"شَرَّتْ"}
+{"id":"470_141","lemma":"شَرَّ","root":"شرر","wazn":"فعَل يفعُل","form":"I","tense":"past","voice":"active","person":"3fd","variant":1,"text":"شَرَّتا"}
+{"id":"470_141","lemma":"شَرَّ","root":"شرر","wazn":"فعَل يفعُل","form":"I","tense":"past","voice":"active","person":"3fp","variant":1,"text":"شَرُرْنَ"}
+{"id":"470_141","lemma":"شَرَّ","root":"شرر","wazn":"فعَل يفعُل","form":"I","tense":"past","voice":"active","person":"2ms","variant":1,"text":"شَرُرْتَ"}
+{"id":"470_141","lemma":"شَرَّ","root":"شرر","wazn":"فعَل يفعُل","form":"I","tense":"past","voice":"active","person":"2d","variant":1,"text":"شَرُرْتُما"}
+{"id":"470_141","lemma":"شَرَّ","root":"شرر","wazn":"فعَل يفعُل","form":"I","tense":"past","voice":"active","person":"2mp","variant":1,"text":"شَرُرْتُمْ"}
+{"id":"470_141","lemma":"شَرَّ","root":"شرر","wazn":"فعَل يفعُل","form":"I","tense":"past","voice":"active","person":"2fs","variant":1,"text":"شَرُرْتِ"}
+{"id":"470_141","lemma":"شَرَّ","root":"شرر","wazn":"فعَل يفعُل","form":"I","tense":"past","voice":"active","person":"2fp","variant":1,"text":"شَرُرْتُنَّ"}
+{"id":"470_141","lemma":"شَرَّ","root":"شرر","wazn":"فعَل يفعُل","form":"I","tense":"past","voice":"active","person":"1s","variant":1,"text":"شَرُرْتُ"}
+{"id":"470_141","lemma":"شَرَّ","root":"شرر","wazn":"فعَل يفعُل","form":"I","tense":"past","voice":"active","person":"1p","variant":1,"text":"شَرُرْنا"}
+{"id":"470_141","lemma":"شَرَّ","root":"شرر","wazn":"فعَل يفعُل","form":"I","tense":"indicative","voice":"active","person":"3ms","variant":1,"text":"يَشُرُّ"}
+{"id":"470_141","lemma":"شَرَّ","root":"شرر","wazn":"فعَل يفعُل","form":"I","tense":"indicative","voice":"active","person":"3md","variant":1,"text":"يَشُرَّانِ"}
+{"id":"470_141","lemma":"شَرَّ","root":"شرر","wazn":"فعَل يفعُل","form":"I","tense":"indicative","voice":"active","person":"3mp","variant":1,"text":"يَشُرُّونَ"}
+{"id":"470_141","lemma":"شَرَّ","root":"شرر","wazn":"فعَل يفعُل","form":"I","tense":"indicative","voice":"active","person":"3fs","variant":1,"text":"تَشُرُّ"}
+{"id":"470_141","lemma":"شَرَّ","root":"شرر","wazn":"فعَل يفعُل","form":"I","tense":"indicative","voice":"active","person":"3fd","variant":1,"text":"تَشُرَّانِ"}
+{"id":"470_141","lemma":"شَرَّ","root":"شرر","wazn":"فعَل يفعُل","form":"I","tense":"indicative","voice":"active","person":"3fp","variant":1,"text":"يَشْرُرْنَ"}
+{"id":"470_141","lemma":"شَرَّ","root":"شرر","wazn":"فعَل يفعُل","form":"I","tense":"indicative","voice":"active","person":"2ms","variant":1,"text":"تَشُرُّ"}
+{"id":"470_141","lemma":"شَرَّ","root":"شرر","wazn":"فعَل يفعُل","form":"I","tense":"indicative","voice":"active","person":"2d","variant":1,"text":"تَشُرَّانِ"}
+{"id":"470_141","lemma":"شَرَّ","root":"شرر","wazn":"فعَل يفعُل","form":"I","tense":"indicative","voice":"active","person":"2mp","variant":1,"text":"تَشُرُّونَ"}
+{"id":"470_141","lemma":"شَرَّ","root":"شرر","wazn":"فعَل يفعُل","form":"I","tense":"indicative","voice":"active","person":"2fs","variant":1,"text":"تَشُرِّينَ"}
+{"id":"470_141","lemma":"شَرَّ","root":"شرر","wazn":"فعَل يفعُل","form":"I","tense":"indicative","voice":"active","person":"2fp","variant":1,"text":"تَشْرُرْنَ"}
+{"id":"470_141","lemma":"شَرَّ","root":"شرر","wazn":"فعَل يفعُل","form":"I","tense":"indicative","voice":"active","person":"1s","variant":1,"text":"أَشُرُّ"}
+{"id":"470_141","lemma":"شَرَّ","root":"شرر","wazn":"فعَل يفعُل","form":"I","tense":"indicative","voice":"active","person":"1p","variant":1,"text":"نَشُرُّ"}
+{"id":"470_141","lemma":"شَرَّ","root":"شرر","wazn":"فعَل يفعُل","form":"I","tense":"imperative","voice":"active","person":"2ms","variant":1,"text":"شُرَّ"}
+{"id":"470_141","lemma":"شَرَّ","root":"شرر","wazn":"فعَل يفعُل","form":"I","tense":"imperative","voice":"active","person":"2ms","variant":2,"text":"أُشْرُرْ"}
+{"id":"470_141","lemma":"شَرَّ","root":"شرر","wazn":"فعَل يفعُل","form":"I","tense":"imperative","voice":"active","person":"2d","variant":1,"text":"شُرَّا"}
+{"id":"470_141","lemma":"شَرَّ","root":"شرر","wazn":"فعَل يفعُل","form":"I","tense":"imperative","voice":"active","person":"2mp","variant":1,"text":"شُرُّوا"}
+{"id":"470_141","lemma":"شَرَّ","root":"شرر","wazn":"فعَل يفعُل","form":"I","tense":"imperative","voice":"active","person":"2fs","variant":1,"text":"شُرِّي"}
+{"id":"470_141","lemma":"شَرَّ","root":"شرر","wazn":"فعَل يفعُل","form":"I","tense":"imperative","voice":"active","person":"2fp","variant":1,"text":"اُشْرُرْنَ"}
+{"id":"471_141","lemma":"لَبَّ","root":"لبب","wazn":"فعَل يفعُل","form":"I","tense":"past","voice":"active","person":"3ms","variant":1,"text":"لَبَّ"}
+{"id":"471_141","lemma":"لَبَّ","root":"لبب","wazn":"فعَل يفعُل","form":"I","tense":"past","voice":"active","person":"3md","variant":1,"text":"لَبَّا"}
+{"id":"471_141","lemma":"لَبَّ","root":"لبب","wazn":"فعَل يفعُل","form":"I","tense":"past","voice":"active","person":"3mp","variant":1,"text":"لَبُّوا"}
+{"id":"471_141","lemma":"لَبَّ","root":"لبب","wazn":"فعَل يفعُل","form":"I","tense":"past","voice":"active","person":"3fs","variant":1,"text":"لَبَّتْ"}
+{"id":"471_141","lemma":"لَبَّ","root":"لبب","wazn":"فعَل يفعُل","form":"I","tense":"past","voice":"active","person":"3fd","variant":1,"text":"لَبَّتا"}
+{"id":"471_141","lemma":"لَبَّ","root":"لبب","wazn":"فعَل يفعُل","form":"I","tense":"past","voice":"active","person":"3fp","variant":1,"text":"لَبُبْنَ"}
+{"id":"471_141","lemma":"لَبَّ","root":"لبب","wazn":"فعَل يفعُل","form":"I","tense":"past","voice":"active","person":"2ms","variant":1,"text":"لَبُبْتَ"}
+{"id":"471_141","lemma":"لَبَّ","root":"لبب","wazn":"فعَل يفعُل","form":"I","tense":"past","voice":"active","person":"2d","variant":1,"text":"لَبُبْتُما"}
+{"id":"471_141","lemma":"لَبَّ","root":"لبب","wazn":"فعَل يفعُل","form":"I","tense":"past","voice":"active","person":"2mp","variant":1,"text":"لَبُبْتُمْ"}
+{"id":"471_141","lemma":"لَبَّ","root":"لبب","wazn":"فعَل يفعُل","form":"I","tense":"past","voice":"active","person":"2fs","variant":1,"text":"لَبُبْتِ"}
+{"id":"471_141","lemma":"لَبَّ","root":"لبب","wazn":"فعَل يفعُل","form":"I","tense":"past","voice":"active","person":"2fp","variant":1,"text":"لَبُبْتُنَّ"}
+{"id":"471_141","lemma":"لَبَّ","root":"لبب","wazn":"فعَل يفعُل","form":"I","tense":"past","voice":"active","person":"1s","variant":1,"text":"لَبُبْتُ"}
+{"id":"471_141","lemma":"لَبَّ","root":"لبب","wazn":"فعَل يفعُل","form":"I","tense":"past","voice":"active","person":"1p","variant":1,"text":"لَبُبْنا"}
+{"id":"471_141","lemma":"لَبَّ","root":"لبب","wazn":"فعَل يفعُل","form":"I","tense":"indicative","voice":"active","person":"3ms","variant":1,"text":"يَلُبُّ"}
+{"id":"471_141","lemma":"لَبَّ","root":"لبب","wazn":"فعَل يفعُل","form":"I","tense":"indicative","voice":"active","person":"3md","variant":1,"text":"يَلُبَّانِ"}
+{"id":"471_141","lemma":"لَبَّ","root":"لبب","wazn":"فعَل يفعُل","form":"I","tense":"indicative","voice":"active","person":"3mp","variant":1,"text":"يَلُبُّونَ"}
+{"id":"471_141","lemma":"لَبَّ","root":"لبب","wazn":"فعَل يفعُل","form":"I","tense":"indicative","voice":"active","person":"3fs","variant":1,"text":"تَلُبُّ"}
+{"id":"471_141","lemma":"لَبَّ","root":"لبب","wazn":"فعَل يفعُل","form":"I","tense":"indicative","voice":"active","person":"3fd","variant":1,"text":"تَلُبَّانِ"}
+{"id":"471_141","lemma":"لَبَّ","root":"لبب","wazn":"فعَل يفعُل","form":"I","tense":"indicative","voice":"active","person":"3fp","variant":1,"text":"يَلْبُبْنَ"}
+{"id":"471_141","lemma":"لَبَّ","root":"لبب","wazn":"فعَل يفعُل","form":"I","tense":"indicative","voice":"active","person":"2ms","variant":1,"text":"تَلُبُّ"}
+{"id":"471_141","lemma":"لَبَّ","root":"لبب","wazn":"فعَل يفعُل","form":"I","tense":"indicative","voice":"active","person":"2d","variant":1,"text":"تَلُبَّانِ"}
+{"id":"471_141","lemma":"لَبَّ","root":"لبب","wazn":"فعَل يفعُل","form":"I","tense":"indicative","voice":"active","person":"2mp","variant":1,"text":"تَلُبُّونَ"}
+{"id":"471_141","lemma":"لَبَّ","root":"لبب","wazn":"فعَل يفعُل","form":"I","tense":"indicative","voice":"active","person":"2fs","variant":1,"text":"تَلُبّينَ"}
+{"id":"471_141","lemma":"لَبَّ","root":"لبب","wazn":"فعَل يفعُل","form":"I","tense":"indicative","voice":"active","person":"2fp","variant":1,"text":"تَلْبُبْنَ"}
+{"id":"471_141","lemma":"لَبَّ","root":"لبب","wazn":"فعَل يفعُل","form":"I","tense":"indicative","voice":"active","person":"1s","variant":1,"text":"أَلُبُّ"}
+{"id":"471_141","lemma":"لَبَّ","root":"لبب","wazn":"فعَل يفعُل","form":"I","tense":"indicative","voice":"active","person":"1p","variant":1,"text":"نَلُبُّ"}
+{"id":"471_141","lemma":"لَبَّ","root":"لبب","wazn":"فعَل يفعُل","form":"I","tense":"imperative","voice":"active","person":"2ms","variant":1,"text":"لُبَّ"}
+{"id":"471_141","lemma":"لَبَّ","root":"لبب","wazn":"فعَل يفعُل","form":"I","tense":"imperative","voice":"active","person":"2ms","variant":2,"text":"اُلْبُبْ"}
+{"id":"471_141","lemma":"لَبَّ","root":"لبب","wazn":"فعَل يفعُل","form":"I","tense":"imperative","voice":"active","person":"2d","variant":1,"text":"لُبَّا"}
+{"id":"471_141","lemma":"لَبَّ","root":"لبب","wazn":"فعَل يفعُل","form":"I","tense":"imperative","voice":"active","person":"2mp","variant":1,"text":"لُبُّوا"}
+{"id":"471_141","lemma":"لَبَّ","root":"لبب","wazn":"فعَل يفعُل","form":"I","tense":"imperative","voice":"active","person":"2fs","variant":1,"text":"لُبِّي"}
+{"id":"471_141","lemma":"لَبَّ","root":"لبب","wazn":"فعَل يفعُل","form":"I","tense":"imperative","voice":"active","person":"2fp","variant":1,"text":"اُلْبُبْنَ"}
+{"id":"472_154","lemma":"ظَمِئَ","root":"ظمئ","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"3ms","variant":1,"text":"ظَمِئَ"}
+{"id":"472_154","lemma":"ظَمِئَ","root":"ظمئ","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"3md","variant":1,"text":"ظَمِئَا"}
+{"id":"472_154","lemma":"ظَمِئَ","root":"ظمئ","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"3mp","variant":1,"text":"ظَمِئُوا"}
+{"id":"472_154","lemma":"ظَمِئَ","root":"ظمئ","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"3fs","variant":1,"text":"ظَمِئَتْ"}
+{"id":"472_154","lemma":"ظَمِئَ","root":"ظمئ","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"3fd","variant":1,"text":"ظَمِئَتا"}
+{"id":"472_154","lemma":"ظَمِئَ","root":"ظمئ","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"3fp","variant":1,"text":"ظَمِئْنَ"}
+{"id":"472_154","lemma":"ظَمِئَ","root":"ظمئ","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"2ms","variant":1,"text":"ظَمِئْتَ"}
+{"id":"472_154","lemma":"ظَمِئَ","root":"ظمئ","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"2d","variant":1,"text":"ظَمِئْتُمَا"}
+{"id":"472_154","lemma":"ظَمِئَ","root":"ظمئ","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"2mp","variant":1,"text":"ظَمِئْتُمْ"}
+{"id":"472_154","lemma":"ظَمِئَ","root":"ظمئ","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"2fs","variant":1,"text":"ظَمِئْتِ"}
+{"id":"472_154","lemma":"ظَمِئَ","root":"ظمئ","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"2fp","variant":1,"text":"ظَمِئْتُنَّ"}
+{"id":"472_154","lemma":"ظَمِئَ","root":"ظمئ","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"1s","variant":1,"text":"ظَمِئْتُ"}
+{"id":"472_154","lemma":"ظَمِئَ","root":"ظمئ","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"1p","variant":1,"text":"ظَمِئْنا"}
+{"id":"472_154","lemma":"ظَمِئَ","root":"ظمئ","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"3ms","variant":1,"text":"يَظْمَأُ"}
+{"id":"472_154","lemma":"ظَمِئَ","root":"ظمئ","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"3md","variant":1,"text":"يَظْمَآنِ"}
+{"id":"472_154","lemma":"ظَمِئَ","root":"ظمئ","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"3mp","variant":1,"text":"يَظْمَؤُونَ"}
+{"id":"472_154","lemma":"ظَمِئَ","root":"ظمئ","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"3fs","variant":1,"text":"تَظْمَأُ"}
+{"id":"472_154","lemma":"ظَمِئَ","root":"ظمئ","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"3fd","variant":1,"text":"تَظْمَآنِ"}
+{"id":"472_154","lemma":"ظَمِئَ","root":"ظمئ","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"3fp","variant":1,"text":"يَظْمَأْنَ"}
+{"id":"472_154","lemma":"ظَمِئَ","root":"ظمئ","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"2ms","variant":1,"text":"تَظْمَأُ"}
+{"id":"472_154","lemma":"ظَمِئَ","root":"ظمئ","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"2d","variant":1,"text":"تَظْمَآنِ"}
+{"id":"472_154","lemma":"ظَمِئَ","root":"ظمئ","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"2mp","variant":1,"text":"تَظْمَؤُونَ"}
+{"id":"472_154","lemma":"ظَمِئَ","root":"ظمئ","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"2fs","variant":1,"text":"تَظْمَئينَ"}
+{"id":"472_154","lemma":"ظَمِئَ","root":"ظمئ","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"2fp","variant":1,"text":"تَظْمَأْنَ"}
+{"id":"472_154","lemma":"ظَمِئَ","root":"ظمئ","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"1s","variant":1,"text":"أَظْمَأُ"}
+{"id":"472_154","lemma":"ظَمِئَ","root":"ظمئ","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"1p","variant":1,"text":"نَظْمَأُ"}
+{"id":"472_154","lemma":"ظَمِئَ","root":"ظمئ","wazn":"فعِل يفعَل","form":"I","tense":"imperative","voice":"active","person":"2ms","variant":1,"text":"اِظْمَأْ"}
+{"id":"472_154","lemma":"ظَمِئَ","root":"ظمئ","wazn":"فعِل يفعَل","form":"I","tense":"imperative","voice":"active","person":"2d","variant":1,"text":"اِظْمَآ"}
+{"id":"472_154","lemma":"ظَمِئَ","root":"ظمئ","wazn":"فعِل يفعَل","form":"I","tense":"imperative","voice":"active","person":"2mp","variant":1,"text":"اِظْمَؤُوا"}
+{"id":"472_154","lemma":"ظَمِئَ","root":"ظمئ","wazn":"فعِل يفعَل","form":"I","tense":"imperative","voice":"active","person":"2fs","variant":1,"text":"اِظْمَئي"}
+{"id":"472_154","lemma":"ظَمِئَ","root":"ظمئ","wazn":"فعِل يفعَل","form":"I","tense":"imperative","voice":"active","person":"2fp","variant":1,"text":"اِظْمَأْنَ"}
+{"id":"473_154","lemma":"فَتِئَ","root":"فتئ","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"3ms","variant":1,"text":"فَتِئَ"}
+{"id":"473_154","lemma":"فَتِئَ","root":"فتئ","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"3md","variant":1,"text":"فَتِئَا"}
+{"id":"473_154","lemma":"فَتِئَ","root":"فتئ","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"3mp","variant":1,"text":"فَتِئُوا"}
+{"id":"473_154","lemma":"فَتِئَ","root":"فتئ","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"3fs","variant":1,"text":"فَتِئَتْ"}
+{"id":"473_154","lemma":"فَتِئَ","root":"فتئ","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"3fd","variant":1,"text":"فَتِئَتا"}
+{"id":"473_154","lemma":"فَتِئَ","root":"فتئ","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"3fp","variant":1,"text":"فَتِئْنَ"}
+{"id":"473_154","lemma":"فَتِئَ","root":"فتئ","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"2ms","variant":1,"text":"فَتِئْتَ"}
+{"id":"473_154","lemma":"فَتِئَ","root":"فتئ","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"2d","variant":1,"text":"فَتِئْتُما"}
+{"id":"473_154","lemma":"فَتِئَ","root":"فتئ","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"2mp","variant":1,"text":"فَتِئْتُمْ"}
+{"id":"473_154","lemma":"فَتِئَ","root":"فتئ","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"2fs","variant":1,"text":"فَتِئْتِ"}
+{"id":"473_154","lemma":"فَتِئَ","root":"فتئ","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"2fp","variant":1,"text":"فَتِئْتُنَّ"}
+{"id":"473_154","lemma":"فَتِئَ","root":"فتئ","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"1s","variant":1,"text":"فَتِئْتُ"}
+{"id":"473_154","lemma":"فَتِئَ","root":"فتئ","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"1p","variant":1,"text":"فَتِئْنا"}
+{"id":"473_154","lemma":"فَتِئَ","root":"فتئ","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"3ms","variant":1,"text":"يَفْتَأُ"}
+{"id":"473_154","lemma":"فَتِئَ","root":"فتئ","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"3md","variant":1,"text":"يَفْتَآنِ"}
+{"id":"473_154","lemma":"فَتِئَ","root":"فتئ","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"3mp","variant":1,"text":"يَفْتَؤُونَ"}
+{"id":"473_154","lemma":"فَتِئَ","root":"فتئ","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"3fs","variant":1,"text":"تَفْتَأُ"}
+{"id":"473_154","lemma":"فَتِئَ","root":"فتئ","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"3fd","variant":1,"text":"تَفْتَآنِ"}
+{"id":"473_154","lemma":"فَتِئَ","root":"فتئ","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"3fp","variant":1,"text":"يَفْتَأْنَ"}
+{"id":"473_154","lemma":"فَتِئَ","root":"فتئ","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"2ms","variant":1,"text":"تَفْتَأُ"}
+{"id":"473_154","lemma":"فَتِئَ","root":"فتئ","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"2d","variant":1,"text":"تَفْتَآنِ"}
+{"id":"473_154","lemma":"فَتِئَ","root":"فتئ","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"2mp","variant":1,"text":"تَفْتَؤُونَ"}
+{"id":"473_154","lemma":"فَتِئَ","root":"فتئ","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"2fs","variant":1,"text":"تَفْتَئينَ"}
+{"id":"473_154","lemma":"فَتِئَ","root":"فتئ","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"2fp","variant":1,"text":"تَفْتَأْنَ"}
+{"id":"473_154","lemma":"فَتِئَ","root":"فتئ","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"1s","variant":1,"text":"أَفْتَأُ"}
+{"id":"473_154","lemma":"فَتِئَ","root":"فتئ","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"1p","variant":1,"text":"نَفْتَأُ"}
+{"id":"473_154","lemma":"فَتِئَ","root":"فتئ","wazn":"فعِل يفعَل","form":"I","tense":"imperative","voice":"active","person":"2ms","variant":1,"text":"اِفْتَأْ"}
+{"id":"473_154","lemma":"فَتِئَ","root":"فتئ","wazn":"فعِل يفعَل","form":"I","tense":"imperative","voice":"active","person":"2d","variant":1,"text":"اِفْتَآ"}
+{"id":"473_154","lemma":"فَتِئَ","root":"فتئ","wazn":"فعِل يفعَل","form":"I","tense":"imperative","voice":"active","person":"2mp","variant":1,"text":"اِفْتَؤُوا"}
+{"id":"473_154","lemma":"فَتِئَ","root":"فتئ","wazn":"فعِل يفعَل","form":"I","tense":"imperative","voice":"active","person":"2fs","variant":1,"text":"اِفْتَئي"}
+{"id":"473_154","lemma":"فَتِئَ","root":"فتئ","wazn":"فعِل يفعَل","form":"I","tense":"imperative","voice":"active","person":"2fp","variant":1,"text":"اِفْتَأْنَ"}
+{"id":"474_156","lemma":"شاءَ","root":"شيء","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"3ms","variant":1,"text":"شاءَ"}
+{"id":"474_156","lemma":"شاءَ","root":"شيء","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"3md","variant":1,"text":"شاءَا"}
+{"id":"474_156","lemma":"شاءَ","root":"شيء","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"3mp","variant":1,"text":"شاؤُوا"}
+{"id":"474_156","lemma":"شاءَ","root":"شيء","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"3fs","variant":1,"text":"شاءَتْ"}
+{"id":"474_156","lemma":"شاءَ","root":"شيء","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"3fd","variant":1,"text":"شاءَتا"}
+{"id":"474_156","lemma":"شاءَ","root":"شيء","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"3fp","variant":1,"text":"شِئْنَ"}
+{"id":"474_156","lemma":"شاءَ","root":"شيء","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"2ms","variant":1,"text":"شِئْتَ"}
+{"id":"474_156","lemma":"شاءَ","root":"شيء","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"2d","variant":1,"text":"شِئْتُما"}
+{"id":"474_156","lemma":"شاءَ","root":"شيء","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"2mp","variant":1,"text":"شِئْتُمْ"}
+{"id":"474_156","lemma":"شاءَ","root":"شيء","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"2fs","variant":1,"text":"شِئْتِ"}
+{"id":"474_156","lemma":"شاءَ","root":"شيء","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"2fp","variant":1,"text":"شِئْتُنَّ"}
+{"id":"474_156","lemma":"شاءَ","root":"شيء","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"1s","variant":1,"text":"شِئْتُ"}
+{"id":"474_156","lemma":"شاءَ","root":"شيء","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"1p","variant":1,"text":"شِئْنا"}
+{"id":"474_156","lemma":"شاءَ","root":"شيء","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"3ms","variant":1,"text":"يَشاءُ"}
+{"id":"474_156","lemma":"شاءَ","root":"شيء","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"3mp","variant":1,"text":"يَشاؤُونَ"}
+{"id":"474_156","lemma":"شاءَ","root":"شيء","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"3fs","variant":1,"text":"تَشاءُ"}
+{"id":"474_156","lemma":"شاءَ","root":"شيء","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"3fp","variant":1,"text":"يَشَأْنَ"}
+{"id":"474_156","lemma":"شاءَ","root":"شيء","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"2ms","variant":1,"text":"تَشاءُ"}
+{"id":"474_156","lemma":"شاءَ","root":"شيء","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"2mp","variant":1,"text":"تَشاؤُونَ"}
+{"id":"474_156","lemma":"شاءَ","root":"شيء","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"2fs","variant":1,"text":"تَشائينَ"}
+{"id":"474_156","lemma":"شاءَ","root":"شيء","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"2fp","variant":1,"text":"تَشَأْنَ"}
+{"id":"474_156","lemma":"شاءَ","root":"شيء","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"1s","variant":1,"text":"أَشاءُ"}
+{"id":"474_156","lemma":"شاءَ","root":"شيء","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"1p","variant":1,"text":"نَشاءُ"}
+{"id":"474_156","lemma":"شاءَ","root":"شيء","wazn":"فعِل يفعَل","form":"I","tense":"imperative","voice":"active","person":"2ms","variant":1,"text":"شَأْ"}
+{"id":"474_156","lemma":"شاءَ","root":"شيء","wazn":"فعِل يفعَل","form":"I","tense":"imperative","voice":"active","person":"2d","variant":1,"text":"شاءَا"}
+{"id":"474_156","lemma":"شاءَ","root":"شيء","wazn":"فعِل يفعَل","form":"I","tense":"imperative","voice":"active","person":"2mp","variant":1,"text":"شاؤُوا"}
+{"id":"474_156","lemma":"شاءَ","root":"شيء","wazn":"فعِل يفعَل","form":"I","tense":"imperative","voice":"active","person":"2fs","variant":1,"text":"شائِي"}
+{"id":"474_156","lemma":"شاءَ","root":"شيء","wazn":"فعِل يفعَل","form":"I","tense":"imperative","voice":"active","person":"2fp","variant":1,"text":"شَأْنَ"}
+{"id":"475_217","lemma":"نادَى","root":"ندو","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"3ms","variant":1,"text":"نادَى"}
+{"id":"475_217","lemma":"نادَى","root":"ندو","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"3md","variant":1,"text":"نادَيا"}
+{"id":"475_217","lemma":"نادَى","root":"ندو","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"3mp","variant":1,"text":"نادَوْا"}
+{"id":"475_217","lemma":"نادَى","root":"ندو","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"3fs","variant":1,"text":"نادَتْ"}
+{"id":"475_217","lemma":"نادَى","root":"ندو","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"3fd","variant":1,"text":"نادَتا"}
+{"id":"475_217","lemma":"نادَى","root":"ندو","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"3fp","variant":1,"text":"نادَيْنَ"}
+{"id":"475_217","lemma":"نادَى","root":"ندو","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"2ms","variant":1,"text":"نادَيْتَ"}
+{"id":"475_217","lemma":"نادَى","root":"ندو","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"2d","variant":1,"text":"نادَيْتُما"}
+{"id":"475_217","lemma":"نادَى","root":"ندو","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"2mp","variant":1,"text":"نادَيْتُمْ"}
+{"id":"475_217","lemma":"نادَى","root":"ندو","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"2fs","variant":1,"text":"نادَيْتِ"}
+{"id":"475_217","lemma":"نادَى","root":"ندو","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"2fp","variant":1,"text":"نادَيْتُنَّ"}
+{"id":"475_217","lemma":"نادَى","root":"ندو","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"1s","variant":1,"text":"نادَيْتُ"}
+{"id":"475_217","lemma":"نادَى","root":"ندو","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"1p","variant":1,"text":"نادَيْنا"}
+{"id":"475_217","lemma":"نادَى","root":"ندو","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"3ms","variant":1,"text":"يُنادي"}
+{"id":"475_217","lemma":"نادَى","root":"ندو","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"3md","variant":1,"text":"يُنادِيانِ"}
+{"id":"475_217","lemma":"نادَى","root":"ندو","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"3mp","variant":1,"text":"يُنادونَ"}
+{"id":"475_217","lemma":"نادَى","root":"ندو","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"3fs","variant":1,"text":"تُنادي"}
+{"id":"475_217","lemma":"نادَى","root":"ندو","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"3fd","variant":1,"text":"تُنادِيانِ"}
+{"id":"475_217","lemma":"نادَى","root":"ندو","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"3fp","variant":1,"text":"يُنادينَ"}
+{"id":"475_217","lemma":"نادَى","root":"ندو","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"2ms","variant":1,"text":"تُنادي"}
+{"id":"475_217","lemma":"نادَى","root":"ندو","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"2d","variant":1,"text":"تُنادِيانِ"}
+{"id":"475_217","lemma":"نادَى","root":"ندو","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"2mp","variant":1,"text":"تُنادونَ"}
+{"id":"475_217","lemma":"نادَى","root":"ندو","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"2fs","variant":1,"text":"تُنادينَ"}
+{"id":"475_217","lemma":"نادَى","root":"ندو","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"2fp","variant":1,"text":"تُنادينَ"}
+{"id":"475_217","lemma":"نادَى","root":"ندو","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"1s","variant":1,"text":"أُنادي"}
+{"id":"475_217","lemma":"نادَى","root":"ندو","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"1p","variant":1,"text":"نُنادي"}
+{"id":"475_217","lemma":"نادَى","root":"ندو","wazn":"فاعل","form":"III","tense":"imperative","voice":"active","person":"2ms","variant":1,"text":"نادِ"}
+{"id":"475_217","lemma":"نادَى","root":"ندو","wazn":"فاعل","form":"III","tense":"imperative","voice":"active","person":"2d","variant":1,"text":"نادِيا"}
+{"id":"475_217","lemma":"نادَى","root":"ندو","wazn":"فاعل","form":"III","tense":"imperative","voice":"active","person":"2mp","variant":1,"text":"نادوا"}
+{"id":"475_217","lemma":"نادَى","root":"ندو","wazn":"فاعل","form":"III","tense":"imperative","voice":"active","person":"2fs","variant":1,"text":"نادي"}
+{"id":"475_217","lemma":"نادَى","root":"ندو","wazn":"فاعل","form":"III","tense":"imperative","voice":"active","person":"2fp","variant":1,"text":"نادينَ"}
+{"id":"476_217","lemma":"دارَى","root":"درو","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"3ms","variant":1,"text":"دارَى"}
+{"id":"476_217","lemma":"دارَى","root":"درو","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"3md","variant":1,"text":"دارَيا"}
+{"id":"476_217","lemma":"دارَى","root":"درو","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"3mp","variant":1,"text":"دارَوْا"}
+{"id":"476_217","lemma":"دارَى","root":"درو","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"3fs","variant":1,"text":"دارَتْ"}
+{"id":"476_217","lemma":"دارَى","root":"درو","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"3fd","variant":1,"text":"دارَتَا"}
+{"id":"476_217","lemma":"دارَى","root":"درو","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"3fp","variant":1,"text":"دارَيْنَ"}
+{"id":"476_217","lemma":"دارَى","root":"درو","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"2ms","variant":1,"text":"دارَيْتَ"}
+{"id":"476_217","lemma":"دارَى","root":"درو","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"2d","variant":1,"text":"دارَيْتُما"}
+{"id":"476_217","lemma":"دارَى","root":"درو","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"2mp","variant":1,"text":"دارَيْتُمْ"}
+{"id":"476_217","lemma":"دارَى","root":"درو","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"2fs","variant":1,"text":"دارَيْتِ"}
+{"id":"476_217","lemma":"دارَى","root":"درو","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"2fp","variant":1,"text":"دارَيْتُنَّ"}
+{"id":"476_217","lemma":"دارَى","root":"درو","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"1s","variant":1,"text":"دارَيْتُ"}
+{"id":"476_217","lemma":"دارَى","root":"درو","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"1p","variant":1,"text":"دارَيْنا"}
+{"id":"476_217","lemma":"دارَى","root":"درو","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"3ms","variant":1,"text":"يُداري"}
+{"id":"476_217","lemma":"دارَى","root":"درو","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"3md","variant":1,"text":"يُدارِيانِ"}
+{"id":"476_217","lemma":"دارَى","root":"درو","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"3mp","variant":1,"text":"يُدارونَ"}
+{"id":"476_217","lemma":"دارَى","root":"درو","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"3fs","variant":1,"text":"تُداري"}
+{"id":"476_217","lemma":"دارَى","root":"درو","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"3fd","variant":1,"text":"تُدارِيانِ"}
+{"id":"476_217","lemma":"دارَى","root":"درو","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"3fp","variant":1,"text":"يُدارينَ"}
+{"id":"476_217","lemma":"دارَى","root":"درو","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"2ms","variant":1,"text":"تُداري"}
+{"id":"476_217","lemma":"دارَى","root":"درو","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"2d","variant":1,"text":"تُدارِيانِ"}
+{"id":"476_217","lemma":"دارَى","root":"درو","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"2mp","variant":1,"text":"تُدارونَ"}
+{"id":"476_217","lemma":"دارَى","root":"درو","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"2fs","variant":1,"text":"تُدارينَ"}
+{"id":"476_217","lemma":"دارَى","root":"درو","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"2fp","variant":1,"text":"تُدارينَ"}
+{"id":"476_217","lemma":"دارَى","root":"درو","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"1s","variant":1,"text":"أُداري"}
+{"id":"476_217","lemma":"دارَى","root":"درو","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"1p","variant":1,"text":"نُداري"}
+{"id":"476_217","lemma":"دارَى","root":"درو","wazn":"فاعل","form":"III","tense":"imperative","voice":"active","person":"2ms","variant":1,"text":"دارِ"}
+{"id":"476_217","lemma":"دارَى","root":"درو","wazn":"فاعل","form":"III","tense":"imperative","voice":"active","person":"2d","variant":1,"text":"دارِيا"}
+{"id":"476_217","lemma":"دارَى","root":"درو","wazn":"فاعل","form":"III","tense":"imperative","voice":"active","person":"2mp","variant":1,"text":"داروا"}
+{"id":"476_217","lemma":"دارَى","root":"درو","wazn":"فاعل","form":"III","tense":"imperative","voice":"active","person":"2fs","variant":1,"text":"داري"}
+{"id":"476_217","lemma":"دارَى","root":"درو","wazn":"فاعل","form":"III","tense":"imperative","voice":"active","person":"2fp","variant":1,"text":"دارينَ"}
+{"id":"477_217","lemma":"آذَى","root":"أذي","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"3ms","variant":1,"text":"آذَى"}
+{"id":"477_217","lemma":"آذَى","root":"أذي","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"3md","variant":1,"text":"آذَيا"}
+{"id":"477_217","lemma":"آذَى","root":"أذي","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"3mp","variant":1,"text":"آذَوْا"}
+{"id":"477_217","lemma":"آذَى","root":"أذي","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"3fs","variant":1,"text":"آذَتْ"}
+{"id":"477_217","lemma":"آذَى","root":"أذي","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"3fd","variant":1,"text":"آذَتا"}
+{"id":"477_217","lemma":"آذَى","root":"أذي","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"3fp","variant":1,"text":"آذَيْنَ"}
+{"id":"477_217","lemma":"آذَى","root":"أذي","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"2ms","variant":1,"text":"آذَيْتَ"}
+{"id":"477_217","lemma":"آذَى","root":"أذي","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"2d","variant":1,"text":"آذَيْتُما"}
+{"id":"477_217","lemma":"آذَى","root":"أذي","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"2mp","variant":1,"text":"آذَيْتُمْ"}
+{"id":"477_217","lemma":"آذَى","root":"أذي","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"2fs","variant":1,"text":"آذَيْتِ"}
+{"id":"477_217","lemma":"آذَى","root":"أذي","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"2fp","variant":1,"text":"آذَيْتُنَّ"}
+{"id":"477_217","lemma":"آذَى","root":"أذي","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"1s","variant":1,"text":"آذَيْتُ"}
+{"id":"477_217","lemma":"آذَى","root":"أذي","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"1p","variant":1,"text":"آذَيْنا"}
+{"id":"477_217","lemma":"آذَى","root":"أذي","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"3ms","variant":1,"text":"يُؤاذي"}
+{"id":"477_217","lemma":"آذَى","root":"أذي","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"3md","variant":1,"text":"يُؤاذِيانِ"}
+{"id":"477_217","lemma":"آذَى","root":"أذي","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"3mp","variant":1,"text":"يُؤاذُونَ"}
+{"id":"477_217","lemma":"آذَى","root":"أذي","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"3fs","variant":1,"text":"تُؤاذي"}
+{"id":"477_217","lemma":"آذَى","root":"أذي","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"3fd","variant":1,"text":"تُؤاذِيانِ"}
+{"id":"477_217","lemma":"آذَى","root":"أذي","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"3fp","variant":1,"text":"يُؤاذينَ"}
+{"id":"477_217","lemma":"آذَى","root":"أذي","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"2ms","variant":1,"text":"تُؤاذي"}
+{"id":"477_217","lemma":"آذَى","root":"أذي","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"2d","variant":1,"text":"تُؤاذِيانِ"}
+{"id":"477_217","lemma":"آذَى","root":"أذي","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"2mp","variant":1,"text":"تُؤاذُونَ"}
+{"id":"477_217","lemma":"آذَى","root":"أذي","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"2fs","variant":1,"text":"تُؤاذِينَ"}
+{"id":"477_217","lemma":"آذَى","root":"أذي","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"2fp","variant":1,"text":"تُؤاذينَ"}
+{"id":"477_217","lemma":"آذَى","root":"أذي","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"1s","variant":1,"text":"أُؤاذي"}
+{"id":"477_217","lemma":"آذَى","root":"أذي","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"1p","variant":1,"text":"نُؤاذي"}
+{"id":"477_217","lemma":"آذَى","root":"أذي","wazn":"فاعل","form":"III","tense":"imperative","voice":"active","person":"2ms","variant":1,"text":"آذِ"}
+{"id":"477_217","lemma":"آذَى","root":"أذي","wazn":"فاعل","form":"III","tense":"imperative","voice":"active","person":"2d","variant":1,"text":"آذِيا"}
+{"id":"477_217","lemma":"آذَى","root":"أذي","wazn":"فاعل","form":"III","tense":"imperative","voice":"active","person":"2mp","variant":1,"text":"آذُوا"}
+{"id":"477_217","lemma":"آذَى","root":"أذي","wazn":"فاعل","form":"III","tense":"imperative","voice":"active","person":"2fs","variant":1,"text":"آذِي"}
+{"id":"477_217","lemma":"آذَى","root":"أذي","wazn":"فاعل","form":"III","tense":"imperative","voice":"active","person":"2fp","variant":1,"text":"آذينَ"}
+{"id":"478_217","lemma":"شاءَى","root":"شأو","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"3ms","variant":1,"text":"شاءَى"}
+{"id":"478_217","lemma":"شاءَى","root":"شأو","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"3md","variant":1,"text":"شاءَيا"}
+{"id":"478_217","lemma":"شاءَى","root":"شأو","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"3mp","variant":1,"text":"شاءَوْا"}
+{"id":"478_217","lemma":"شاءَى","root":"شأو","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"3fs","variant":1,"text":"شاءَتْ"}
+{"id":"478_217","lemma":"شاءَى","root":"شأو","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"3fd","variant":1,"text":"شاءَتا"}
+{"id":"478_217","lemma":"شاءَى","root":"شأو","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"3fp","variant":1,"text":"شاءَيْنَ"}
+{"id":"478_217","lemma":"شاءَى","root":"شأو","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"2ms","variant":1,"text":"شاءَيْتَ"}
+{"id":"478_217","lemma":"شاءَى","root":"شأو","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"2d","variant":1,"text":"شاءَيْتُما"}
+{"id":"478_217","lemma":"شاءَى","root":"شأو","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"2mp","variant":1,"text":"شاءَيْتُمْ"}
+{"id":"478_217","lemma":"شاءَى","root":"شأو","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"2fs","variant":1,"text":"شاءَيْتِ"}
+{"id":"478_217","lemma":"شاءَى","root":"شأو","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"2fp","variant":1,"text":"شاءَيْتُنَّ"}
+{"id":"478_217","lemma":"شاءَى","root":"شأو","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"1s","variant":1,"text":"شاءَيْتُ"}
+{"id":"478_217","lemma":"شاءَى","root":"شأو","wazn":"فاعل","form":"III","tense":"past","voice":"active","person":"1p","variant":1,"text":"شاءَيْنا"}
+{"id":"478_217","lemma":"شاءَى","root":"شأو","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"3ms","variant":1,"text":"يُشائي"}
+{"id":"478_217","lemma":"شاءَى","root":"شأو","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"3md","variant":1,"text":"يُشائِيانِ"}
+{"id":"478_217","lemma":"شاءَى","root":"شأو","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"3mp","variant":1,"text":"يُشاؤُونَ"}
+{"id":"478_217","lemma":"شاءَى","root":"شأو","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"3fs","variant":1,"text":"تُشائي"}
+{"id":"478_217","lemma":"شاءَى","root":"شأو","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"3fd","variant":1,"text":"تُشائِيانِ"}
+{"id":"478_217","lemma":"شاءَى","root":"شأو","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"2ms","variant":1,"text":"تُشائي"}
+{"id":"478_217","lemma":"شاءَى","root":"شأو","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"2d","variant":1,"text":"تُشائِيانِ"}
+{"id":"478_217","lemma":"شاءَى","root":"شأو","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"2mp","variant":1,"text":"تُشاؤُونَ"}
+{"id":"478_217","lemma":"شاءَى","root":"شأو","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"2fs","variant":1,"text":"تُشائِينَ"}
+{"id":"478_217","lemma":"شاءَى","root":"شأو","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"2fp","variant":1,"text":"تُشائينَ"}
+{"id":"478_217","lemma":"شاءَى","root":"شأو","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"1s","variant":1,"text":"أُشائي"}
+{"id":"478_217","lemma":"شاءَى","root":"شأو","wazn":"فاعل","form":"III","tense":"indicative","voice":"active","person":"1p","variant":1,"text":"نُشائي"}
+{"id":"478_217","lemma":"شاءَى","root":"شأو","wazn":"فاعل","form":"III","tense":"imperative","voice":"active","person":"2ms","variant":1,"text":"شاءِ"}
+{"id":"478_217","lemma":"شاءَى","root":"شأو","wazn":"فاعل","form":"III","tense":"imperative","voice":"active","person":"2d","variant":1,"text":"شائِيا"}
+{"id":"478_217","lemma":"شاءَى","root":"شأو","wazn":"فاعل","form":"III","tense":"imperative","voice":"active","person":"2mp","variant":1,"text":"شاؤُوا"}
+{"id":"478_217","lemma":"شاءَى","root":"شأو","wazn":"فاعل","form":"III","tense":"imperative","voice":"active","person":"2fs","variant":1,"text":"شائِي"}
+{"id":"478_217","lemma":"شاءَى","root":"شأو","wazn":"فاعل","form":"III","tense":"imperative","voice":"active","person":"2fp","variant":1,"text":"شائينَ"}
+{"id":"479_243","lemma":"تَراءَدَ","root":"رءد","wazn":"تفاعل","form":"VI","tense":"past","voice":"active","person":"3ms","variant":1,"text":"تَراءَدَ"}
+{"id":"479_243","lemma":"تَراءَدَ","root":"رءد","wazn":"تفاعل","form":"VI","tense":"past","voice":"active","person":"3md","variant":1,"text":"تَراءَدا"}
+{"id":"479_243","lemma":"تَراءَدَ","root":"رءد","wazn":"تفاعل","form":"VI","tense":"past","voice":"active","person":"3mp","variant":1,"text":"تَراءَدوا"}
+{"id":"479_243","lemma":"تَراءَدَ","root":"رءد","wazn":"تفاعل","form":"VI","tense":"past","voice":"active","person":"3fs","variant":1,"text":"تَراءَدَتْ"}
+{"id":"479_243","lemma":"تَراءَدَ","root":"رءد","wazn":"تفاعل","form":"VI","tense":"past","voice":"active","person":"3fd","variant":1,"text":"تَراءَدَتا"}
+{"id":"479_243","lemma":"تَراءَدَ","root":"رءد","wazn":"تفاعل","form":"VI","tense":"past","voice":"active","person":"3fp","variant":1,"text":"تَراءَدْنَ"}
+{"id":"479_243","lemma":"تَراءَدَ","root":"رءد","wazn":"تفاعل","form":"VI","tense":"past","voice":"active","person":"2ms","variant":1,"text":"تَراءَدْتَ"}
+{"id":"479_243","lemma":"تَراءَدَ","root":"رءد","wazn":"تفاعل","form":"VI","tense":"past","voice":"active","person":"2d","variant":1,"text":"تَراءَدْتُما"}
+{"id":"479_243","lemma":"تَراءَدَ","root":"رءد","wazn":"تفاعل","form":"VI","tense":"past","voice":"active","person":"2mp","variant":1,"text":"تَراءَدْتُمْ"}
+{"id":"479_243","lemma":"تَراءَدَ","root":"رءد","wazn":"تفاعل","form":"VI","tense":"past","voice":"active","person":"2fs","variant":1,"text":"تَراءَدْتِ"}
+{"id":"479_243","lemma":"تَراءَدَ","root":"رءد","wazn":"تفاعل","form":"VI","tense":"past","voice":"active","person":"2fp","variant":1,"text":"تَراءَدْتُنَّ"}
+{"id":"479_243","lemma":"تَراءَدَ","root":"رءد","wazn":"تفاعل","form":"VI","tense":"past","voice":"active","person":"1s","variant":1,"text":"تَراءَدْتُ"}
+{"id":"479_243","lemma":"تَراءَدَ","root":"رءد","wazn":"تفاعل","form":"VI","tense":"past","voice":"active","person":"1p","variant":1,"text":"تَراءَدْنا"}
+{"id":"479_243","lemma":"تَراءَدَ","root":"رءد","wazn":"تفاعل","form":"VI","tense":"indicative","voice":"active","person":"3ms","variant":1,"text":"يَتَراءَدُ"}
+{"id":"479_243","lemma":"تَراءَدَ","root":"رءد","wazn":"تفاعل","form":"VI","tense":"indicative","voice":"active","person":"3md","variant":1,"text":"يَتَراءَدانِ"}
+{"id":"479_243","lemma":"تَراءَدَ","root":"رءد","wazn":"تفاعل","form":"VI","tense":"indicative","voice":"active","person":"3mp","variant":1,"text":"يَتَراءَدونَ"}
+{"id":"479_243","lemma":"تَراءَدَ","root":"رءد","wazn":"تفاعل","form":"VI","tense":"indicative","voice":"active","person":"3fs","variant":1,"text":"تَتَراءَدُ"}
+{"id":"479_243","lemma":"تَراءَدَ","root":"رءد","wazn":"تفاعل","form":"VI","tense":"indicative","voice":"active","person":"3fd","variant":1,"text":"تَتَراءَدانِ"}
+{"id":"479_243","lemma":"تَراءَدَ","root":"رءد","wazn":"تفاعل","form":"VI","tense":"indicative","voice":"active","person":"3fp","variant":1,"text":"يَتَراءَدْنَ"}
+{"id":"479_243","lemma":"تَراءَدَ","root":"رءد","wazn":"تفاعل","form":"VI","tense":"indicative","voice":"active","person":"2ms","variant":1,"text":"تَتَراءَدُ"}
+{"id":"479_243","lemma":"تَراءَدَ","root":"رءد","wazn":"تفاعل","form":"VI","tense":"indicative","voice":"active","person":"2d","variant":1,"text":"تَتَراءَدانِ"}
+{"id":"479_243","lemma":"تَراءَدَ","root":"رءد","wazn":"تفاعل","form":"VI","tense":"indicative","voice":"active","person":"2mp","variant":1,"text":"تَتَراءَدونَ"}
+{"id":"479_243","lemma":"تَراءَدَ","root":"رءد","wazn":"تفاعل","form":"VI","tense":"indicative","voice":"active","person":"2fs","variant":1,"text":"تَتَراءَدينَ"}
+{"id":"479_243","lemma":"تَراءَدَ","root":"رءد","wazn":"تفاعل","form":"VI","tense":"indicative","voice":"active","person":"2fp","variant":1,"text":"تَتَراءَدْنَ"}
+{"id":"479_243","lemma":"تَراءَدَ","root":"رءد","wazn":"تفاعل","form":"VI","tense":"indicative","voice":"active","person":"1s","variant":1,"text":"أَتَراءَدُ"}
+{"id":"479_243","lemma":"تَراءَدَ","root":"رءد","wazn":"تفاعل","form":"VI","tense":"indicative","voice":"active","person":"1p","variant":1,"text":"نَتَراءَدُ"}
+{"id":"479_243","lemma":"تَراءَدَ","root":"رءد","wazn":"تفاعل","form":"VI","tense":"imperative","voice":"active","person":"2ms","variant":1,"text":"تَراءَدْ"}
+{"id":"479_243","lemma":"تَراءَدَ","root":"رءد","wazn":"تفاعل","form":"VI","tense":"imperative","voice":"active","person":"2d","variant":1,"text":"تَراءَدا"}
+{"id":"479_243","lemma":"تَراءَدَ","root":"رءد","wazn":"تفاعل","form":"VI","tense":"imperative","voice":"active","person":"2mp","variant":1,"text":"تَراءَدوا"}
+{"id":"479_243","lemma":"تَراءَدَ","root":"رءد","wazn":"تفاعل","form":"VI","tense":"imperative","voice":"active","person":"2fs","variant":1,"text":"تَراءَدي"}
+{"id":"479_243","lemma":"تَراءَدَ","root":"رءد","wazn":"تفاعل","form":"VI","tense":"imperative","voice":"active","person":"2fp","variant":1,"text":"تَراءَدْنَ"}
+{"id":"480_243","lemma":"تَفاءَلَ","root":"فأل","wazn":"تفاعل","form":"VI","tense":"past","voice":"active","person":"3ms","variant":1,"text":"تَفاءَلَ"}
+{"id":"480_243","lemma":"تَفاءَلَ","root":"فأل","wazn":"تفاعل","form":"VI","tense":"past","voice":"active","person":"3md","variant":1,"text":"تَفاءَلا"}
+{"id":"480_243","lemma":"تَفاءَلَ","root":"فأل","wazn":"تفاعل","form":"VI","tense":"past","voice":"active","person":"3mp","variant":1,"text":"تَفاءَلوا"}
+{"id":"480_243","lemma":"تَفاءَلَ","root":"فأل","wazn":"تفاعل","form":"VI","tense":"past","voice":"active","person":"3fs","variant":1,"text":"تَفاءَلَتْ"}
+{"id":"480_243","lemma":"تَفاءَلَ","root":"فأل","wazn":"تفاعل","form":"VI","tense":"past","voice":"active","person":"3fd","variant":1,"text":"تَفاءَلَتا"}
+{"id":"480_243","lemma":"تَفاءَلَ","root":"فأل","wazn":"تفاعل","form":"VI","tense":"past","voice":"active","person":"3fp","variant":1,"text":"تَفاءَلْنَ"}
+{"id":"480_243","lemma":"تَفاءَلَ","root":"فأل","wazn":"تفاعل","form":"VI","tense":"past","voice":"active","person":"2ms","variant":1,"text":"تَفاءَلْتَ"}
+{"id":"480_243","lemma":"تَفاءَلَ","root":"فأل","wazn":"تفاعل","form":"VI","tense":"past","voice":"active","person":"2d","variant":1,"text":"تَفاءَلْتُما"}
+{"id":"480_243","lemma":"تَفاءَلَ","root":"فأل","wazn":"تفاعل","form":"VI","tense":"past","voice":"active","person":"2mp","variant":1,"text":"تَفاءَلْتُمْ"}
+{"id":"480_243","lemma":"تَفاءَلَ","root":"فأل","wazn":"تفاعل","form":"VI","tense":"past","voice":"active","person":"2fs","variant":1,"text":"تَفاءَلْتِ"}
+{"id":"480_243","lemma":"تَفاءَلَ","root":"فأل","wazn":"تفاعل","form":"VI","tense":"past","voice":"active","person":"2fp","variant":1,"text":"تَفاءَلْتُنَّ"}
+{"id":"480_243","lemma":"تَفاءَلَ","root":"فأل","wazn":"تفاعل","form":"VI","tense":"past","voice":"active","person":"1s","variant":1,"text":"تَفاءَلْتُ"}
+{"id":"480_243","lemma":"تَفاءَلَ","root":"فأل","wazn":"تفاعل","form":"VI","tense":"past","voice":"active","person":"1p","variant":1,"text":"تَفاءَلْنا"}
+{"id":"480_243","lemma":"تَفاءَلَ","root":"فأل","wazn":"تفاعل","form":"VI","tense":"indicative","voice":"active","person":"3ms","variant":1,"text":"يَتَفاءَلُ"}
+{"id":"480_243","lemma":"تَفاءَلَ","root":"فأل","wazn":"تفاعل","form":"VI","tense":"indicative","voice":"active","person":"3md","variant":1,"text":"يَتَفاءَلانِ"}
+{"id":"480_243","lemma":"تَفاءَلَ","root":"فأل","wazn":"تفاعل","form":"VI","tense":"indicative","voice":"active","person":"3mp","variant":1,"text":"يَتَفاءَلونَ"}
+{"id":"480_243","lemma":"تَفاءَلَ","root":"فأل","wazn":"تفاعل","form":"VI","tense":"indicative","voice":"active","person":"3fs","variant":1,"text":"تَتَفاءَلُ"}
+{"id":"480_243","lemma":"تَفاءَلَ","root":"فأل","wazn":"تفاعل","form":"VI","tense":"indicative","voice":"active","person":"3fd","variant":1,"text":"تَتَفاءَلانِ"}
+{"id":"480_243","lemma":"تَفاءَلَ","root":"فأل","wazn":"تفاعل","form":"VI","tense":"indicative","voice":"active","person":"3fp","variant":1,"text":"يَتَفاءَلْنَ"}
+{"id":"480_243","lemma":"تَفاءَلَ","root":"فأل","wazn":"تفاعل","form":"VI","tense":"indicative","voice":"active","person":"2ms","variant":1,"text":"تَتَفاءَلُ"}
+{"id":"480_243","lemma":"تَفاءَلَ","root":"فأل","wazn":"تفاعل","form":"VI","tense":"indicative","voice":"active","person":"2d","variant":1,"text":"تَتَفاءَلانِ"}
+{"id":"480_243","lemma":"تَفاءَلَ","root":"فأل","wazn":"تفاعل","form":"VI","tense":"indicative","voice":"active","person":"2mp","variant":1,"text":"تَتَفاءَلونَ"}
+{"id":"480_243","lemma":"تَفاءَلَ","root":"فأل","wazn":"تفاعل","form":"VI","tense":"indicative","voice":"active","person":"2fs","variant":1,"text":"تَتَفاءَلينَ"}
+{"id":"480_243","lemma":"تَفاءَلَ","root":"فأل","wazn":"تفاعل","form":"VI","tense":"indicative","voice":"active","person":"2fp","variant":1,"text":"تَتَفاءَلْنَ"}
+{"id":"480_243","lemma":"تَفاءَلَ","root":"فأل","wazn":"تفاعل","form":"VI","tense":"indicative","voice":"active","person":"1s","variant":1,"text":"أَتَفاءَلُ"}
+{"id":"480_243","lemma":"تَفاءَلَ","root":"فأل","wazn":"تفاعل","form":"VI","tense":"indicative","voice":"active","person":"1p","variant":1,"text":"نَتَفاءَلُ"}
+{"id":"480_243","lemma":"تَفاءَلَ","root":"فأل","wazn":"تفاعل","form":"VI","tense":"imperative","voice":"active","person":"2ms","variant":1,"text":"تَفاءَلْ"}
+{"id":"480_243","lemma":"تَفاءَلَ","root":"فأل","wazn":"تفاعل","form":"VI","tense":"imperative","voice":"active","person":"2d","variant":1,"text":"تَفاءَلا"}
+{"id":"480_243","lemma":"تَفاءَلَ","root":"فأل","wazn":"تفاعل","form":"VI","tense":"imperative","voice":"active","person":"2mp","variant":1,"text":"تَفاءَلوا"}
+{"id":"480_243","lemma":"تَفاءَلَ","root":"فأل","wazn":"تفاعل","form":"VI","tense":"imperative","voice":"active","person":"2fs","variant":1,"text":"تَفاءَلي"}
+{"id":"480_243","lemma":"تَفاءَلَ","root":"فأل","wazn":"تفاعل","form":"VI","tense":"imperative","voice":"active","person":"2fp","variant":1,"text":"تَفاءَلْنَ"}
+{"id":"481_257","lemma":"اِنْحَنَى","root":"حنو","wazn":"انفعل","form":"VII","tense":"past","voice":"active","person":"3ms","variant":1,"text":"اِنْحَنَى"}
+{"id":"481_257","lemma":"اِنْحَنَى","root":"حنو","wazn":"انفعل","form":"VII","tense":"past","voice":"active","person":"3md","variant":1,"text":"اِنْحَنَيا"}
+{"id":"481_257","lemma":"اِنْحَنَى","root":"حنو","wazn":"انفعل","form":"VII","tense":"past","voice":"active","person":"3mp","variant":1,"text":"اِنْحَنَوْا"}
+{"id":"481_257","lemma":"اِنْحَنَى","root":"حنو","wazn":"انفعل","form":"VII","tense":"past","voice":"active","person":"3fs","variant":1,"text":"اِنْحَنَتْ"}
+{"id":"481_257","lemma":"اِنْحَنَى","root":"حنو","wazn":"انفعل","form":"VII","tense":"past","voice":"active","person":"3fd","variant":1,"text":"اِنْحَنَتا"}
+{"id":"481_257","lemma":"اِنْحَنَى","root":"حنو","wazn":"انفعل","form":"VII","tense":"past","voice":"active","person":"3fp","variant":1,"text":"اِنْحَنَيْنَ"}
+{"id":"481_257","lemma":"اِنْحَنَى","root":"حنو","wazn":"انفعل","form":"VII","tense":"past","voice":"active","person":"2ms","variant":1,"text":"اِنْحَنَيْتَ"}
+{"id":"481_257","lemma":"اِنْحَنَى","root":"حنو","wazn":"انفعل","form":"VII","tense":"past","voice":"active","person":"2d","variant":1,"text":"اِنْحَنَيْتُما"}
+{"id":"481_257","lemma":"اِنْحَنَى","root":"حنو","wazn":"انفعل","form":"VII","tense":"past","voice":"active","person":"2mp","variant":1,"text":"اِنْحَنَيْتُمْ"}
+{"id":"481_257","lemma":"اِنْحَنَى","root":"حنو","wazn":"انفعل","form":"VII","tense":"past","voice":"active","person":"2fs","variant":1,"text":"اِنْحَنَيْتِ"}
+{"id":"481_257","lemma":"اِنْحَنَى","root":"حنو","wazn":"انفعل","form":"VII","tense":"past","voice":"active","person":"2fp","variant":1,"text":"اِنْحَنَيْتُنَّ"}
+{"id":"481_257","lemma":"اِنْحَنَى","root":"حنو","wazn":"انفعل","form":"VII","tense":"past","voice":"active","person":"1s","variant":1,"text":"اِنْحَنَيْتُ"}
+{"id":"481_257","lemma":"اِنْحَنَى","root":"حنو","wazn":"انفعل","form":"VII","tense":"past","voice":"active","person":"1p","variant":1,"text":"اِنْحَنَيْنا"}
+{"id":"481_257","lemma":"اِنْحَنَى","root":"حنو","wazn":"انفعل","form":"VII","tense":"indicative","voice":"active","person":"3ms","variant":1,"text":"يَنْحَنِي"}
+{"id":"481_257","lemma":"اِنْحَنَى","root":"حنو","wazn":"انفعل","form":"VII","tense":"indicative","voice":"active","person":"3md","variant":1,"text":"يَنْحَنِيانِ"}
+{"id":"481_257","lemma":"اِنْحَنَى","root":"حنو","wazn":"انفعل","form":"VII","tense":"indicative","voice":"active","person":"3mp","variant":1,"text":"يَنْحَنُونَ"}
+{"id":"481_257","lemma":"اِنْحَنَى","root":"حنو","wazn":"انفعل","form":"VII","tense":"indicative","voice":"active","person":"3fs","variant":1,"text":"تَنْحَنِي"}
+{"id":"481_257","lemma":"اِنْحَنَى","root":"حنو","wazn":"انفعل","form":"VII","tense":"indicative","voice":"active","person":"3fd","variant":1,"text":"تَنْحَنِيانِ"}
+{"id":"481_257","lemma":"اِنْحَنَى","root":"حنو","wazn":"انفعل","form":"VII","tense":"indicative","voice":"active","person":"3fp","variant":1,"text":"يَنْحَنِينَ"}
+{"id":"481_257","lemma":"اِنْحَنَى","root":"حنو","wazn":"انفعل","form":"VII","tense":"indicative","voice":"active","person":"2ms","variant":1,"text":"تَنْحَنِي"}
+{"id":"481_257","lemma":"اِنْحَنَى","root":"حنو","wazn":"انفعل","form":"VII","tense":"indicative","voice":"active","person":"2d","variant":1,"text":"تَنْحَنِيانِ"}
+{"id":"481_257","lemma":"اِنْحَنَى","root":"حنو","wazn":"انفعل","form":"VII","tense":"indicative","voice":"active","person":"2mp","variant":1,"text":"تَنْحَنُونَ"}
+{"id":"481_257","lemma":"اِنْحَنَى","root":"حنو","wazn":"انفعل","form":"VII","tense":"indicative","voice":"active","person":"2fs","variant":1,"text":"تَنْحَنِينَ"}
+{"id":"481_257","lemma":"اِنْحَنَى","root":"حنو","wazn":"انفعل","form":"VII","tense":"indicative","voice":"active","person":"2fp","variant":1,"text":"تَنْحَنِينَ"}
+{"id":"481_257","lemma":"اِنْحَنَى","root":"حنو","wazn":"انفعل","form":"VII","tense":"indicative","voice":"active","person":"1s","variant":1,"text":"أَنْحَنِي"}
+{"id":"481_257","lemma":"اِنْحَنَى","root":"حنو","wazn":"انفعل","form":"VII","tense":"indicative","voice":"active","person":"1p","variant":1,"text":"نَنْحَنِي"}
+{"id":"481_257","lemma":"اِنْحَنَى","root":"حنو","wazn":"انفعل","form":"VII","tense":"imperative","voice":"active","person":"2ms","variant":1,"text":"اِنْحَنِ"}
+{"id":"481_257","lemma":"اِنْحَنَى","root":"حنو","wazn":"انفعل","form":"VII","tense":"imperative","voice":"active","person":"2d","variant":1,"text":"اِنْحَنِيا"}
+{"id":"481_257","lemma":"اِنْحَنَى","root":"حنو","wazn":"انفعل","form":"VII","tense":"imperative","voice":"active","person":"2mp","variant":1,"text":"اِنْحَنُوا"}
+{"id":"481_257","lemma":"اِنْحَنَى","root":"حنو","wazn":"انفعل","form":"VII","tense":"imperative","voice":"active","person":"2fs","variant":1,"text":"اِنْحَنِي"}
+{"id":"481_257","lemma":"اِنْحَنَى","root":"حنو","wazn":"انفعل","form":"VII","tense":"imperative","voice":"active","person":"2fp","variant":1,"text":"اِنْحَنِينَ"}
+{"id":"482_257","lemma":"اِنْفَأَى","root":"فأي","wazn":"انفعل","form":"VII","tense":"past","voice":"active","person":"3ms","variant":1,"text":"اِنْفَأَى"}
+{"id":"482_257","lemma":"اِنْفَأَى","root":"فأي","wazn":"انفعل","form":"VII","tense":"past","voice":"active","person":"3md","variant":1,"text":"اِنْفَأَيا"}
+{"id":"482_257","lemma":"اِنْفَأَى","root":"فأي","wazn":"انفعل","form":"VII","tense":"past","voice":"active","person":"3mp","variant":1,"text":"اِنْفَأَوْا"}
+{"id":"482_257","lemma":"اِنْفَأَى","root":"فأي","wazn":"انفعل","form":"VII","tense":"past","voice":"active","person":"3fs","variant":1,"text":"اِنْفَأَتْ"}
+{"id":"482_257","lemma":"اِنْفَأَى","root":"فأي","wazn":"انفعل","form":"VII","tense":"past","voice":"active","person":"3fd","variant":1,"text":"اِنْفَأَتا"}
+{"id":"482_257","lemma":"اِنْفَأَى","root":"فأي","wazn":"انفعل","form":"VII","tense":"past","voice":"active","person":"3fp","variant":1,"text":"اِنْفَأَيْنَ"}
+{"id":"482_257","lemma":"اِنْفَأَى","root":"فأي","wazn":"انفعل","form":"VII","tense":"past","voice":"active","person":"2ms","variant":1,"text":"اِنْفَأَيْتَ"}
+{"id":"482_257","lemma":"اِنْفَأَى","root":"فأي","wazn":"انفعل","form":"VII","tense":"past","voice":"active","person":"2d","variant":1,"text":"اِنْفَأَيْتُما"}
+{"id":"482_257","lemma":"اِنْفَأَى","root":"فأي","wazn":"انفعل","form":"VII","tense":"past","voice":"active","person":"2mp","variant":1,"text":"اِنْفَأَيْتُمْ"}
+{"id":"482_257","lemma":"اِنْفَأَى","root":"فأي","wazn":"انفعل","form":"VII","tense":"past","voice":"active","person":"2fs","variant":1,"text":"اِنْفَأَيْتِ"}
+{"id":"482_257","lemma":"اِنْفَأَى","root":"فأي","wazn":"انفعل","form":"VII","tense":"past","voice":"active","person":"2fp","variant":1,"text":"اِنْفَأَيْتُنَّ"}
+{"id":"482_257","lemma":"اِنْفَأَى","root":"فأي","wazn":"انفعل","form":"VII","tense":"past","voice":"active","person":"1s","variant":1,"text":"اِنْفَأَيْتُ"}
+{"id":"482_257","lemma":"اِنْفَأَى","root":"فأي","wazn":"انفعل","form":"VII","tense":"past","voice":"active","person":"1p","variant":1,"text":"اِنْفَأَيْنا"}
+{"id":"482_257","lemma":"اِنْفَأَى","root":"فأي","wazn":"انفعل","form":"VII","tense":"indicative","voice":"active","person":"3ms","variant":1,"text":"يَنْفَئِي"}
+{"id":"482_257","lemma":"اِنْفَأَى","root":"فأي","wazn":"انفعل","form":"VII","tense":"indicative","voice":"active","person":"3md","variant":1,"text":"يَنْفَئِيانِ"}
+{"id":"482_257","lemma":"اِنْفَأَى","root":"فأي","wazn":"انفعل","form":"VII","tense":"indicative","voice":"active","person":"3mp","variant":1,"text":"يَنْفَؤُونَ"}
+{"id":"482_257","lemma":"اِنْفَأَى","root":"فأي","wazn":"انفعل","form":"VII","tense":"indicative","voice":"active","person":"3fs","variant":1,"text":"تَنْفَئِي"}
+{"id":"482_257","lemma":"اِنْفَأَى","root":"فأي","wazn":"انفعل","form":"VII","tense":"indicative","voice":"active","person":"3fd","variant":1,"text":"تَنْفَئِيانِ"}
+{"id":"482_257","lemma":"اِنْفَأَى","root":"فأي","wazn":"انفعل","form":"VII","tense":"indicative","voice":"active","person":"3fp","variant":1,"text":"يَنْفَئِينَ"}
+{"id":"482_257","lemma":"اِنْفَأَى","root":"فأي","wazn":"انفعل","form":"VII","tense":"indicative","voice":"active","person":"2ms","variant":1,"text":"تَنْفَئِي"}
+{"id":"482_257","lemma":"اِنْفَأَى","root":"فأي","wazn":"انفعل","form":"VII","tense":"indicative","voice":"active","person":"2d","variant":1,"text":"تَنْفَئِيانِ"}
+{"id":"482_257","lemma":"اِنْفَأَى","root":"فأي","wazn":"انفعل","form":"VII","tense":"indicative","voice":"active","person":"2mp","variant":1,"text":"تَنْفَؤُونَ"}
+{"id":"482_257","lemma":"اِنْفَأَى","root":"فأي","wazn":"انفعل","form":"VII","tense":"indicative","voice":"active","person":"2fs","variant":1,"text":"تَنْفَئينَ"}
+{"id":"482_257","lemma":"اِنْفَأَى","root":"فأي","wazn":"انفعل","form":"VII","tense":"indicative","voice":"active","person":"2fp","variant":1,"text":"تَنْفَئِينَ"}
+{"id":"482_257","lemma":"اِنْفَأَى","root":"فأي","wazn":"انفعل","form":"VII","tense":"indicative","voice":"active","person":"1s","variant":1,"text":"أَنْفَئِي"}
+{"id":"482_257","lemma":"اِنْفَأَى","root":"فأي","wazn":"انفعل","form":"VII","tense":"indicative","voice":"active","person":"1p","variant":1,"text":"نَنْفَئِي"}
+{"id":"482_257","lemma":"اِنْفَأَى","root":"فأي","wazn":"انفعل","form":"VII","tense":"imperative","voice":"active","person":"2ms","variant":1,"text":"اِنْفَإِ"}
+{"id":"482_257","lemma":"اِنْفَأَى","root":"فأي","wazn":"انفعل","form":"VII","tense":"imperative","voice":"active","person":"2d","variant":1,"text":"اِنْفَئِيا"}
+{"id":"482_257","lemma":"اِنْفَأَى","root":"فأي","wazn":"انفعل","form":"VII","tense":"imperative","voice":"active","person":"2mp","variant":1,"text":"اِنْفَؤُوا"}
+{"id":"482_257","lemma":"اِنْفَأَى","root":"فأي","wazn":"انفعل","form":"VII","tense":"imperative","voice":"active","person":"2fs","variant":1,"text":"اِنْفَئي"}
+{"id":"482_257","lemma":"اِنْفَأَى","root":"فأي","wazn":"انفعل","form":"VII","tense":"imperative","voice":"active","person":"2fp","variant":1,"text":"اِنْفَئِينَ"}
+{"id":"483_266","lemma":"اِصْطادَ","root":"صود","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"3ms","variant":1,"text":"اِصْطادَ"}
+{"id":"483_266","lemma":"اِصْطادَ","root":"صود","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"3md","variant":1,"text":"اِصْطادا"}
+{"id":"483_266","lemma":"اِصْطادَ","root":"صود","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"3mp","variant":1,"text":"اِصْطادُوا"}
+{"id":"483_266","lemma":"اِصْطادَ","root":"صود","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"3fs","variant":1,"text":"اِصْطادَتْ"}
+{"id":"483_266","lemma":"اِصْطادَ","root":"صود","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"3fd","variant":1,"text":"اِصْطادَتا"}
+{"id":"483_266","lemma":"اِصْطادَ","root":"صود","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"3fp","variant":1,"text":"اِصْطَدْنَ"}
+{"id":"483_266","lemma":"اِصْطادَ","root":"صود","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"2ms","variant":1,"text":"اِصْطَدْتَ"}
+{"id":"483_266","lemma":"اِصْطادَ","root":"صود","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"2d","variant":1,"text":"اِصْطَدْتُما"}
+{"id":"483_266","lemma":"اِصْطادَ","root":"صود","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"2mp","variant":1,"text":"اِصْطَدْتُمْ"}
+{"id":"483_266","lemma":"اِصْطادَ","root":"صود","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"2fs","variant":1,"text":"اِصْطَدْتِ"}
+{"id":"483_266","lemma":"اِصْطادَ","root":"صود","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"2fp","variant":1,"text":"اِصْطَدْتُنَّ"}
+{"id":"483_266","lemma":"اِصْطادَ","root":"صود","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"1s","variant":1,"text":"اِصْطَدْتُ"}
+{"id":"483_266","lemma":"اِصْطادَ","root":"صود","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"1p","variant":1,"text":"اِصْطَدْنا"}
+{"id":"483_266","lemma":"اِصْطادَ","root":"صود","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"3ms","variant":1,"text":"يَصْطادُ"}
+{"id":"483_266","lemma":"اِصْطادَ","root":"صود","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"3md","variant":1,"text":"يَصْطادانِ"}
+{"id":"483_266","lemma":"اِصْطادَ","root":"صود","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"3mp","variant":1,"text":"يَصْطادونَ"}
+{"id":"483_266","lemma":"اِصْطادَ","root":"صود","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"3fs","variant":1,"text":"تَصْطادُ"}
+{"id":"483_266","lemma":"اِصْطادَ","root":"صود","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"3fd","variant":1,"text":"تَصْطادانِ"}
+{"id":"483_266","lemma":"اِصْطادَ","root":"صود","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"3fp","variant":1,"text":"يَصْطَدْنَ"}
+{"id":"483_266","lemma":"اِصْطادَ","root":"صود","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"2ms","variant":1,"text":"تَصْطادُ"}
+{"id":"483_266","lemma":"اِصْطادَ","root":"صود","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"2d","variant":1,"text":"تَصْطادانِ"}
+{"id":"483_266","lemma":"اِصْطادَ","root":"صود","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"2mp","variant":1,"text":"تَصْطادونَ"}
+{"id":"483_266","lemma":"اِصْطادَ","root":"صود","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"2fs","variant":1,"text":"تَصْطادينَ"}
+{"id":"483_266","lemma":"اِصْطادَ","root":"صود","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"2fp","variant":1,"text":"تَصْطَدْنَ"}
+{"id":"483_266","lemma":"اِصْطادَ","root":"صود","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"1s","variant":1,"text":"أَصْطادُ"}
+{"id":"483_266","lemma":"اِصْطادَ","root":"صود","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"1p","variant":1,"text":"نَصْطادُ"}
+{"id":"483_266","lemma":"اِصْطادَ","root":"صود","wazn":"افتعل","form":"VIII","tense":"imperative","voice":"active","person":"2ms","variant":1,"text":"اِصْطَدْ"}
+{"id":"483_266","lemma":"اِصْطادَ","root":"صود","wazn":"افتعل","form":"VIII","tense":"imperative","voice":"active","person":"2d","variant":1,"text":"اِصْطادا"}
+{"id":"483_266","lemma":"اِصْطادَ","root":"صود","wazn":"افتعل","form":"VIII","tense":"imperative","voice":"active","person":"2mp","variant":1,"text":"اِصْطادُوا"}
+{"id":"483_266","lemma":"اِصْطادَ","root":"صود","wazn":"افتعل","form":"VIII","tense":"imperative","voice":"active","person":"2fs","variant":1,"text":"اِصْطادي"}
+{"id":"483_266","lemma":"اِصْطادَ","root":"صود","wazn":"افتعل","form":"VIII","tense":"imperative","voice":"active","person":"2fp","variant":1,"text":"اِصْطَدْنَ"}
+{"id":"484_268","lemma":"اِتَّأَى","root":"وأي","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"3ms","variant":1,"text":"اِتَّأَى"}
+{"id":"484_268","lemma":"اِتَّأَى","root":"وأي","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"3md","variant":1,"text":"اِتَّأَيا"}
+{"id":"484_268","lemma":"اِتَّأَى","root":"وأي","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"3mp","variant":1,"text":"اِتَّأَوْا"}
+{"id":"484_268","lemma":"اِتَّأَى","root":"وأي","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"3fs","variant":1,"text":"اِتَّأَتْ"}
+{"id":"484_268","lemma":"اِتَّأَى","root":"وأي","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"3fd","variant":1,"text":"اِتَّأَتا"}
+{"id":"484_268","lemma":"اِتَّأَى","root":"وأي","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"3fp","variant":1,"text":"اِتَّأَيْنَ"}
+{"id":"484_268","lemma":"اِتَّأَى","root":"وأي","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"2ms","variant":1,"text":"اِتَّأَيْتَ"}
+{"id":"484_268","lemma":"اِتَّأَى","root":"وأي","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"2d","variant":1,"text":"اِتَّأَيْتُما"}
+{"id":"484_268","lemma":"اِتَّأَى","root":"وأي","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"2mp","variant":1,"text":"اِتَّأَيْتُمْ"}
+{"id":"484_268","lemma":"اِتَّأَى","root":"وأي","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"2fs","variant":1,"text":"اِتَّأَيْتِ"}
+{"id":"484_268","lemma":"اِتَّأَى","root":"وأي","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"2fp","variant":1,"text":"اِتَّأَيْتُنَّ"}
+{"id":"484_268","lemma":"اِتَّأَى","root":"وأي","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"1s","variant":1,"text":"اِتَّأَيْتُ"}
+{"id":"484_268","lemma":"اِتَّأَى","root":"وأي","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"1p","variant":1,"text":"اِتَّأَيْنا"}
+{"id":"484_268","lemma":"اِتَّأَى","root":"وأي","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"3ms","variant":1,"text":"يَتَّئي"}
+{"id":"484_268","lemma":"اِتَّأَى","root":"وأي","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"3md","variant":1,"text":"يَتَّئِيانِ"}
+{"id":"484_268","lemma":"اِتَّأَى","root":"وأي","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"3mp","variant":1,"text":"يَتَّؤُونَ"}
+{"id":"484_268","lemma":"اِتَّأَى","root":"وأي","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"3fs","variant":1,"text":"تَتَّئي"}
+{"id":"484_268","lemma":"اِتَّأَى","root":"وأي","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"3fd","variant":1,"text":"تَتَّئِيانِ"}
+{"id":"484_268","lemma":"اِتَّأَى","root":"وأي","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"3fp","variant":1,"text":"يَتَّئينَ"}
+{"id":"484_268","lemma":"اِتَّأَى","root":"وأي","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"2ms","variant":1,"text":"تَتَّئي"}
+{"id":"484_268","lemma":"اِتَّأَى","root":"وأي","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"2d","variant":1,"text":"تَتَّئِيانِ"}
+{"id":"484_268","lemma":"اِتَّأَى","root":"وأي","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"2mp","variant":1,"text":"تَتَّؤُونَ"}
+{"id":"484_268","lemma":"اِتَّأَى","root":"وأي","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"2fs","variant":1,"text":"تَتَّئينَ"}
+{"id":"484_268","lemma":"اِتَّأَى","root":"وأي","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"2fp","variant":1,"text":"تَتَّئينَ"}
+{"id":"484_268","lemma":"اِتَّأَى","root":"وأي","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"1s","variant":1,"text":"أَتَّئي"}
+{"id":"484_268","lemma":"اِتَّأَى","root":"وأي","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"1p","variant":1,"text":"نَتَّئي"}
+{"id":"484_268","lemma":"اِتَّأَى","root":"وأي","wazn":"افتعل","form":"VIII","tense":"imperative","voice":"active","person":"2ms","variant":1,"text":"اِتَّإِ"}
+{"id":"484_268","lemma":"اِتَّأَى","root":"وأي","wazn":"افتعل","form":"VIII","tense":"imperative","voice":"active","person":"2d","variant":1,"text":"اِتَّئِيا"}
+{"id":"484_268","lemma":"اِتَّأَى","root":"وأي","wazn":"افتعل","form":"VIII","tense":"imperative","voice":"active","person":"2mp","variant":1,"text":"اِتَّؤُوا"}
+{"id":"484_268","lemma":"اِتَّأَى","root":"وأي","wazn":"افتعل","form":"VIII","tense":"imperative","voice":"active","person":"2fs","variant":1,"text":"اِتَّئي"}
+{"id":"484_268","lemma":"اِتَّأَى","root":"وأي","wazn":"افتعل","form":"VIII","tense":"imperative","voice":"active","person":"2fp","variant":1,"text":"اِتَّئينَ"}
+{"id":"485_268","lemma":"اِيْتَشَى","root":"وشي","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"3ms","variant":1,"text":"اِيْتَشَى"}
+{"id":"485_268","lemma":"اِيْتَشَى","root":"وشي","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"3md","variant":1,"text":"اِيْتَشَيا"}
+{"id":"485_268","lemma":"اِيْتَشَى","root":"وشي","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"3mp","variant":1,"text":"اِيْتَشَوْا"}
+{"id":"485_268","lemma":"اِيْتَشَى","root":"وشي","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"3fs","variant":1,"text":"اِيْتَشَتْ"}
+{"id":"485_268","lemma":"اِيْتَشَى","root":"وشي","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"3fd","variant":1,"text":"اِيْتَشَتا"}
+{"id":"485_268","lemma":"اِيْتَشَى","root":"وشي","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"3fp","variant":1,"text":"اِيْتَشَيْنَ"}
+{"id":"485_268","lemma":"اِيْتَشَى","root":"وشي","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"2ms","variant":1,"text":"اِيْتَشَيْتَ"}
+{"id":"485_268","lemma":"اِيْتَشَى","root":"وشي","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"2d","variant":1,"text":"اِيْتَشَيْتُما"}
+{"id":"485_268","lemma":"اِيْتَشَى","root":"وشي","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"2mp","variant":1,"text":"اِيْتَشَيْتُمْ"}
+{"id":"485_268","lemma":"اِيْتَشَى","root":"وشي","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"2fs","variant":1,"text":"اِيْتَشَيْتِ"}
+{"id":"485_268","lemma":"اِيْتَشَى","root":"وشي","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"2fp","variant":1,"text":"اِيْتَشَيْتُنَّ"}
+{"id":"485_268","lemma":"اِيْتَشَى","root":"وشي","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"1s","variant":1,"text":"اِيْتَشَيْتُ"}
+{"id":"485_268","lemma":"اِيْتَشَى","root":"وشي","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"1p","variant":1,"text":"اِيْتَشَيْنا"}
+{"id":"485_268","lemma":"اِيْتَشَى","root":"وشي","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"3ms","variant":1,"text":"يَوْتَشي"}
+{"id":"485_268","lemma":"اِيْتَشَى","root":"وشي","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"3md","variant":1,"text":"يَوْتَشِيانِ"}
+{"id":"485_268","lemma":"اِيْتَشَى","root":"وشي","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"3mp","variant":1,"text":"يَوْتَشونَ"}
+{"id":"485_268","lemma":"اِيْتَشَى","root":"وشي","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"3fs","variant":1,"text":"تَوْتَشي"}
+{"id":"485_268","lemma":"اِيْتَشَى","root":"وشي","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"3fd","variant":1,"text":"تَوْتَشِيانِ"}
+{"id":"485_268","lemma":"اِيْتَشَى","root":"وشي","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"3fp","variant":1,"text":"يَوْتَشينَ"}
+{"id":"485_268","lemma":"اِيْتَشَى","root":"وشي","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"2ms","variant":1,"text":"تَوْتَشي"}
+{"id":"485_268","lemma":"اِيْتَشَى","root":"وشي","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"2d","variant":1,"text":"تَوْتَشِيانِ"}
+{"id":"485_268","lemma":"اِيْتَشَى","root":"وشي","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"2mp","variant":1,"text":"تَوْتَشونَ"}
+{"id":"485_268","lemma":"اِيْتَشَى","root":"وشي","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"2fs","variant":1,"text":"تَوْتَشينَ"}
+{"id":"485_268","lemma":"اِيْتَشَى","root":"وشي","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"2fp","variant":1,"text":"تَوْتَشينَ"}
+{"id":"485_268","lemma":"اِيْتَشَى","root":"وشي","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"1s","variant":1,"text":"أَوْتَشي"}
+{"id":"485_268","lemma":"اِيْتَشَى","root":"وشي","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"1p","variant":1,"text":"نَوْتَشي"}
+{"id":"485_268","lemma":"اِيْتَشَى","root":"وشي","wazn":"افتعل","form":"VIII","tense":"imperative","voice":"active","person":"2ms","variant":1,"text":"اِيْتَشِ"}
+{"id":"485_268","lemma":"اِيْتَشَى","root":"وشي","wazn":"افتعل","form":"VIII","tense":"imperative","voice":"active","person":"2d","variant":1,"text":"اِيْتَشِيا"}
+{"id":"485_268","lemma":"اِيْتَشَى","root":"وشي","wazn":"افتعل","form":"VIII","tense":"imperative","voice":"active","person":"2mp","variant":1,"text":"اِيْتَشوا"}
+{"id":"485_268","lemma":"اِيْتَشَى","root":"وشي","wazn":"افتعل","form":"VIII","tense":"imperative","voice":"active","person":"2fs","variant":1,"text":"اِيْتَشي"}
+{"id":"485_268","lemma":"اِيْتَشَى","root":"وشي","wazn":"افتعل","form":"VIII","tense":"imperative","voice":"active","person":"2fp","variant":1,"text":"اِيْتَشينَ"}
+{"id":"486_281","lemma":"اِسْتَأَبَّ","root":"أبب","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3ms","variant":1,"text":"اِسْتَأَبَّ"}
+{"id":"486_281","lemma":"اِسْتَأَبَّ","root":"أبب","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3md","variant":1,"text":"اِسْتَأَبَّا"}
+{"id":"486_281","lemma":"اِسْتَأَبَّ","root":"أبب","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3mp","variant":1,"text":"اِسْتَأَبُّوا"}
+{"id":"486_281","lemma":"اِسْتَأَبَّ","root":"أبب","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3fs","variant":1,"text":"اِسْتَأَبَّتْ"}
+{"id":"486_281","lemma":"اِسْتَأَبَّ","root":"أبب","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3fd","variant":1,"text":"اِسْتَأَبَّتا"}
+{"id":"486_281","lemma":"اِسْتَأَبَّ","root":"أبب","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3fp","variant":1,"text":"اِسْتَأْبَبْنَ"}
+{"id":"486_281","lemma":"اِسْتَأَبَّ","root":"أبب","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"2ms","variant":1,"text":"اِسْتَأْبَبْتَ"}
+{"id":"486_281","lemma":"اِسْتَأَبَّ","root":"أبب","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"2d","variant":1,"text":"اِسْتَأْبَبْتُما"}
+{"id":"486_281","lemma":"اِسْتَأَبَّ","root":"أبب","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"2mp","variant":1,"text":"اِسْتَأْبَبْتُمْ"}
+{"id":"486_281","lemma":"اِسْتَأَبَّ","root":"أبب","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"2fs","variant":1,"text":"اِسْتَأْبَبْتِ"}
+{"id":"486_281","lemma":"اِسْتَأَبَّ","root":"أبب","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"2fp","variant":1,"text":"اِسْتَأْبَبْتُنَّ"}
+{"id":"486_281","lemma":"اِسْتَأَبَّ","root":"أبب","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"1s","variant":1,"text":"اِسْتَأْبَبْتُ"}
+{"id":"486_281","lemma":"اِسْتَأَبَّ","root":"أبب","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"1p","variant":1,"text":"اِسْتَأْبَبْنا"}
+{"id":"486_281","lemma":"اِسْتَأَبَّ","root":"أبب","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3ms","variant":1,"text":"يَسْتَئِبُّ"}
+{"id":"486_281","lemma":"اِسْتَأَبَّ","root":"أبب","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3md","variant":1,"text":"يَسْتَئِبَّانِ"}
+{"id":"486_281","lemma":"اِسْتَأَبَّ","root":"أبب","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3mp","variant":1,"text":"يَسْتَئِبُّونَ"}
+{"id":"486_281","lemma":"اِسْتَأَبَّ","root":"أبب","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3fs","variant":1,"text":"تَسْتَئِبُّ"}
+{"id":"486_281","lemma":"اِسْتَأَبَّ","root":"أبب","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3fd","variant":1,"text":"تَسْتَئِبَّانِ"}
+{"id":"486_281","lemma":"اِسْتَأَبَّ","root":"أبب","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3fp","variant":1,"text":"يَسْتَأْبِبْنَ"}
+{"id":"486_281","lemma":"اِسْتَأَبَّ","root":"أبب","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"2ms","variant":1,"text":"تَسْتَئِبُّ"}
+{"id":"486_281","lemma":"اِسْتَأَبَّ","root":"أبب","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"2d","variant":1,"text":"تَسْتَئِبَّانِ"}
+{"id":"486_281","lemma":"اِسْتَأَبَّ","root":"أبب","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"2mp","variant":1,"text":"تَسْتَئِبُّونَ"}
+{"id":"486_281","lemma":"اِسْتَأَبَّ","root":"أبب","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"2fs","variant":1,"text":"تَسْتَئِبّينَ"}
+{"id":"486_281","lemma":"اِسْتَأَبَّ","root":"أبب","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"2fp","variant":1,"text":"تَسْتَأْبِبْنَ"}
+{"id":"486_281","lemma":"اِسْتَأَبَّ","root":"أبب","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"1s","variant":1,"text":"أَسْتَئِبُّ"}
+{"id":"486_281","lemma":"اِسْتَأَبَّ","root":"أبب","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"1p","variant":1,"text":"نَسْتَئِبُّ"}
+{"id":"486_281","lemma":"اِسْتَأَبَّ","root":"أبب","wazn":"استفعل","form":"X","tense":"imperative","voice":"active","person":"2ms","variant":1,"text":"اِسْتَأْبِبْ"}
+{"id":"486_281","lemma":"اِسْتَأَبَّ","root":"أبب","wazn":"استفعل","form":"X","tense":"imperative","voice":"active","person":"2d","variant":1,"text":"اِسْتَئِبَّا"}
+{"id":"486_281","lemma":"اِسْتَأَبَّ","root":"أبب","wazn":"استفعل","form":"X","tense":"imperative","voice":"active","person":"2mp","variant":1,"text":"اِسْتَئِبُّوا"}
+{"id":"486_281","lemma":"اِسْتَأَبَّ","root":"أبب","wazn":"استفعل","form":"X","tense":"imperative","voice":"active","person":"2fs","variant":1,"text":"اِسْتَئِبِّي"}
+{"id":"486_281","lemma":"اِسْتَأَبَّ","root":"أبب","wazn":"استفعل","form":"X","tense":"imperative","voice":"active","person":"2fp","variant":1,"text":"اِسْتَأْبِبْنَ"}
+{"id":"487_281","lemma":"اِسْتَأَمَّ","root":"أمم","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3ms","variant":1,"text":"اِسْتَأَمَّ"}
+{"id":"487_281","lemma":"اِسْتَأَمَّ","root":"أمم","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3md","variant":1,"text":"اِسْتَأَمَّا"}
+{"id":"487_281","lemma":"اِسْتَأَمَّ","root":"أمم","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3mp","variant":1,"text":"اِسْتَأَمُّوا"}
+{"id":"487_281","lemma":"اِسْتَأَمَّ","root":"أمم","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3fs","variant":1,"text":"اِسْتَأَمَّتْ"}
+{"id":"487_281","lemma":"اِسْتَأَمَّ","root":"أمم","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3fd","variant":1,"text":"اِسْتَأَمَّتا"}
+{"id":"487_281","lemma":"اِسْتَأَمَّ","root":"أمم","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3fp","variant":1,"text":"اِسْتَأْمَمْنَ"}
+{"id":"487_281","lemma":"اِسْتَأَمَّ","root":"أمم","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"2ms","variant":1,"text":"اِسْتَأْمَمْتَ"}
+{"id":"487_281","lemma":"اِسْتَأَمَّ","root":"أمم","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"2d","variant":1,"text":"اِسْتَأْمَمْتُما"}
+{"id":"487_281","lemma":"اِسْتَأَمَّ","root":"أمم","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"2mp","variant":1,"text":"اِسْتَأْمَمْتُمْ"}
+{"id":"487_281","lemma":"اِسْتَأَمَّ","root":"أمم","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"2fs","variant":1,"text":"اِسْتَأْمَمْتِ"}
+{"id":"487_281","lemma":"اِسْتَأَمَّ","root":"أمم","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"2fp","variant":1,"text":"اِسْتَأْمَمْتُنَّ"}
+{"id":"487_281","lemma":"اِسْتَأَمَّ","root":"أمم","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"1s","variant":1,"text":"اِسْتَأْمَمْتُ"}
+{"id":"487_281","lemma":"اِسْتَأَمَّ","root":"أمم","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"1p","variant":1,"text":"اِسْتَأْمَمْنا"}
+{"id":"487_281","lemma":"اِسْتَأَمَّ","root":"أمم","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3ms","variant":1,"text":"يَسْتَئِمُّ"}
+{"id":"487_281","lemma":"اِسْتَأَمَّ","root":"أمم","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3md","variant":1,"text":"يَسْتَئِمَّانِ"}
+{"id":"487_281","lemma":"اِسْتَأَمَّ","root":"أمم","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3mp","variant":1,"text":"يَسْتَئِمُّونَ"}
+{"id":"487_281","lemma":"اِسْتَأَمَّ","root":"أمم","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3fs","variant":1,"text":"تَسْتَئِمُّ"}
+{"id":"487_281","lemma":"اِسْتَأَمَّ","root":"أمم","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3fd","variant":1,"text":"تَسْتَئِمَّانِ"}
+{"id":"487_281","lemma":"اِسْتَأَمَّ","root":"أمم","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3fp","variant":1,"text":"يَسْتَأْمِمْنَ"}
+{"id":"487_281","lemma":"اِسْتَأَمَّ","root":"أمم","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"2ms","variant":1,"text":"تَسْتَئِمُّ"}
+{"id":"487_281","lemma":"اِسْتَأَمَّ","root":"أمم","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"2d","variant":1,"text":"تَسْتَئِمَّانِ"}
+{"id":"487_281","lemma":"اِسْتَأَمَّ","root":"أمم","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"2mp","variant":1,"text":"تَسْتَئِمُّونَ"}
+{"id":"487_281","lemma":"اِسْتَأَمَّ","root":"أمم","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"2fs","variant":1,"text":"تَسْتَئِمّينَ"}
+{"id":"487_281","lemma":"اِسْتَأَمَّ","root":"أمم","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"2fp","variant":1,"text":"تَسْتَأْمِمْنَ"}
+{"id":"487_281","lemma":"اِسْتَأَمَّ","root":"أمم","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"1s","variant":1,"text":"أَسْتَئِمُّ"}
+{"id":"487_281","lemma":"اِسْتَأَمَّ","root":"أمم","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"1p","variant":1,"text":"نَسْتَئِمُّ"}
+{"id":"487_281","lemma":"اِسْتَأَمَّ","root":"أمم","wazn":"استفعل","form":"X","tense":"imperative","voice":"active","person":"2ms","variant":1,"text":"اِسْتَأْمِمْ"}
+{"id":"487_281","lemma":"اِسْتَأَمَّ","root":"أمم","wazn":"استفعل","form":"X","tense":"imperative","voice":"active","person":"2d","variant":1,"text":"اِسْتَئِمَّا"}
+{"id":"487_281","lemma":"اِسْتَأَمَّ","root":"أمم","wazn":"استفعل","form":"X","tense":"imperative","voice":"active","person":"2mp","variant":1,"text":"اِسْتَئِمُّوا"}
+{"id":"487_281","lemma":"اِسْتَأَمَّ","root":"أمم","wazn":"استفعل","form":"X","tense":"imperative","voice":"active","person":"2fs","variant":1,"text":"اِسْتَئِمِّي"}
+{"id":"487_281","lemma":"اِسْتَأَمَّ","root":"أمم","wazn":"استفعل","form":"X","tense":"imperative","voice":"active","person":"2fp","variant":1,"text":"اِسْتَأْمِمْنَ"}
+{"id":"488_282","lemma":"اِسْتَأْنَفَ","root":"أنف","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3ms","variant":1,"text":"اِسْتَأْنَفَ"}
+{"id":"488_282","lemma":"اِسْتَأْنَفَ","root":"أنف","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3md","variant":1,"text":"اِسْتَأْنَفا"}
+{"id":"488_282","lemma":"اِسْتَأْنَفَ","root":"أنف","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3mp","variant":1,"text":"اِسْتَأْنَفوا"}
+{"id":"488_282","lemma":"اِسْتَأْنَفَ","root":"أنف","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3fs","variant":1,"text":"اِسْتَأْنَفَتْ"}
+{"id":"488_282","lemma":"اِسْتَأْنَفَ","root":"أنف","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3fd","variant":1,"text":"اِسْتَأْنَفَتَا"}
+{"id":"488_282","lemma":"اِسْتَأْنَفَ","root":"أنف","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3fp","variant":1,"text":"اِسْتَأْنَفْنَ"}
+{"id":"488_282","lemma":"اِسْتَأْنَفَ","root":"أنف","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"2ms","variant":1,"text":"اِسْتَأْنَفْتَ"}
+{"id":"488_282","lemma":"اِسْتَأْنَفَ","root":"أنف","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"2d","variant":1,"text":"اِسْتَأْنَفْتُما"}
+{"id":"488_282","lemma":"اِسْتَأْنَفَ","root":"أنف","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"2mp","variant":1,"text":"اِسْتَأْنَفْتُمْ"}
+{"id":"488_282","lemma":"اِسْتَأْنَفَ","root":"أنف","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"2fs","variant":1,"text":"اِسْتَأْنَفْتِ"}
+{"id":"488_282","lemma":"اِسْتَأْنَفَ","root":"أنف","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"2fp","variant":1,"text":"اِسْتَأْنَفْتُنَّ"}
+{"id":"488_282","lemma":"اِسْتَأْنَفَ","root":"أنف","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"1s","variant":1,"text":"اِسْتَأْنَفْتُ"}
+{"id":"488_282","lemma":"اِسْتَأْنَفَ","root":"أنف","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"1p","variant":1,"text":"اِسْتَأْنَفْنا"}
+{"id":"488_282","lemma":"اِسْتَأْنَفَ","root":"أنف","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3ms","variant":1,"text":"يَسْتَأْنِفُ"}
+{"id":"488_282","lemma":"اِسْتَأْنَفَ","root":"أنف","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3md","variant":1,"text":"يَسْتَأْنِفانِ"}
+{"id":"488_282","lemma":"اِسْتَأْنَفَ","root":"أنف","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3mp","variant":1,"text":"يَسْتَأْنِفونَ"}
+{"id":"488_282","lemma":"اِسْتَأْنَفَ","root":"أنف","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3fs","variant":1,"text":"تَسْتَأْنِفُ"}
+{"id":"488_282","lemma":"اِسْتَأْنَفَ","root":"أنف","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3fd","variant":1,"text":"تَسْتَأْنِفانِ"}
+{"id":"488_282","lemma":"اِسْتَأْنَفَ","root":"أنف","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3fp","variant":1,"text":"يَسْتَأْنِفْنَ"}
+{"id":"488_282","lemma":"اِسْتَأْنَفَ","root":"أنف","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"2ms","variant":1,"text":"تَسْتَأْنِفُ"}
+{"id":"488_282","lemma":"اِسْتَأْنَفَ","root":"أنف","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"2d","variant":1,"text":"تَسْتَأْنِفانِ"}
+{"id":"488_282","lemma":"اِسْتَأْنَفَ","root":"أنف","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"2mp","variant":1,"text":"تَسْتَأْنِفونَ"}
+{"id":"488_282","lemma":"اِسْتَأْنَفَ","root":"أنف","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"2fs","variant":1,"text":"تَسْتَأْنِفِينَ"}
+{"id":"488_282","lemma":"اِسْتَأْنَفَ","root":"أنف","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"2fp","variant":1,"text":"تَسْتَأْنِفْنَ"}
+{"id":"488_282","lemma":"اِسْتَأْنَفَ","root":"أنف","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"1s","variant":1,"text":"أَسْتَأْنِفُ"}
+{"id":"488_282","lemma":"اِسْتَأْنَفَ","root":"أنف","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"1p","variant":1,"text":"نَسْتَأْنِفُ"}
+{"id":"488_282","lemma":"اِسْتَأْنَفَ","root":"أنف","wazn":"استفعل","form":"X","tense":"imperative","voice":"active","person":"2ms","variant":1,"text":"اِسْتَأْنِفْ"}
+{"id":"488_282","lemma":"اِسْتَأْنَفَ","root":"أنف","wazn":"استفعل","form":"X","tense":"imperative","voice":"active","person":"2d","variant":1,"text":"اِسْتَأْنِفا"}
+{"id":"488_282","lemma":"اِسْتَأْنَفَ","root":"أنف","wazn":"استفعل","form":"X","tense":"imperative","voice":"active","person":"2mp","variant":1,"text":"اِسْتَأْنِفوا"}
+{"id":"488_282","lemma":"اِسْتَأْنَفَ","root":"أنف","wazn":"استفعل","form":"X","tense":"imperative","voice":"active","person":"2fs","variant":1,"text":"اِسْتَأْنِفِي"}
+{"id":"488_282","lemma":"اِسْتَأْنَفَ","root":"أنف","wazn":"استفعل","form":"X","tense":"imperative","voice":"active","person":"2fp","variant":1,"text":"اِسْتَأْنِفْنَ"}
+{"id":"489_282","lemma":"اِسْتَأْصَلَ","root":"أصل","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3ms","variant":1,"text":"اِسْتَأْصَلَ"}
+{"id":"489_282","lemma":"اِسْتَأْصَلَ","root":"أصل","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3md","variant":1,"text":"اِسْتَأْصَلا"}
+{"id":"489_282","lemma":"اِسْتَأْصَلَ","root":"أصل","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3mp","variant":1,"text":"اِسْتَأْصَلوا"}
+{"id":"489_282","lemma":"اِسْتَأْصَلَ","root":"أصل","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3fs","variant":1,"text":"اِسْتَأْصَلَتْ"}
+{"id":"489_282","lemma":"اِسْتَأْصَلَ","root":"أصل","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3fd","variant":1,"text":"اِسْتَأْصَلَتا"}
+{"id":"489_282","lemma":"اِسْتَأْصَلَ","root":"أصل","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3fp","variant":1,"text":"اِسْتَأْصَلْنَ"}
+{"id":"489_282","lemma":"اِسْتَأْصَلَ","root":"أصل","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"2ms","variant":1,"text":"اِسْتَأْصَلْتَ"}
+{"id":"489_282","lemma":"اِسْتَأْصَلَ","root":"أصل","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"2d","variant":1,"text":"اِسْتَأْصَلْتُما"}
+{"id":"489_282","lemma":"اِسْتَأْصَلَ","root":"أصل","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"2mp","variant":1,"text":"اِسْتَأْصَلْتُمْ"}
+{"id":"489_282","lemma":"اِسْتَأْصَلَ","root":"أصل","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"2fs","variant":1,"text":"اِسْتَأْصَلْتِ"}
+{"id":"489_282","lemma":"اِسْتَأْصَلَ","root":"أصل","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"2fp","variant":1,"text":"اِسْتَأْصَلْتُنَّ"}
+{"id":"489_282","lemma":"اِسْتَأْصَلَ","root":"أصل","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"1s","variant":1,"text":"اِسْتَأْصَلْتُ"}
+{"id":"489_282","lemma":"اِسْتَأْصَلَ","root":"أصل","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"1p","variant":1,"text":"اِسْتَأْصَلْنَا"}
+{"id":"489_282","lemma":"اِسْتَأْصَلَ","root":"أصل","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3ms","variant":1,"text":"يَسْتَأْصِلُ"}
+{"id":"489_282","lemma":"اِسْتَأْصَلَ","root":"أصل","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3md","variant":1,"text":"يَسْتَأْصِلانِ"}
+{"id":"489_282","lemma":"اِسْتَأْصَلَ","root":"أصل","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3mp","variant":1,"text":"يَسْتَأْصِلونَ"}
+{"id":"489_282","lemma":"اِسْتَأْصَلَ","root":"أصل","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3fs","variant":1,"text":"تَسْتَأْصِلُ"}
+{"id":"489_282","lemma":"اِسْتَأْصَلَ","root":"أصل","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3fd","variant":1,"text":"تَسْتَأْصِلانِ"}
+{"id":"489_282","lemma":"اِسْتَأْصَلَ","root":"أصل","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3fp","variant":1,"text":"يَسْتَأْصِلْنَ"}
+{"id":"489_282","lemma":"اِسْتَأْصَلَ","root":"أصل","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"2ms","variant":1,"text":"تَسْتَأْصِلُ"}
+{"id":"489_282","lemma":"اِسْتَأْصَلَ","root":"أصل","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"2d","variant":1,"text":"تَسْتَأْصِلانِ"}
+{"id":"489_282","lemma":"اِسْتَأْصَلَ","root":"أصل","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"2mp","variant":1,"text":"تَسْتَأْصِلونَ"}
+{"id":"489_282","lemma":"اِسْتَأْصَلَ","root":"أصل","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"2fs","variant":1,"text":"تَسْتَأْصِلينَ"}
+{"id":"489_282","lemma":"اِسْتَأْصَلَ","root":"أصل","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"2fp","variant":1,"text":"تَسْتَأْصِلْنَ"}
+{"id":"489_282","lemma":"اِسْتَأْصَلَ","root":"أصل","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"1s","variant":1,"text":"أَسْتَأْصِلُ"}
+{"id":"489_282","lemma":"اِسْتَأْصَلَ","root":"أصل","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"1p","variant":1,"text":"نَسْتَأْصِلُ"}
+{"id":"489_282","lemma":"اِسْتَأْصَلَ","root":"أصل","wazn":"استفعل","form":"X","tense":"imperative","voice":"active","person":"2ms","variant":1,"text":"اِسْتَأْصِلْ"}
+{"id":"489_282","lemma":"اِسْتَأْصَلَ","root":"أصل","wazn":"استفعل","form":"X","tense":"imperative","voice":"active","person":"2d","variant":1,"text":"اِسْتَأْصِلا"}
+{"id":"489_282","lemma":"اِسْتَأْصَلَ","root":"أصل","wazn":"استفعل","form":"X","tense":"imperative","voice":"active","person":"2mp","variant":1,"text":"اِسْتَأْصِلوا"}
+{"id":"489_282","lemma":"اِسْتَأْصَلَ","root":"أصل","wazn":"استفعل","form":"X","tense":"imperative","voice":"active","person":"2fs","variant":1,"text":"اِسْتَأْصِلي"}
+{"id":"489_282","lemma":"اِسْتَأْصَلَ","root":"أصل","wazn":"استفعل","form":"X","tense":"imperative","voice":"active","person":"2fp","variant":1,"text":"اِسْتَأْصِلْنَ"}
+{"id":"490_283","lemma":"اِسْتَشْأَمَ","root":"شأم","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3ms","variant":1,"text":"اِسْتَشْأَمَ"}
+{"id":"490_283","lemma":"اِسْتَشْأَمَ","root":"شأم","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3md","variant":1,"text":"اِسْتَشْأَما"}
+{"id":"490_283","lemma":"اِسْتَشْأَمَ","root":"شأم","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3mp","variant":1,"text":"اِسْتَشْأَمُوا"}
+{"id":"490_283","lemma":"اِسْتَشْأَمَ","root":"شأم","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3fs","variant":1,"text":"اِسْتَشْأَمَتْ"}
+{"id":"490_283","lemma":"اِسْتَشْأَمَ","root":"شأم","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3fd","variant":1,"text":"اِسْتَشْأَمَتَا"}
+{"id":"490_283","lemma":"اِسْتَشْأَمَ","root":"شأم","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3fp","variant":1,"text":"اِسْتَشْأَمْنَ"}
+{"id":"490_283","lemma":"اِسْتَشْأَمَ","root":"شأم","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"2ms","variant":1,"text":"اِسْتَشْأَمْتَ"}
+{"id":"490_283","lemma":"اِسْتَشْأَمَ","root":"شأم","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"2d","variant":1,"text":"اِسْتَشْأَمْتُما"}
+{"id":"490_283","lemma":"اِسْتَشْأَمَ","root":"شأم","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"2mp","variant":1,"text":"اِسْتَشْأَمْتُمْ"}
+{"id":"490_283","lemma":"اِسْتَشْأَمَ","root":"شأم","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"2fs","variant":1,"text":"اِسْتَشْأَمْتِ"}
+{"id":"490_283","lemma":"اِسْتَشْأَمَ","root":"شأم","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"2fp","variant":1,"text":"اِسْتَشْأَمْتُنَّ"}
+{"id":"490_283","lemma":"اِسْتَشْأَمَ","root":"شأم","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"1s","variant":1,"text":"اِسْتَشْأَمْتُ"}
+{"id":"490_283","lemma":"اِسْتَشْأَمَ","root":"شأم","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"1p","variant":1,"text":"اِسْتَشْأَمْنَا"}
+{"id":"490_283","lemma":"اِسْتَشْأَمَ","root":"شأم","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3ms","variant":1,"text":"يَسْتَشْئِمُ"}
+{"id":"490_283","lemma":"اِسْتَشْأَمَ","root":"شأم","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3md","variant":1,"text":"يَسْتَشْئِمانِ"}
+{"id":"490_283","lemma":"اِسْتَشْأَمَ","root":"شأم","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3mp","variant":1,"text":"يَسْتَشْئِمونَ"}
+{"id":"490_283","lemma":"اِسْتَشْأَمَ","root":"شأم","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3fs","variant":1,"text":"تَسْتَشْئِمُ"}
+{"id":"490_283","lemma":"اِسْتَشْأَمَ","root":"شأم","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3fd","variant":1,"text":"تَسْتَشْئِمانِ"}
+{"id":"490_283","lemma":"اِسْتَشْأَمَ","root":"شأم","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3fp","variant":1,"text":"يَسْتَشْئِمْنَ"}
+{"id":"490_283","lemma":"اِسْتَشْأَمَ","root":"شأم","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"2ms","variant":1,"text":"تَسْتَشْئِمُ"}
+{"id":"490_283","lemma":"اِسْتَشْأَمَ","root":"شأم","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"2d","variant":1,"text":"تَسْتَشْئِمانِ"}
+{"id":"490_283","lemma":"اِسْتَشْأَمَ","root":"شأم","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"2mp","variant":1,"text":"تَسْتَشْئِمونَ"}
+{"id":"490_283","lemma":"اِسْتَشْأَمَ","root":"شأم","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"2fs","variant":1,"text":"تَسْتَشْئِمِينَ"}
+{"id":"490_283","lemma":"اِسْتَشْأَمَ","root":"شأم","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"2fp","variant":1,"text":"تَسْتَشْئِمْنَ"}
+{"id":"490_283","lemma":"اِسْتَشْأَمَ","root":"شأم","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"1s","variant":1,"text":"أَسْتَشْئِمُ"}
+{"id":"490_283","lemma":"اِسْتَشْأَمَ","root":"شأم","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"1p","variant":1,"text":"نَسْتَشْئِمُ"}
+{"id":"490_283","lemma":"اِسْتَشْأَمَ","root":"شأم","wazn":"استفعل","form":"X","tense":"imperative","voice":"active","person":"2ms","variant":1,"text":"اِسْتَشْئِمْ"}
+{"id":"490_283","lemma":"اِسْتَشْأَمَ","root":"شأم","wazn":"استفعل","form":"X","tense":"imperative","voice":"active","person":"2d","variant":1,"text":"اِسْتَشْئِما"}
+{"id":"490_283","lemma":"اِسْتَشْأَمَ","root":"شأم","wazn":"استفعل","form":"X","tense":"imperative","voice":"active","person":"2mp","variant":1,"text":"اِسْتَشْئِمُوا"}
+{"id":"490_283","lemma":"اِسْتَشْأَمَ","root":"شأم","wazn":"استفعل","form":"X","tense":"imperative","voice":"active","person":"2fs","variant":1,"text":"اِسْتَشْئِمِي"}
+{"id":"490_283","lemma":"اِسْتَشْأَمَ","root":"شأم","wazn":"استفعل","form":"X","tense":"imperative","voice":"active","person":"2fp","variant":1,"text":"اِسْتَشْئِمْنَ"}
+{"id":"491_283","lemma":"اِسْتَثْأَرَ","root":"ثأر","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3ms","variant":1,"text":"اِسْتَثْأَرَ"}
+{"id":"491_283","lemma":"اِسْتَثْأَرَ","root":"ثأر","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3md","variant":1,"text":"اِسْتَثْأَرا"}
+{"id":"491_283","lemma":"اِسْتَثْأَرَ","root":"ثأر","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3mp","variant":1,"text":"اِسْتَثْأَرُوا"}
+{"id":"491_283","lemma":"اِسْتَثْأَرَ","root":"ثأر","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3fs","variant":1,"text":"اِسْتَثْأَرَتْ"}
+{"id":"491_283","lemma":"اِسْتَثْأَرَ","root":"ثأر","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3fd","variant":1,"text":"اِسْتَثْأَرَتَا"}
+{"id":"491_283","lemma":"اِسْتَثْأَرَ","root":"ثأر","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3fp","variant":1,"text":"اِسْتَثْأَرْنَ"}
+{"id":"491_283","lemma":"اِسْتَثْأَرَ","root":"ثأر","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"2ms","variant":1,"text":"اِسْتَثْأَرْتَ"}
+{"id":"491_283","lemma":"اِسْتَثْأَرَ","root":"ثأر","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"2d","variant":1,"text":"اِسْتَثْأَرْتُما"}
+{"id":"491_283","lemma":"اِسْتَثْأَرَ","root":"ثأر","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"2mp","variant":1,"text":"اِسْتَثْأَرْتُمْ"}
+{"id":"491_283","lemma":"اِسْتَثْأَرَ","root":"ثأر","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"2fs","variant":1,"text":"اِسْتَثْأَرْتِ"}
+{"id":"491_283","lemma":"اِسْتَثْأَرَ","root":"ثأر","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"2fp","variant":1,"text":"اِسْتَثْأَرْتُنَّ"}
+{"id":"491_283","lemma":"اِسْتَثْأَرَ","root":"ثأر","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"1s","variant":1,"text":"اِسْتَثْأَرْتُ"}
+{"id":"491_283","lemma":"اِسْتَثْأَرَ","root":"ثأر","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"1p","variant":1,"text":"اِسْتَثْأَرْنَا"}
+{"id":"491_283","lemma":"اِسْتَثْأَرَ","root":"ثأر","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3ms","variant":1,"text":"يَسْتَثْئِرُ"}
+{"id":"491_283","lemma":"اِسْتَثْأَرَ","root":"ثأر","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3md","variant":1,"text":"يَسْتَثْئِرانِ"}
+{"id":"491_283","lemma":"اِسْتَثْأَرَ","root":"ثأر","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3mp","variant":1,"text":"يَسْتَثْئِرونَ"}
+{"id":"491_283","lemma":"اِسْتَثْأَرَ","root":"ثأر","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3fs","variant":1,"text":"تَسْتَثْئِرُ"}
+{"id":"491_283","lemma":"اِسْتَثْأَرَ","root":"ثأر","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3fd","variant":1,"text":"تَسْتَثْئِرانِ"}
+{"id":"491_283","lemma":"اِسْتَثْأَرَ","root":"ثأر","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3fp","variant":1,"text":"يَسْتَثْئِرْنَ"}
+{"id":"491_283","lemma":"اِسْتَثْأَرَ","root":"ثأر","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"2ms","variant":1,"text":"تَسْتَثْئِرُ"}
+{"id":"491_283","lemma":"اِسْتَثْأَرَ","root":"ثأر","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"2d","variant":1,"text":"تَسْتَثْئِرانِ"}
+{"id":"491_283","lemma":"اِسْتَثْأَرَ","root":"ثأر","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"2mp","variant":1,"text":"تَسْتَثْئِرونَ"}
+{"id":"491_283","lemma":"اِسْتَثْأَرَ","root":"ثأر","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"2fs","variant":1,"text":"تَسْتَثْئِرينَ"}
+{"id":"491_283","lemma":"اِسْتَثْأَرَ","root":"ثأر","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"2fp","variant":1,"text":"تَسْتَثْئِرْنَ"}
+{"id":"491_283","lemma":"اِسْتَثْأَرَ","root":"ثأر","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"1s","variant":1,"text":"أَسْتَثْئِرُ"}
+{"id":"491_283","lemma":"اِسْتَثْأَرَ","root":"ثأر","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"1p","variant":1,"text":"نَسْتَثْئِرُ"}
+{"id":"491_283","lemma":"اِسْتَثْأَرَ","root":"ثأر","wazn":"استفعل","form":"X","tense":"imperative","voice":"active","person":"2ms","variant":1,"text":"اِسْتَثْئِرْ"}
+{"id":"491_283","lemma":"اِسْتَثْأَرَ","root":"ثأر","wazn":"استفعل","form":"X","tense":"imperative","voice":"active","person":"2d","variant":1,"text":"اِسْتَثْئِرا"}
+{"id":"491_283","lemma":"اِسْتَثْأَرَ","root":"ثأر","wazn":"استفعل","form":"X","tense":"imperative","voice":"active","person":"2mp","variant":1,"text":"اِسْتَثْئِرُوا"}
+{"id":"491_283","lemma":"اِسْتَثْأَرَ","root":"ثأر","wazn":"استفعل","form":"X","tense":"imperative","voice":"active","person":"2fs","variant":1,"text":"اِسْتَثْئِرِي"}
+{"id":"491_283","lemma":"اِسْتَثْأَرَ","root":"ثأر","wazn":"استفعل","form":"X","tense":"imperative","voice":"active","person":"2fp","variant":1,"text":"اِسْتَثْئِرْنَ"}
+{"id":"492_284","lemma":"اِسْتَقْرَأَ","root":"قرأ","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3ms","variant":1,"text":"اِسْتَقْرَأَ"}
+{"id":"492_284","lemma":"اِسْتَقْرَأَ","root":"قرأ","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3md","variant":1,"text":"اِسْتَقْرَآ"}
+{"id":"492_284","lemma":"اِسْتَقْرَأَ","root":"قرأ","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3mp","variant":1,"text":"اِسْتَقْرَؤُوا"}
+{"id":"492_284","lemma":"اِسْتَقْرَأَ","root":"قرأ","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3fs","variant":1,"text":"اِسْتَقْرَأَتْ"}
+{"id":"492_284","lemma":"اِسْتَقْرَأَ","root":"قرأ","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3fd","variant":1,"text":"اِسْتَقْرَأَتا"}
+{"id":"492_284","lemma":"اِسْتَقْرَأَ","root":"قرأ","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3fp","variant":1,"text":"اِسْتَقْرَأْنَ"}
+{"id":"492_284","lemma":"اِسْتَقْرَأَ","root":"قرأ","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"2ms","variant":1,"text":"اِسْتَقْرَأْتَ"}
+{"id":"492_284","lemma":"اِسْتَقْرَأَ","root":"قرأ","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"2d","variant":1,"text":"اِسْتَقْرَأْتُما"}
+{"id":"492_284","lemma":"اِسْتَقْرَأَ","root":"قرأ","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"2mp","variant":1,"text":"اِسْتَقْرَأْتُمْ"}
+{"id":"492_284","lemma":"اِسْتَقْرَأَ","root":"قرأ","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"2fs","variant":1,"text":"اِسْتَقْرَأْتِ"}
+{"id":"492_284","lemma":"اِسْتَقْرَأَ","root":"قرأ","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"2fp","variant":1,"text":"اِسْتَقْرَأْتُنَّ"}
+{"id":"492_284","lemma":"اِسْتَقْرَأَ","root":"قرأ","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"1s","variant":1,"text":"اِسْتَقْرَأْتُ"}
+{"id":"492_284","lemma":"اِسْتَقْرَأَ","root":"قرأ","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"1p","variant":1,"text":"اِسْتَقْرَأْنا"}
+{"id":"492_284","lemma":"اِسْتَقْرَأَ","root":"قرأ","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3ms","variant":1,"text":"يَسْتَقْرِئُ"}
+{"id":"492_284","lemma":"اِسْتَقْرَأَ","root":"قرأ","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3md","variant":1,"text":"يَسْتَقْرِئَانِ"}
+{"id":"492_284","lemma":"اِسْتَقْرَأَ","root":"قرأ","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3mp","variant":1,"text":"يَسْتَقْرِئُونَ"}
+{"id":"492_284","lemma":"اِسْتَقْرَأَ","root":"قرأ","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3fs","variant":1,"text":"تَسْتَقْرِئُ"}
+{"id":"492_284","lemma":"اِسْتَقْرَأَ","root":"قرأ","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3fd","variant":1,"text":"تَسْتَقْرِئَانِ"}
+{"id":"492_284","lemma":"اِسْتَقْرَأَ","root":"قرأ","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3fp","variant":1,"text":"يَسْتَقْرِئْنَ"}
+{"id":"492_284","lemma":"اِسْتَقْرَأَ","root":"قرأ","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"2ms","variant":1,"text":"تَسْتَقْرِئُ"}
+{"id":"492_284","lemma":"اِسْتَقْرَأَ","root":"قرأ","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"2d","variant":1,"text":"تَسْتَقْرِئَانِ"}
+{"id":"492_284","lemma":"اِسْتَقْرَأَ","root":"قرأ","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"2mp","variant":1,"text":"تَسْتَقْرِئُونَ"}
+{"id":"492_284","lemma":"اِسْتَقْرَأَ","root":"قرأ","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"2fs","variant":1,"text":"تَسْتَقْرِئِينَ"}
+{"id":"492_284","lemma":"اِسْتَقْرَأَ","root":"قرأ","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"2fp","variant":1,"text":"تَسْتَقْرِئْنَ"}
+{"id":"492_284","lemma":"اِسْتَقْرَأَ","root":"قرأ","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"1s","variant":1,"text":"أَسْتَقْرِئُ"}
+{"id":"492_284","lemma":"اِسْتَقْرَأَ","root":"قرأ","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"1p","variant":1,"text":"نَسْتَقْرِئُ"}
+{"id":"492_284","lemma":"اِسْتَقْرَأَ","root":"قرأ","wazn":"استفعل","form":"X","tense":"imperative","voice":"active","person":"2ms","variant":1,"text":"اِسْتَقْرِئْ"}
+{"id":"492_284","lemma":"اِسْتَقْرَأَ","root":"قرأ","wazn":"استفعل","form":"X","tense":"imperative","voice":"active","person":"2d","variant":1,"text":"اِسْتَقْرِئَا"}
+{"id":"492_284","lemma":"اِسْتَقْرَأَ","root":"قرأ","wazn":"استفعل","form":"X","tense":"imperative","voice":"active","person":"2mp","variant":1,"text":"اِسْتَقْرِئُوا"}
+{"id":"492_284","lemma":"اِسْتَقْرَأَ","root":"قرأ","wazn":"استفعل","form":"X","tense":"imperative","voice":"active","person":"2fs","variant":1,"text":"اِسْتَقْرِئي"}
+{"id":"492_284","lemma":"اِسْتَقْرَأَ","root":"قرأ","wazn":"استفعل","form":"X","tense":"imperative","voice":"active","person":"2fp","variant":1,"text":"اِسْتَقْرِئْنَ"}
+{"id":"493_284","lemma":"اِسْتَنْبَأَ","root":"نبأ","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3ms","variant":1,"text":"اِسْتَنْبَأَ"}
+{"id":"493_284","lemma":"اِسْتَنْبَأَ","root":"نبأ","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3md","variant":1,"text":"اِسْتَنْبَآ"}
+{"id":"493_284","lemma":"اِسْتَنْبَأَ","root":"نبأ","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3mp","variant":1,"text":"اِسْتَنْبَؤُوا"}
+{"id":"493_284","lemma":"اِسْتَنْبَأَ","root":"نبأ","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3fs","variant":1,"text":"اِسْتَنْبَأَتْ"}
+{"id":"493_284","lemma":"اِسْتَنْبَأَ","root":"نبأ","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3fd","variant":1,"text":"اِسْتَنْبَأَتَا"}
+{"id":"493_284","lemma":"اِسْتَنْبَأَ","root":"نبأ","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"3fp","variant":1,"text":"اِسْتَنْبَأْنَ"}
+{"id":"493_284","lemma":"اِسْتَنْبَأَ","root":"نبأ","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"2ms","variant":1,"text":"اِسْتَنْبَأْتَ"}
+{"id":"493_284","lemma":"اِسْتَنْبَأَ","root":"نبأ","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"2d","variant":1,"text":"اِسْتَنْبَأْتُما"}
+{"id":"493_284","lemma":"اِسْتَنْبَأَ","root":"نبأ","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"2mp","variant":1,"text":"اِسْتَنْبَأْتُمْ"}
+{"id":"493_284","lemma":"اِسْتَنْبَأَ","root":"نبأ","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"2fs","variant":1,"text":"اِسْتَنْبَأْتِ"}
+{"id":"493_284","lemma":"اِسْتَنْبَأَ","root":"نبأ","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"2fp","variant":1,"text":"اِسْتَنْبَأْتُنَّ"}
+{"id":"493_284","lemma":"اِسْتَنْبَأَ","root":"نبأ","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"1s","variant":1,"text":"اِسْتَنْبَأْتُ"}
+{"id":"493_284","lemma":"اِسْتَنْبَأَ","root":"نبأ","wazn":"استفعل","form":"X","tense":"past","voice":"active","person":"1p","variant":1,"text":"اِسْتَنْبَأْنا"}
+{"id":"493_284","lemma":"اِسْتَنْبَأَ","root":"نبأ","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3ms","variant":1,"text":"يَسْتَنْبِئُ"}
+{"id":"493_284","lemma":"اِسْتَنْبَأَ","root":"نبأ","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3md","variant":1,"text":"يَسْتَنْبِئَانِ"}
+{"id":"493_284","lemma":"اِسْتَنْبَأَ","root":"نبأ","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3mp","variant":1,"text":"يَسْتَنْبِئُونَ"}
+{"id":"493_284","lemma":"اِسْتَنْبَأَ","root":"نبأ","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3fs","variant":1,"text":"تَسْتَنْبِئُ"}
+{"id":"493_284","lemma":"اِسْتَنْبَأَ","root":"نبأ","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3fd","variant":1,"text":"تَسْتَنْبِئَانِ"}
+{"id":"493_284","lemma":"اِسْتَنْبَأَ","root":"نبأ","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"3fp","variant":1,"text":"يَسْتَنْبِئْنَ"}
+{"id":"493_284","lemma":"اِسْتَنْبَأَ","root":"نبأ","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"2ms","variant":1,"text":"تَسْتَنْبِئُ"}
+{"id":"493_284","lemma":"اِسْتَنْبَأَ","root":"نبأ","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"2d","variant":1,"text":"تَسْتَنْبِئَانِ"}
+{"id":"493_284","lemma":"اِسْتَنْبَأَ","root":"نبأ","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"2mp","variant":1,"text":"تَسْتَنْبِئُونَ"}
+{"id":"493_284","lemma":"اِسْتَنْبَأَ","root":"نبأ","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"2fs","variant":1,"text":"تَسْتَنْبِئينَ"}
+{"id":"493_284","lemma":"اِسْتَنْبَأَ","root":"نبأ","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"2fp","variant":1,"text":"تَسْتَنْبِئْنَ"}
+{"id":"493_284","lemma":"اِسْتَنْبَأَ","root":"نبأ","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"1s","variant":1,"text":"أَسْتَنْبِئُ"}
+{"id":"493_284","lemma":"اِسْتَنْبَأَ","root":"نبأ","wazn":"استفعل","form":"X","tense":"indicative","voice":"active","person":"1p","variant":1,"text":"نَسْتَنْبِئُ"}
+{"id":"493_284","lemma":"اِسْتَنْبَأَ","root":"نبأ","wazn":"استفعل","form":"X","tense":"imperative","voice":"active","person":"2ms","variant":1,"text":"اِسْتَنْبِئْ"}
+{"id":"493_284","lemma":"اِسْتَنْبَأَ","root":"نبأ","wazn":"استفعل","form":"X","tense":"imperative","voice":"active","person":"2d","variant":1,"text":"اِسْتَنْبِئَا"}
+{"id":"493_284","lemma":"اِسْتَنْبَأَ","root":"نبأ","wazn":"استفعل","form":"X","tense":"imperative","voice":"active","person":"2mp","variant":1,"text":"اِسْتَنْبِئُوا"}
+{"id":"493_284","lemma":"اِسْتَنْبَأَ","root":"نبأ","wazn":"استفعل","form":"X","tense":"imperative","voice":"active","person":"2fs","variant":1,"text":"اِسْتَنْبِئِي"}
+{"id":"493_284","lemma":"اِسْتَنْبَأَ","root":"نبأ","wazn":"استفعل","form":"X","tense":"imperative","voice":"active","person":"2fp","variant":1,"text":"اِسْتَنْبِئْنَ"}
+{"id":"494_156","lemma":"أَوِبَ","root":"أوب","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"3ms","variant":1,"text":"أَوِبَ"}
+{"id":"494_156","lemma":"أَوِبَ","root":"أوب","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"3md","variant":1,"text":"أَوِبَا"}
+{"id":"494_156","lemma":"أَوِبَ","root":"أوب","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"3mp","variant":1,"text":"أَوِبُوا"}
+{"id":"494_156","lemma":"أَوِبَ","root":"أوب","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"3fs","variant":1,"text":"أَوِبَتْ"}
+{"id":"494_156","lemma":"أَوِبَ","root":"أوب","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"3fd","variant":1,"text":"أَوِبَتا"}
+{"id":"494_156","lemma":"أَوِبَ","root":"أوب","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"3fp","variant":1,"text":"أَوِبْنَ"}
+{"id":"494_156","lemma":"أَوِبَ","root":"أوب","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"2ms","variant":1,"text":"أَوِبْتَ"}
+{"id":"494_156","lemma":"أَوِبَ","root":"أوب","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"2d","variant":1,"text":"أَوِبْتُما"}
+{"id":"494_156","lemma":"أَوِبَ","root":"أوب","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"2mp","variant":1,"text":"أَوِبْتُمْ"}
+{"id":"494_156","lemma":"أَوِبَ","root":"أوب","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"2fs","variant":1,"text":"أَوِبْتِ"}
+{"id":"494_156","lemma":"أَوِبَ","root":"أوب","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"2fp","variant":1,"text":"أَوِبْتُنَّ"}
+{"id":"494_156","lemma":"أَوِبَ","root":"أوب","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"1s","variant":1,"text":"أَوِبْتُ"}
+{"id":"494_156","lemma":"أَوِبَ","root":"أوب","wazn":"فعِل يفعَل","form":"I","tense":"past","voice":"active","person":"1p","variant":1,"text":"أَوِبْنا"}
+{"id":"494_156","lemma":"أَوِبَ","root":"أوب","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"3ms","variant":1,"text":"يَأْوَبُ"}
+{"id":"494_156","lemma":"أَوِبَ","root":"أوب","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"3md","variant":1,"text":"يَأْوَبانِ"}
+{"id":"494_156","lemma":"أَوِبَ","root":"أوب","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"3mp","variant":1,"text":"يَأْوَبُونَ"}
+{"id":"494_156","lemma":"أَوِبَ","root":"أوب","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"3fs","variant":1,"text":"تَأْوَبُ"}
+{"id":"494_156","lemma":"أَوِبَ","root":"أوب","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"3fd","variant":1,"text":"تَأْوَبانِ"}
+{"id":"494_156","lemma":"أَوِبَ","root":"أوب","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"3fp","variant":1,"text":"يَأْوَبْنَ"}
+{"id":"494_156","lemma":"أَوِبَ","root":"أوب","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"2ms","variant":1,"text":"تَأْوَبُ"}
+{"id":"494_156","lemma":"أَوِبَ","root":"أوب","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"2d","variant":1,"text":"تَأْوَبانِ"}
+{"id":"494_156","lemma":"أَوِبَ","root":"أوب","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"2mp","variant":1,"text":"تَأْوَبُونَ"}
+{"id":"494_156","lemma":"أَوِبَ","root":"أوب","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"2fs","variant":1,"text":"تَأْوَبِينَ"}
+{"id":"494_156","lemma":"أَوِبَ","root":"أوب","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"2fp","variant":1,"text":"تَأْوَبْنَ"}
+{"id":"494_156","lemma":"أَوِبَ","root":"أوب","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"1s","variant":1,"text":"آوَبُ"}
+{"id":"494_156","lemma":"أَوِبَ","root":"أوب","wazn":"فعِل يفعَل","form":"I","tense":"indicative","voice":"active","person":"1p","variant":1,"text":"نَأْوَبُ"}
+{"id":"494_156","lemma":"أَوِبَ","root":"أوب","wazn":"فعِل يفعَل","form":"I","tense":"imperative","voice":"active","person":"2ms","variant":1,"text":"اِئْوَبْ"}
+{"id":"494_156","lemma":"أَوِبَ","root":"أوب","wazn":"فعِل يفعَل","form":"I","tense":"imperative","voice":"active","person":"2d","variant":1,"text":"اِئْوَبَا"}
+{"id":"494_156","lemma":"أَوِبَ","root":"أوب","wazn":"فعِل يفعَل","form":"I","tense":"imperative","voice":"active","person":"2mp","variant":1,"text":"اِئْوَبُوا"}
+{"id":"494_156","lemma":"أَوِبَ","root":"أوب","wazn":"فعِل يفعَل","form":"I","tense":"imperative","voice":"active","person":"2fs","variant":1,"text":"اِئْوَبِي"}
+{"id":"494_156","lemma":"أَوِبَ","root":"أوب","wazn":"فعِل يفعَل","form":"I","tense":"imperative","voice":"active","person":"2fp","variant":1,"text":"اِئْوَبْنَ"}
+{"id":"495_266","lemma":"اِزْدَوَجَ","root":"زوج","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"3ms","variant":1,"text":"اِزْدَوَجَ"}
+{"id":"495_266","lemma":"اِزْدَوَجَ","root":"زوج","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"3md","variant":1,"text":"اِزْدَوَجا"}
+{"id":"495_266","lemma":"اِزْدَوَجَ","root":"زوج","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"3mp","variant":1,"text":"اِزْدَوَجُوا"}
+{"id":"495_266","lemma":"اِزْدَوَجَ","root":"زوج","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"3fs","variant":1,"text":"اِزْدَوَجَتْ"}
+{"id":"495_266","lemma":"اِزْدَوَجَ","root":"زوج","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"3fd","variant":1,"text":"اِزْدَوَجَتا"}
+{"id":"495_266","lemma":"اِزْدَوَجَ","root":"زوج","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"3fp","variant":1,"text":"اِزْدَوَجْنَ"}
+{"id":"495_266","lemma":"اِزْدَوَجَ","root":"زوج","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"2ms","variant":1,"text":"اِزْدَوَجْتَ"}
+{"id":"495_266","lemma":"اِزْدَوَجَ","root":"زوج","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"2d","variant":1,"text":"اِزْدَوَجْتُما"}
+{"id":"495_266","lemma":"اِزْدَوَجَ","root":"زوج","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"2mp","variant":1,"text":"اِزْدَوَجْتُمْ"}
+{"id":"495_266","lemma":"اِزْدَوَجَ","root":"زوج","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"2fs","variant":1,"text":"اِزْدَوَجْتِ"}
+{"id":"495_266","lemma":"اِزْدَوَجَ","root":"زوج","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"2fp","variant":1,"text":"اِزْدَوَجْتُنَّ"}
+{"id":"495_266","lemma":"اِزْدَوَجَ","root":"زوج","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"1s","variant":1,"text":"اِزْدَوَجْتُ"}
+{"id":"495_266","lemma":"اِزْدَوَجَ","root":"زوج","wazn":"افتعل","form":"VIII","tense":"past","voice":"active","person":"1p","variant":1,"text":"اِزْدَوَجْنا"}
+{"id":"495_266","lemma":"اِزْدَوَجَ","root":"زوج","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"3ms","variant":1,"text":"يَزْدَوِجُ"}
+{"id":"495_266","lemma":"اِزْدَوَجَ","root":"زوج","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"3md","variant":1,"text":"يَزْدَوِجانِ"}
+{"id":"495_266","lemma":"اِزْدَوَجَ","root":"زوج","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"3mp","variant":1,"text":"يَزْدَوِجونَ"}
+{"id":"495_266","lemma":"اِزْدَوَجَ","root":"زوج","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"3fs","variant":1,"text":"تَزْدَوِجُ"}
+{"id":"495_266","lemma":"اِزْدَوَجَ","root":"زوج","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"3fd","variant":1,"text":"تَزْدَوِجانِ"}
+{"id":"495_266","lemma":"اِزْدَوَجَ","root":"زوج","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"3fp","variant":1,"text":"يَزْدَوِجْنَ"}
+{"id":"495_266","lemma":"اِزْدَوَجَ","root":"زوج","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"2ms","variant":1,"text":"تَزْدَوِجُ"}
+{"id":"495_266","lemma":"اِزْدَوَجَ","root":"زوج","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"2d","variant":1,"text":"تَزْدَوِجانِ"}
+{"id":"495_266","lemma":"اِزْدَوَجَ","root":"زوج","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"2mp","variant":1,"text":"تَزْدَوِجونَ"}
+{"id":"495_266","lemma":"اِزْدَوَجَ","root":"زوج","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"2fs","variant":1,"text":"تَزْدَوِجينَ"}
+{"id":"495_266","lemma":"اِزْدَوَجَ","root":"زوج","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"2fp","variant":1,"text":"تَزْدَوِجْنَ"}
+{"id":"495_266","lemma":"اِزْدَوَجَ","root":"زوج","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"1s","variant":1,"text":"أَزْدَوِجُ"}
+{"id":"495_266","lemma":"اِزْدَوَجَ","root":"زوج","wazn":"افتعل","form":"VIII","tense":"indicative","voice":"active","person":"1p","variant":1,"text":"نَزْدَوِجُ"}
+{"id":"495_266","lemma":"اِزْدَوَجَ","root":"زوج","wazn":"افتعل","form":"VIII","tense":"imperative","voice":"active","person":"2ms","variant":1,"text":"اِزْدَوِجْ"}
+{"id":"495_266","lemma":"اِزْدَوَجَ","root":"زوج","wazn":"افتعل","form":"VIII","tense":"imperative","voice":"active","person":"2d","variant":1,"text":"اِزْدَوِجا"}
+{"id":"495_266","lemma":"اِزْدَوَجَ","root":"زوج","wazn":"افتعل","form":"VIII","tense":"imperative","voice":"active","person":"2mp","variant":1,"text":"اِزْدَوِجُوا"}
+{"id":"495_266","lemma":"اِزْدَوَجَ","root":"زوج","wazn":"افتعل","form":"VIII","tense":"imperative","voice":"active","person":"2fs","variant":1,"text":"اِزْدَوِجي"}
+{"id":"495_266","lemma":"اِزْدَوَجَ","root":"زوج","wazn":"افتعل","form":"VIII","tense":"imperative","voice":"active","person":"2fp","variant":1,"text":"اِزْدَوِجْنَ"}

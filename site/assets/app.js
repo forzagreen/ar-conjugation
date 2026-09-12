@@ -1,5 +1,5 @@
 // ar-conjugation browsing page: loads data/json/verbs.json and errata.json, lets the
-// reader search and filter the 462 paradigms, and shows one as the book prints it.
+// reader search and filter the 495 paradigms, and shows one as the book prints it.
 (function () {
   "use strict";
   var $ = function (s) { return document.querySelector(s); };

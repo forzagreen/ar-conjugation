@@ -7,7 +7,7 @@ repository that holds the transcription and the Lua module).
 
 Reads, from the source checkout:
 
-    tools/extraction/verified_models.json   the 462 hand-verified paradigms (forms as
+    tools/extraction/verified_models.json   the 495 hand-verified paradigms (forms as
                                             printed, 14 rows per tense, null = unread)
     fixtures/index.csv                      slug, model, flags, classification ids
     tools/extraction/underblock_forms.json  مصدر / اسم الفاعل / اسم المفعول under each table
@@ -206,6 +206,11 @@ def errata(records, accounted_nulls):
         ("053_158", "imp", "2fs"): "blank on the page (ink measured)",
         ("277_288", "imp", "2ms"): "blank on the page (ink measured)",
         ("365_414", "imp", "2ms"): "blank on the page (ink measured)",
+        ("474_156", "ind", "3md"): "the page prints the medial hamza uncontracted (يَشاءانِ) where the book's two other pages of the class print يَداآنِ / يَهاآنِ",
+        ("474_156", "ind", "3fd"): "the page prints the medial hamza uncontracted (تَشاءانِ) where the book's two other pages of the class print تَداآنِ / تَهاآنِ",
+        ("474_156", "ind", "2d"): "the page prints the medial hamza uncontracted (تَشاءانِ) where the book's two other pages of the class print تَداآنِ / تَهاآنِ",
+        ("478_217", "ind", "3fp"): "compositor slip: the page sets the 2fs form تُشائينَ in this cell",
+        ("467_121", "past", "1p"): "compositor slip: أَنَّنا, where the book's other final-nūn geminates print ظَنَنَّا / رَنَنَّا / جَنَّنَّا",
     }
     for slug, col, person in sorted(accounted_nulls):
         r = by_id[slug]

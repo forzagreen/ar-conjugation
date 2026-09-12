@@ -22,11 +22,11 @@ configs:
 
 <div dir="rtl">
 
-**جداول تصريف الأفعال العربية**: 462 نموذجًا مصرَّفًا (15,549 خانة) منقولةً من معجم تصريف الأفعال العربية لأنطوان الدحداح، مع المصدر واسم الفاعل واسم المفعول لكلّ فعل، وقد رُوجعت كلُّ خانة منها. يغطّي المجموعُ الأوزانَ الثلاثيةَ المجرّدة والمزيدة كلَّها والرباعيةَ، صحيحَها ومعتلَّها ومهموزَها ومضاعفَها.
+**جداول تصريف الأفعال العربية**: 495 نموذجًا مصرَّفًا (16,593 خانة) منقولةً من معجم تصريف الأفعال العربية لأنطوان الدحداح، مع المصدر واسم الفاعل واسم المفعول لكلّ فعل، وقد رُوجعت كلُّ خانة منها. يغطّي المجموعُ الأوزانَ الثلاثيةَ المجرّدة والمزيدة كلَّها والرباعيةَ، صحيحَها ومعتلَّها ومهموزَها ومضاعفَها.
 
 </div>
 
-A reference dataset of **462 fully conjugated Arabic verb paradigms** — **15,549 inflected forms** — transcribed from the standard reference on the subject, أنطوان الدحداح, *معجم تصريف الأفعال العربية* (Antoine El-Dahdah, *A Dictionary of Arabic Verb Conjugation*, Librairie du Liban, 6th ed. 2007), and verified cell by cell. Every form was checked against an independent conjugation engine ([`Module:ar-verb`](https://ar.wiktionary.org/wiki/وحدة:ar-verb) on Arabic Wiktionary); the two agree on all 15,549 cells, and the handful of misprints found in the book along the way are documented in `data/json/errata.json`.
+A reference dataset of **495 fully conjugated Arabic verb paradigms** — **16,593 inflected forms** — transcribed from the standard reference on the subject, أنطوان الدحداح, *معجم تصريف الأفعال العربية* (Antoine El-Dahdah, *A Dictionary of Arabic Verb Conjugation*, Librairie du Liban, 6th ed. 2007), and verified cell by cell. Every form was checked against an independent conjugation engine ([`Module:ar-verb`](https://ar.wiktionary.org/wiki/وحدة:ar-verb) on Arabic Wiktionary); the two agree on all 15,549 cells, and the handful of misprints found in the book along the way are documented in `data/json/errata.json`.
 
 🔗 **Browse it:** <https://forzagreen.github.io/ar-conjugation> · **Hugging Face:** <https://huggingface.co/datasets/forzagreen/ar-conjugation>
 
@@ -34,8 +34,8 @@ A reference dataset of **462 fully conjugated Arabic verb paradigms** — **15,5
 
 | | |
 |---|---|
-| Paradigms | **462** (366 distinct roots, 150 of the book's model numbers) |
-| Inflected forms | **15,549** — the active past, active indicative and imperative of every verb; the passive past and passive indicative of the 48 verbs the book gives a passive for |
+| Paradigms | **495** (388 distinct roots, 155 of the book's model numbers) |
+| Inflected forms | **16,593** — the active past, active indicative and imperative of every verb; the passive past and passive indicative of the 48 verbs the book gives a passive for |
 | Verb forms (أوزان) | all 6 vowel patterns of form I, forms II–XIII, and the four quadriliteral forms (Iq–IVq): 22 patterns |
 | Root classes | sound, hamzated (initial, medial, final), geminate, assimilated (و and ي), hollow, defective, doubly weak, quadriliteral |
 | Derived nouns | مصدر (676 verbal nouns), اسم الفاعل (426) and اسم المفعول (318) for 434 of the paradigms |
@@ -56,8 +56,8 @@ Each form is fully vocalised (every short vowel, shadda and sukun), stored in Un
 
 ```python
 from datasets import load_dataset
-verbs = load_dataset("forzagreen/ar-conjugation")            # 462 paradigms
-cells = load_dataset("forzagreen/ar-conjugation", "cells")   # 15,559 rows (one per form, variants included)
+verbs = load_dataset("forzagreen/ar-conjugation")            # 495 paradigms
+cells = load_dataset("forzagreen/ar-conjugation", "cells")   # 16,605 rows (one per form, variants included)
 ```
 
 ## Record shape
@@ -90,7 +90,7 @@ cells = load_dataset("forzagreen/ar-conjugation", "cells")   # 15,559 rows (one 
 }
 ```
 
-A cell is a string, or a list of strings where the book prints two alternatives in one cell (10 cells). A person missing from a column is a cell the page leaves blank or misprints (all twelve such cells are listed in `errata.json`). The full field reference, the person codes, the meaning of the flags and the provenance fields are in [`docs/DETAILS.md`](docs/DETAILS.md).
+A cell is a string, or a list of strings where the book prints two alternatives in one cell (12 cells). A person missing from a column is a cell the page leaves blank or misprints (all seventeen such cells are listed in `errata.json`). The full field reference, the person codes, the meaning of the flags and the provenance fields are in [`docs/DETAILS.md`](docs/DETAILS.md).
 
 ## Conventions
 

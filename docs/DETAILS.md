@@ -3,7 +3,7 @@
 ## Files
 
 ```
-data/json/verbs.json        462 records, the canonical form (pretty-printed, sorted as the book was read)
+data/json/verbs.json        495 records, the canonical form (pretty-printed, sorted as the book was read)
 data/jsonl/verbs.jsonl      the same records, one JSON object per line
 data/csv/conjugations.csv   one row per inflected form: id,lemma,root,wazn,form,tense,voice,person,variant,text
 data/jsonl/conjugations.jsonl  the same rows as JSON objects (the Hugging Face "cells" config)
@@ -53,7 +53,7 @@ Every string is Unicode NFC (so a vowel precedes a following shadda), contains o
 
 `errata.json` has three lists:
 
-- `deliberately_empty_cells` (12): cells the page prints but the dataset leaves out, each with its reason — six compositor slips where the page sets a neighbouring row's form, three where a page contradicts its own facing page of the same model, three genuinely blank (ink measured).
+- `deliberately_empty_cells` (17): cells the page prints but the dataset leaves out, each with its reason — six compositor slips where the page sets a neighbouring row's form, three where a page contradicts its own facing page of the same model, three genuinely blank (ink measured).
 - `corrected_misprints` (4): cells where the dataset departs from the printed page, with the printed form, the corrected one and why.
 - `printing_conventions` (7): spellings the book alternates between that are not differences of form.
 
