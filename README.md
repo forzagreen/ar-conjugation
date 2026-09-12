@@ -13,9 +13,9 @@ size_categories:
 - 10K<n<100K
 configs:
 - config_name: default
-  data_files: jsonl/verbs.jsonl
+  data_files: data/jsonl/verbs.jsonl
 - config_name: cells
-  data_files: csv/conjugations.csv
+  data_files: data/csv/conjugations.csv
 ---
 
 # ar-conjugation — Arabic verb conjugation tables
