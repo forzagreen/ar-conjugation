@@ -103,7 +103,7 @@ Only inflected forms and derived nouns — linguistic facts — are taken from t
 
 أنطوان الدحداح، **معجم تصريف الأفعال العربية، زائد بفهرس تصنيفي بالأفعال**، مكتبة لبنان ناشرون، الطبعة السادسة، 2007 (601 pp.), reviewed by د. جورج متري عبد المسيح. The first 25 paradigms were read from the 2nd edition (1995); the two editions' tables are the same text.
 
-The transcription, verification and the engine it was verified against live in [`ar-wiktionary-modules`](https://github.com/forzagreen/ar-wiktionary-modules); `scripts/build_dataset.py` rebuilds `data/` from that checkout.
+The transcription, its verification and the engine it was verified against are maintained in a private working repository; `scripts/build_dataset.py` rebuilds `data/` from a checkout of it.
 
 ## Citation
 

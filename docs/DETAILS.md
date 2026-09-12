@@ -10,7 +10,7 @@ data/csv/verbs.csv          one row per paradigm: id,lemma,root,wazn,form,past_v
                             reduced,root_type,verb_type,model,template,page,printed_page,masdar,
                             active_participle,passive_participle
 data/json/errata.json       corrected misprints, deliberately empty cells, printing conventions
-scripts/build_dataset.py    rebuilds data/ from an ar-wiktionary-modules checkout
+scripts/build_dataset.py    rebuilds data/ from a checkout of the private source repository
 scripts/validate.py         shape, counts, NFC, csv/json agreement (CI)
 scripts/push_hf.py          mirrors data/ + README to Hugging Face
 scripts/serve.py            serves site/ locally with data/ mounted as on GitHub Pages
@@ -59,7 +59,7 @@ Every string is Unicode NFC (so a vowel precedes a following shadda), contains o
 ## Rebuilding
 
 ```bash
-python3 scripts/build_dataset.py --source ../ar-wiktionary-modules
+python3 scripts/build_dataset.py --source /path/to/source-checkout   # or AR_CONJUGATION_SOURCE=...
 python3 scripts/validate.py
 python3 scripts/serve.py          # http://localhost:8000/
 HF_TOKEN=... uv run --with huggingface_hub scripts/push_hf.py

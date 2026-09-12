@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""Build data/ from the upstream ar-wiktionary-modules checkout.
+"""Build data/ from a checkout of the source repository (the private working
+repository that holds the transcription and the Lua module).
 
-    python3 scripts/build_dataset.py --source ../ar-wiktionary-modules
+    python3 scripts/build_dataset.py --source /path/to/source-checkout   # or AR_CONJUGATION_SOURCE=...
 
 Reads, from the source checkout:
 
@@ -300,9 +301,11 @@ def write_csvs(records):
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
-    ap.add_argument("--source", default=os.path.join(ROOT, "..", "ar-wiktionary-modules"),
-                    help="path to the ar-wiktionary-modules checkout")
+    ap.add_argument("--source", default=os.environ.get("AR_CONJUGATION_SOURCE"),
+                    help="path to the source checkout (or set AR_CONJUGATION_SOURCE)")
     args = ap.parse_args()
+    if not args.source:
+        ap.error("--source DIR is required (or set AR_CONJUGATION_SOURCE)")
     src = os.path.abspath(args.source)
     models, index, under, a_pages, b_pages, accounted_nulls = load_source(src)
     records = build_records(models, index, under, a_pages, b_pages)
