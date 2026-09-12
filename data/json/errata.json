@@ -1,0 +1,157 @@
+{
+ "_what": "What the dataset changes or leaves empty relative to the printed page, and the printing conventions a comparison should ignore. Every item is documented at length in the upstream fixtures/SOURCES.md.",
+ "deliberately_empty_cells": [
+  {
+   "id": "053_158",
+   "lemma": "وَنِيَ",
+   "column": "imp",
+   "person": "2fs",
+   "reason": "blank on the page (ink measured)"
+  },
+  {
+   "id": "261_264",
+   "lemma": "اِلْتَجَأَ",
+   "column": "ind",
+   "person": "2mp",
+   "reason": "the page contradicts its own page-mate (same model, facing page)"
+  },
+  {
+   "id": "261_264",
+   "lemma": "اِلْتَجَأَ",
+   "column": "ind",
+   "person": "3mp",
+   "reason": "the page contradicts its own page-mate (same model, facing page)"
+  },
+  {
+   "id": "263_269",
+   "lemma": "اِلْتَوَى",
+   "column": "ind",
+   "person": "3fp",
+   "reason": "the page contradicts its own page-mate (same model, facing page)"
+  },
+  {
+   "id": "277_288",
+   "lemma": "اِسْتَوْلَى",
+   "column": "imp",
+   "person": "2ms",
+   "reason": "blank on the page (ink measured)"
+  },
+  {
+   "id": "304_136",
+   "lemma": "جادَ",
+   "column": "past",
+   "person": "3fp",
+   "reason": "compositor slip: the page sets a neighbouring row's form in this cell"
+  },
+  {
+   "id": "309_147",
+   "lemma": "سَرُوَ",
+   "column": "ind",
+   "person": "3fp",
+   "reason": "compositor slip: the page sets a neighbouring row's form in this cell"
+  },
+  {
+   "id": "315_157",
+   "lemma": "سَخِيَ",
+   "column": "ind",
+   "person": "3fp",
+   "reason": "compositor slip: the page sets a neighbouring row's form in this cell"
+  },
+  {
+   "id": "317_157",
+   "lemma": "عَرِيَ",
+   "column": "ind",
+   "person": "3fp",
+   "reason": "compositor slip: the page sets a neighbouring row's form in this cell"
+  },
+  {
+   "id": "319_206",
+   "lemma": "فَيَّأَ",
+   "column": "ind",
+   "person": "3fp",
+   "reason": "compositor slip: the page sets a neighbouring row's form in this cell"
+  },
+  {
+   "id": "347_267",
+   "lemma": "اِقْتَضَى",
+   "column": "ind",
+   "person": "3fp",
+   "reason": "compositor slip: the page sets a neighbouring row's form in this cell"
+  },
+  {
+   "id": "365_414",
+   "lemma": "تَكَرْثَأَ",
+   "column": "imp",
+   "person": "2ms",
+   "reason": "blank on the page (ink measured)"
+  }
+ ],
+ "corrected_misprints": [
+  {
+   "id": "010_168",
+   "lemma": "وَلِيَ",
+   "column": "ind_pass",
+   "persons": "all",
+   "printed": "يُلَى / تُلَى …",
+   "corrected": "يُولَى / تُولَى …",
+   "reason": "the و is dropped throughout the passive non-past column; the book's own وَفَى page prints يُوفَى"
+  },
+  {
+   "id": "008_146",
+   "lemma": "هَيُؤَ",
+   "column": "past",
+   "persons": "3fp",
+   "printed": "هَيُؤْنا",
+   "corrected": "هَيُؤْنَ",
+   "reason": "byte-for-byte duplicate of the 1p cell; a 3fp past in ـنا is not valid morphology for any root"
+  },
+  {
+   "id": "026_111",
+   "lemma": "مَدَّ",
+   "column": "past_pass",
+   "persons": "2fp",
+   "printed": "مُدِدْتُنُّ",
+   "corrected": "مُدِدْتُنَّ",
+   "reason": "the active cell of the same page reads مَدَدْتُنَّ and no rule changes the suffix vowel between voices"
+  },
+  {
+   "id": "031_125",
+   "lemma": "وَصَلَ",
+   "column": "past_pass",
+   "persons": "3fs",
+   "printed": "وَصِلَتْ",
+   "corrected": "وُصِلَتْ",
+   "reason": "the 13 sibling cells of the column print damma on the فاء"
+  }
+ ],
+ "printing_conventions": [
+  {
+   "convention": "hamzat wasl written as bare alif or with the wasla sign",
+   "example": "اُكْتُبْ = ٱكْتُبْ"
+  },
+  {
+   "convention": "a hamza seat that already encodes the vowel may be printed without it",
+   "example": "إدْ = إِدْ (وأد, p.174)"
+  },
+  {
+   "convention": "a hamza with sukun after a damma: spelt out on a waw seat (تحقيق) or merged (تسهيل)",
+   "example": "أُؤْكَلُ = أُوكَلُ (أكل p.133, أله p.175, أصل p.195)"
+  },
+  {
+   "convention": "a hamza with sukun after a kasra-ed wasl alif: spelt on a ya seat or as ya",
+   "example": "اِئْثِرْ = إِيْثِرْ (أثر p.151)"
+  },
+  {
+   "convention": "the short vowel before its long counterpart may be written or left off",
+   "example": "فَعَلَا = فَعَلا, decided per page and per class (see upstream SOURCES.md)"
+  },
+  {
+   "convention": "a retained و or ي after its short vowel may carry an explicit sukun",
+   "example": "يُوْصَلُ = يُوصَلُ (وصل p.155), اِيْقَظْ = اِيقَظْ (يقظ p.222)"
+  },
+  {
+   "convention": "a final sukun may be omitted",
+   "example": "يَفْعَلْ = يَفْعَل"
+  }
+ ]
+}

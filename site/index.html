@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ar-verbs — جداول تصريف الأفعال العربية</title>
+  <meta name="description" content="462 نموذجًا مصرَّفًا من معجم تصريف الأفعال العربية، 15٬549 صيغة مضبوطة بالشكل، قابلة للتصفّح والتنزيل." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Scheherazade+New:wght@400;700&family=Noto+Naskh+Arabic:wght@400;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+  <header class="top">
+    <div class="wrap">
+      <h1>جداول تصريف الأفعال العربية <span class="latin">ar-verbs</span></h1>
+      <p class="sub"><b id="n-paradigms">462</b> نموذجًا · <b id="n-cells">15٬549</b> صيغة · من <i>معجم تصريف الأفعال العربية</i> لأنطوان الدحداح، وقد رُوجعت كلُّ خانة</p>
+      <nav class="links">
+        <a href="https://github.com/forzagreen/ar-verbs">GitHub</a>
+        <a href="https://huggingface.co/datasets/forzagreen/ar-verbs">Hugging Face</a>
+        <a href="data/json/verbs.json" download>JSON</a>
+        <a href="data/jsonl/verbs.jsonl" download>JSONL</a>
+        <a href="data/csv/conjugations.csv" download>CSV</a>
+        <button id="theme" type="button" title="السمة">◐</button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap layout">
+    <aside class="side">
+      <input id="q" type="search" placeholder="ابحث بالجذر أو الفعل أو الوزن…" autocomplete="off" />
+      <div class="chips" id="forms"></div>
+      <div class="chips" id="classes"></div>
+      <p class="count" id="count"></p>
+      <ol class="list" id="list"></ol>
+    </aside>
+    <section class="detail" id="detail">
+      <p class="hint">اختر فعلًا من القائمة، أو ابحث. كلُّ ما في الجدول منقولٌ من الكتاب بحرفه.</p>
+    </section>
+  </main>
+
+  <footer class="wrap foot">
+    <p>المصدر: أنطوان الدحداح، <i>معجم تصريف الأفعال العربية</i>، مكتبة لبنان ناشرون، ط6، 2007. الصيغُ وحدَها منقولةٌ من الكتاب؛ لا شيءَ من نثره أو صوره. التفاصيل التقنية في <a href="https://github.com/forzagreen/ar-verbs/blob/main/docs/DETAILS.md">DETAILS.md</a>.</p>
+  </footer>
+  <script src="assets/app.js"></script>
+</body>
+</html>
