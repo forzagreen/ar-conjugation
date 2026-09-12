@@ -1,6 +1,7 @@
 ---
 language:
 - ar
+license: cc-by-4.0
 pretty_name: Arabic verb conjugation tables (ar-conjugation)
 tags:
 - arabic
@@ -114,3 +115,7 @@ The transcription, verification and the engine it was verified against live in [
   url    = {https://github.com/forzagreen/ar-conjugation}
 }
 ```
+
+## Licence
+
+© 2026 Wael Tellat. The dataset, the scripts and the site are released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); see [LICENSE.md](LICENSE.md).
