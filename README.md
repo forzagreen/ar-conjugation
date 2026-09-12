@@ -107,7 +107,7 @@ The transcription, verification and the engine it was verified against live in [
 ## Citation
 
 ```bibtex
-@misc{arverbs2026,
+@misc{arconjugation2026,
   title  = {ar-conjugation: Arabic verb conjugation tables},
   author = {Tellat, Wael},
   year   = {2026},
