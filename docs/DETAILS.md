@@ -6,6 +6,7 @@
 data/json/verbs.json        462 records, the canonical form (pretty-printed, sorted as the book was read)
 data/jsonl/verbs.jsonl      the same records, one JSON object per line
 data/csv/conjugations.csv   one row per inflected form: id,lemma,root,wazn,form,tense,voice,person,variant,text
+data/jsonl/conjugations.jsonl  the same rows as JSON objects (the Hugging Face "cells" config)
 data/csv/verbs.csv          one row per paradigm: id,lemma,root,wazn,form,past_vowel,nonpast_vowel,full_passive,
                             reduced,root_type,verb_type,model,template,page,printed_page,masdar,
                             active_participle,passive_participle

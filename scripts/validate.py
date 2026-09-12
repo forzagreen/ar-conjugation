@@ -105,6 +105,10 @@ def main():
         seen.add((r["id"], col, r["person"]))
     check(mism == 0, "conjugations.csv agrees with verbs.json cell by cell", "%d mismatches" % mism)
     check(len(seen) == cells, "conjugations.csv covers every cell", "%d of %d" % (len(seen), cells))
+    with open(os.path.join(DATA, "jsonl", "conjugations.jsonl"), encoding="utf-8") as f:
+        flat = [json.loads(line) for line in f if line.strip()]
+    check([{k: str(v) for k, v in d.items()} for d in flat] == rows,
+          "conjugations.jsonl is conjugations.csv row by row")
 
     with open(os.path.join(DATA, "csv", "verbs.csv"), encoding="utf-8") as f:
         vrows = list(csv.DictReader(f))

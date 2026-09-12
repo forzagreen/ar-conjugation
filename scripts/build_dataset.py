@@ -16,7 +16,7 @@ Reads, from the source checkout:
     tests/python/test_corpus_coverage.py    ACCOUNTED_NULLS, the deliberately empty cells
 
 and writes data/json/verbs.json, data/jsonl/verbs.jsonl, data/csv/verbs.csv,
-data/csv/conjugations.csv and data/json/errata.json. Deterministic: same input,
+data/csv/conjugations.csv, data/jsonl/conjugations.jsonl and data/json/errata.json. Deterministic: same input,
 same bytes. Every string is NFC.
 """
 import argparse
@@ -279,9 +279,11 @@ def write_csvs(records):
                         " ، ".join(d.get("masdar") or []), d.get("active_participle") or "",
                         d.get("passive_participle") or ""])
     n = 0
+    header = ["id", "lemma", "root", "wazn", "form", "tense", "voice", "person", "variant", "text"]
+    flat = []
     with open(os.path.join(ROOT, "data", "csv", "conjugations.csv"), "w", encoding="utf-8", newline="") as f:
         w = csv.writer(f, lineterminator="\n")
-        w.writerow(["id", "lemma", "root", "wazn", "form", "tense", "voice", "person", "variant", "text"])
+        w.writerow(header)
         for r in records:
             for col in COLUMNS:
                 cells = r["conjugation"][col]
@@ -293,9 +295,13 @@ def write_csvs(records):
                         continue
                     vals = cells[person]
                     for i, text in enumerate(vals if isinstance(vals, list) else [vals], 1):
-                        w.writerow([r["id"], r["lemma"], r["root"], r["wazn"], r["form"], tense, voice,
-                                    person, i, text])
+                        row = [r["id"], r["lemma"], r["root"], r["wazn"], r["form"], tense, voice, person, i, text]
+                        w.writerow(row)
+                        flat.append(dict(zip(header, row)))
                         n += 1
+    # the same table as JSON Lines: the Hugging Face viewer reads every config with one
+    # builder, so the "cells" config cannot be CSV next to a JSON Lines default
+    write_jsonl(os.path.join(ROOT, "data", "jsonl", "conjugations.jsonl"), flat)
     return n
 
 

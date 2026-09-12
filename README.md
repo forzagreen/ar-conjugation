@@ -15,7 +15,7 @@ configs:
 - config_name: default
   data_files: data/jsonl/verbs.jsonl
 - config_name: cells
-  data_files: data/csv/conjugations.csv
+  data_files: data/jsonl/conjugations.jsonl
 ---
 
 # ar-conjugation — Arabic verb conjugation tables
@@ -50,6 +50,7 @@ Each form is fully vocalised (every short vowel, shadda and sukun), stored in Un
 | JSON | [`data/json/verbs.json`](data/json/verbs.json) | one nested record per paradigm (canonical) |
 | JSON Lines | [`data/jsonl/verbs.jsonl`](data/jsonl/verbs.jsonl) | same records, one per line |
 | CSV | [`data/csv/conjugations.csv`](data/csv/conjugations.csv) | one row per inflected form |
+| JSON Lines | [`data/jsonl/conjugations.jsonl`](data/jsonl/conjugations.jsonl) | the same rows as objects |
 | CSV | [`data/csv/verbs.csv`](data/csv/verbs.csv) | one row per paradigm: metadata, lemma, derived nouns |
 | JSON | [`data/json/errata.json`](data/json/errata.json) | corrected misprints, deliberately empty cells, printing conventions |
 
